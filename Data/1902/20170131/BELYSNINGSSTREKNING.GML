@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:fme="http://www.safe.com/gml/fme" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.safe.com/gml/fme BELYSNINGSSTREKNING.xsd">
+<gml:boundedBy>
+<gml:Envelope srsName="EPSG:25833" srsDimension="2">
+<gml:lowerCorner>654616.299804688 7731001.359375</gml:lowerCorner>
+<gml:upperCorner>654935.368041992 7731367.9519043</gml:upperCorner>
+</gml:Envelope>
+</gml:boundedBy>
+<gml:featureMember>
+<fme:Belysningsstrekning gml:id="id14e3fe65-f786-42b1-bd7f-98da93f812ab">
+<fme:OBJTYPE>Belysningsstrekning</fme:OBJTYPE>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20160928</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>belPktEnSideAvVeg</fme:NVDB_TYPE>
+<fme:NVDB_FJERNSTYRING>nei</fme:NVDB_FJERNSTYRING>
+<fme:GEOMETRITYPE>3</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20160928</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170209</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<gml:curveProperty>
+<gml:LineString srsName="EPSG:25833" srsDimension="2">
+<gml:posList>654935.368041992 7731367.9519043 654902.509155273 7731343.77783203 654883.609863281 7731316.76171875 654835.129882813 7731262.109375 654818.270019531 7731242.9609375 654785.799804688 7731206.96875 654749.600097656 7731167.33984375 654732.080078125 7731148.15002441 654699.122070313 7731127.21875 654685.779785156 7731089.5703125 654662.632324219 7731061.76953125 654638.419921875 7731030.23828125 654616.299804688 7731001.359375</gml:posList>
+</gml:LineString>
+</gml:curveProperty>
+</fme:Belysningsstrekning>
+</gml:featureMember>
+</gml:FeatureCollection>

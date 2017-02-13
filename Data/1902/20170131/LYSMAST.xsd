@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns:fme="http://www.safe.com/gml/fme" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.safe.com/gml/fme" elementFormDefault="qualified">
+<import namespace="http://www.opengis.net/gml" schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/gml.xsd"/>
+<element name="Lysmast" type="fme:LysmastType" substitutionGroup="gml:_Feature"/>
+<complexType name="LysmastType">
+<complexContent>
+<extension base="gml:AbstractFeatureType">
+<sequence>
+<element name="DATAFANGSTDATO" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="20"/>
+</restriction>
+</simpleType></element>
+<element name="OBJTYPE" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="32"/>
+</restriction>
+</simpleType></element>
+<element name="ENDRINGSFLAGG" minOccurs="0">
+<complexType>
+<sequence>
+<element name="ENDRET_TID" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="20"/>
+</restriction>
+</simpleType></element>
+<element name="ENDRET_TYPE" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="1"/>
+</restriction>
+</simpleType></element>
+</sequence>
+</complexType>
+</element>
+<element name="NVDB_TYPE" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="5"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_VEDLIKEHOLDSANSVARLIG" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_EIER" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_BYGGEÅR" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="GEOMETRITYPE" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="KOMM" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_TOTALMASTELENGDE" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="OPPDATERINGSDATO" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="20"/>
+</restriction>
+</simpleType></element>
+<element name="KVALITET" minOccurs="0">
+<complexType>
+<sequence>
+<element name="MÅLEMETODE" minOccurs="0" type="short"/>
+<element name="SYNBARHET" minOccurs="0" type="short"/>
+</sequence>
+</complexType>
+</element>
+<element name="HREF" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="6"/>
+</restriction>
+</simpleType></element>
+<element name="PTEMA" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_EIERNAVN" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="5"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_FUNDAMENTERING" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_PRODUKTNAVN" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="5"/>
+</restriction>
+</simpleType></element>
+<element ref="gml:pointProperty" minOccurs="0"/>
+<element ref="gml:multiPointProperty" minOccurs="0"/>
+</sequence>
+</extension>
+</complexContent>
+</complexType>
+</schema>

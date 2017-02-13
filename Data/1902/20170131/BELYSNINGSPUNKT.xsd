@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns:fme="http://www.safe.com/gml/fme" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.safe.com/gml/fme" elementFormDefault="qualified">
+<import namespace="http://www.opengis.net/gml" schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/gml.xsd"/>
+<element name="Belysningspunkt" type="fme:BelysningspunktType" substitutionGroup="gml:_Feature"/>
+<complexType name="BelysningspunktType">
+<complexContent>
+<extension base="gml:AbstractFeatureType">
+<sequence>
+<element name="OBJTYPE" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="32"/>
+</restriction>
+</simpleType></element>
+<element name="ENDRINGSFLAGG" minOccurs="0">
+<complexType>
+<sequence>
+<element name="ENDRET_TYPE" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="1"/>
+</restriction>
+</simpleType></element>
+<element name="ENDRET_TID" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="20"/>
+</restriction>
+</simpleType></element>
+</sequence>
+</complexType>
+</element>
+<element name="NVDB_BRUKSOMRÅDE" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="5"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_PLASSERING" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="5"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_STRØMTILFØRSELKATEGORI" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_TILSTANDSKADEBELYSNING" minOccurs="0">
+<complexType>
+<sequence>
+<element name="NVDB_TILSTAND" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+</sequence>
+</complexType>
+</element>
+<element name="GEOMETRITYPE" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_EIER" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_VEDLIKEHOLDSANSVARLIG" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_EIERNAVN" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="5"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_TILSTANDSKADEFUPUNKT" minOccurs="0">
+<complexType>
+<sequence>
+<element name="NVDB_ETTERSLEP" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+</sequence>
+</complexType>
+</element>
+<element name="DATAFANGSTDATO" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="20"/>
+</restriction>
+</simpleType></element>
+<element name="OPPDATERINGSDATO" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="20"/>
+</restriction>
+</simpleType></element>
+<element name="KVALITET" minOccurs="0">
+<complexType>
+<sequence>
+<element name="MÅLEMETODE" minOccurs="0" type="short"/>
+<element name="NØYAKTIGHET" minOccurs="0" type="int"/>
+<element name="SYNBARHET" minOccurs="0" type="short"/>
+</sequence>
+</complexType>
+</element>
+<element name="PTEMA" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="KOMM" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_ANTALL" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element name="NVDB_OVERBELASTNINGSVERN" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="4"/>
+</restriction>
+</simpleType></element>
+<element ref="gml:pointProperty" minOccurs="0"/>
+<element ref="gml:multiPointProperty" minOccurs="0"/>
+</sequence>
+</extension>
+</complexContent>
+</complexType>
+</schema>

@@ -1,0 +1,775 @@
+2017-02-09 15:13:19|   0.2|  0.2|INFORM|FME 2016.1.0.0 Beta (20160329 - Build 16481 - WIN64)
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME2016.1\64\'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME ESRI Edition (node locked-crc)
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Serial Number: S0601A0917
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Permanent License.
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Machine host name is: SVV-55247
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|START - ProcessID: 7232, peak process memory usage: 39976 kB, current process memory usage: 39976 kB
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME2016.1\64\fme.exe' `C:/DATA/GLA/FMW\wb-xlate-1486649597831_7008' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{dd5821a6-cd1a-4020-8039-ebcc766757ea}' `DEBUG_PORT' `53603'
+2017-02-09 15:13:19|   0.2|  0.1|INFORM|Shared folders for formats are : C:\Program Files\FME2016.1\64\datasources;C:\Users\knjetl\AppData\Roaming\Safe Software\FME\FME Store\Formats;\\SVV1P04AUSER01\KNJETL$\documents\FME\Formats
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Shared folders for transformers are : C:\Program Files\FME2016.1\64\transformers;C:\Users\knjetl\AppData\Roaming\Safe Software\FME\FME Store\Transformers;\\SVV1P04AUSER01\KNJETL$\documents\FME\Transformers
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Shared folders for coordinate systems are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystems
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Shared folders for coordinate system exceptions are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystemExceptions
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Shared folders for coordinate system grid overrides are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystemGridOverrides
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CsmapTransformationExceptions
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Shared folders for transformer categories are : \\SVV1P04AUSER01\KNJETL$\documents\FME\TransformerCategories
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: Reader Keyword is `GML_1'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: Reader type is `GML'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: Current working folder is `C:\DATA\GLA\FMW'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\knjetl\AppData\Local\Temp'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME2016.1\64\'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\DATA\GLA\FMW/'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'QUADRIgml2none.fmw'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2016.1.0.0'
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|System Status: 192.86 GB of disk space available in the FME temporary folder (C:\Users\knjetl\AppData\Local\Temp)
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|System Status: 8.00 TB of virtual memory available
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Operating System: Microsoft Windows 7 64-bit Service Pack 1 (Build 7601)
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Platform: WIN64
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Locale: nb_NO
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Code Page: 1252  (ANSI - latin I)
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: Process limits are 31.91 GB of physical memory and 8.00 TB of address space
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 95.72 GB of memory or 8.00 TB of address space
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 71.79 GB of memory and 6.00 TB of address space
+2017-02-09 15:13:19|   0.2|  0.0|INFORM|Creating writer for format: 
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|FME Configuration: Reading 4 dataset(s) with GML reader identified by GML_1
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|Creating reader for format: GML (Geography Markup Language)
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|MULTI_READER(GML_1): Will continue past member reader failures
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|MULTI_READER(GML_1): Adding GML Reader with keyword GML_1
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|Using Multi Reader $Revision$ ( $Date$ ) with keyword `GML_1' to read multiple datasets
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|Creating reader for format: GML (Geography Markup Language)
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GML'
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|Loaded module 'GML' from file 'C:\Program Files\FME2016.1\64\plugins/GML.dll'
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|FME API version of module 'GML' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|Using MultiWriter $Revision$ ( $Date$ ) with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME2016.1\64\plugins/LogCount_func.dll'
+2017-02-09 15:13:19|   0.3|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|Creating writer for format: FME Feature Store (FFS)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|Loaded module 'BreakpointFactory' from file 'C:\Program Files\FME2016.1\64\plugins/BreakpointFactory.dll'
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|Feature Inspection module initialized. Workbench@53603 and FME@53748
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|... Last line repeated 12 times ...
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|Loaded module 'Geometry_func' from file 'C:\Program Files\FME2016.1\64\plugins/Geometry_func.dll'
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|Loaded module 'SnappingFactory' from file 'C:\Program Files\FME2016.1\64\plugins/SnappingFactory.dll'
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'SnappingFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|... Last line repeated 6 times ...
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|Loaded module 'HTTPFactory' from file 'C:\Program Files\FME2016.1\64\plugins/HTTPFactory.dll'
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'HTTPFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|Loaded module 'XFMapFactory' from file 'C:\Program Files\FME2016.1\64\plugins/XFMapFactory.dll'
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|... Last line repeated 3 times ...
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'HTTPFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|... Last line repeated 2 times ...
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.4|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.5|  0.0|INFORM|... Last line repeated 3 times ...
+2017-02-09 15:13:19|   0.5|  0.0|INFORM|Loaded module 'UUID_func' from file 'C:\Program Files\FME2016.1\64\plugins/UUID_func.dll'
+2017-02-09 15:13:19|   0.5|  0.0|INFORM|FME API version of module 'UUID_func' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.5|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.5|  0.0|INFORM|... Last line repeated 8 times ...
+2017-02-09 15:13:19|   0.5|  0.0|INFORM|Loaded module 'PythonFactory' from file 'C:\Program Files\FME2016.1\64\plugins/PythonFactory.dll'
+2017-02-09 15:13:19|   0.5|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:19|   0.5|  0.0|INFORM|Using FME's provided Python interpreter from `C:\Program Files\FME2016.1\64\fmepython27\python27.dll'
+2017-02-09 15:13:19|   0.5|  0.0|INFORM|Python version 2.7 loaded successfully
+2017-02-09 15:13:20|   0.6|  0.1|INFORM|Adding folder `C:\DATA\GLA\FMW\' to the python path
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|... Last line repeated 9 times ...
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|Loaded module 'XMLTemplaterFactory' from file 'C:\Program Files\FME2016.1\64\plugins/XMLTemplaterFactory.dll'
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|FME API version of module 'XMLTemplaterFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|... Last line repeated 11 times ...
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|FME API version of module 'XMLTemplaterFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|... Last line repeated 3 times ...
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|FME API version of module 'XMLTemplaterFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|... Last line repeated 4 times ...
+2017-02-09 15:13:20|   0.6|  0.0|INFORM|FME API version of module 'XMLTemplaterFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|... Last line repeated 5 times ...
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|FME API version of module 'XMLTemplaterFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|... Last line repeated 2 times ...
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|Loaded module 'XMLFormatterFactory' from file 'C:\Program Files\FME2016.1\64\plugins/XMLFormatterFactory.dll'
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|FME API version of module 'XMLFormatterFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|URI 'BELYSNINGSPUNKT.xsd' mapped to 'file:///C:/DATA/GLA/Data/1902/20170131/BELYSNINGSPUNKT.xsd'
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|Parsing schema document 'file:///C:/DATA/GLA/Data/1902/20170131/BELYSNINGSPUNKT.xsd' ...
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from 'http://schemas.opengis.net/gml/3.1.0/xlink/xlinks.xsd' to 'xlink.xsd'
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from 'http://schemas.opengis.net/gml/3.1.0/xlink/xlinks.xsd' to 'xlink.xsd'
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|<GML_1 Reader> - Using the current GML 3.2.1 reader to read v3.1.1 and v2.1.2 documents.
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|<GML_1 Reader> - Map Embedded Object as: 'ATTRIBUTES'
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|<GML_1 Reader> - Map Predefined Properties: 'NO'
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|<GML_1 Reader> - Map All Substitutable Properties: 'YES'
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|<GML_1 Reader> - Map Complex Properties as: 'NESTED_ATTRIBUTES'
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|<GML_1 Reader> - Add XML Namespace Prefix to: 'UNSET'
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|<GML_1 Reader> - Limit Number of Lists in Nested Attributes: 'UNSET'
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|Using XSD semantics configuration file 'file:///C:/Program Files/FME2016.1/64/xml/gml_v3.2/gml_config.xml'.
+2017-02-09 15:13:20|   0.7|  0.0|INFORM|Pre-processing xfMap 'C:\Users\knjetl\AppData\Local\Temp\XFMAP_AUTOGEN1486649600237_7232.xml' with macro stylesheet 'C:\Program Files\FME2016.1\64\xfmap\xfmap_macro.xslt' into 'C:\Users\knjetl\AppData\Local\Temp\NOMACRO_XFMAP_1486649600246_7232.xml'
+2017-02-09 15:13:20|   0.8|  0.0|INFORM|The XML Reader is using xfMap 'C:\Users\knjetl\AppData\Local\Temp\NOMACRO_XFMAP_1486649600246_7232.xml'
+2017-02-09 15:13:20|   1.0|  0.2|INFORM|FME Configuration: Source coordinate system for reader GML_1[GML] set to `EPSG:25833' as read from input data
+2017-02-09 15:13:20|   1.0|  0.0|INFORM|Coordinate System `EPSG:25833' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2017-02-09 15:13:20|   1.0|  0.1|INFORM|Creating reader for format: GML (Geography Markup Language)
+2017-02-09 15:13:20|   1.0|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GML'
+2017-02-09 15:13:20|   1.0|  0.0|INFORM|FME API version of module 'GML' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   1.0|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
+2017-02-09 15:13:20|   1.0|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
+2017-02-09 15:13:20|   1.0|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
+2017-02-09 15:13:20|   1.0|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
+2017-02-09 15:13:20|   1.0|  0.0|INFORM|URI 'BELYSNINGSSTREKNING.xsd' mapped to 'file:///C:/DATA/GLA/Data/1902/20170131/BELYSNINGSSTREKNING.xsd'
+2017-02-09 15:13:20|   1.0|  0.0|INFORM|Parsing schema document 'file:///C:/DATA/GLA/Data/1902/20170131/BELYSNINGSSTREKNING.xsd' ...
+2017-02-09 15:13:20|   1.0|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from 'http://schemas.opengis.net/gml/3.1.0/xlink/xlinks.xsd' to 'xlink.xsd'
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from 'http://schemas.opengis.net/gml/3.1.0/xlink/xlinks.xsd' to 'xlink.xsd'
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|<GML_1 Reader> - Using the current GML 3.2.1 reader to read v3.1.1 and v2.1.2 documents.
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|<GML_1 Reader> - Map Embedded Object as: 'ATTRIBUTES'
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|<GML_1 Reader> - Map Predefined Properties: 'NO'
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|<GML_1 Reader> - Map All Substitutable Properties: 'YES'
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|<GML_1 Reader> - Map Complex Properties as: 'NESTED_ATTRIBUTES'
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|<GML_1 Reader> - Add XML Namespace Prefix to: 'UNSET'
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|<GML_1 Reader> - Limit Number of Lists in Nested Attributes: 'UNSET'
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|Using XSD semantics configuration file 'file:///C:/Program Files/FME2016.1/64/xml/gml_v3.2/gml_config.xml'.
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|Pre-processing xfMap 'C:\Users\knjetl\AppData\Local\Temp\XFMAP_AUTOGEN1486649600632_7232.xml' with macro stylesheet 'C:\Program Files\FME2016.1\64\xfmap\xfmap_macro.xslt' into 'C:\Users\knjetl\AppData\Local\Temp\NOMACRO_XFMAP_1486649600638_7232.xml'
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|The XML Reader is using xfMap 'C:\Users\knjetl\AppData\Local\Temp\NOMACRO_XFMAP_1486649600638_7232.xml'
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|FME Configuration: Source coordinate system for reader GML_1[GML] set to `EPSG:25833' as read from input data
+2017-02-09 15:13:20|   1.1|  0.0|INFORM|Coordinate System `EPSG:25833' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|Creating reader for format: GML (Geography Markup Language)
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GML'
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|FME API version of module 'GML' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|URI 'LYSARMATUR.xsd' mapped to 'file:///C:/DATA/GLA/Data/1902/20170131/LYSARMATUR.xsd'
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|Parsing schema document 'file:///C:/DATA/GLA/Data/1902/20170131/LYSARMATUR.xsd' ...
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from 'http://schemas.opengis.net/gml/3.1.0/xlink/xlinks.xsd' to 'xlink.xsd'
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from 'http://schemas.opengis.net/gml/3.1.0/xlink/xlinks.xsd' to 'xlink.xsd'
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|<GML_1 Reader> - Using the current GML 3.2.1 reader to read v3.1.1 and v2.1.2 documents.
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|<GML_1 Reader> - Map Embedded Object as: 'ATTRIBUTES'
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|<GML_1 Reader> - Map Predefined Properties: 'NO'
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|<GML_1 Reader> - Map All Substitutable Properties: 'YES'
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|<GML_1 Reader> - Map Complex Properties as: 'NESTED_ATTRIBUTES'
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|<GML_1 Reader> - Add XML Namespace Prefix to: 'UNSET'
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|<GML_1 Reader> - Limit Number of Lists in Nested Attributes: 'UNSET'
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|Using XSD semantics configuration file 'file:///C:/Program Files/FME2016.1/64/xml/gml_v3.2/gml_config.xml'.
+2017-02-09 15:13:20|   1.2|  0.0|INFORM|Pre-processing xfMap 'C:\Users\knjetl\AppData\Local\Temp\XFMAP_AUTOGEN1486649600763_7232.xml' with macro stylesheet 'C:\Program Files\FME2016.1\64\xfmap\xfmap_macro.xslt' into 'C:\Users\knjetl\AppData\Local\Temp\NOMACRO_XFMAP_1486649600773_7232.xml'
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|The XML Reader is using xfMap 'C:\Users\knjetl\AppData\Local\Temp\NOMACRO_XFMAP_1486649600773_7232.xml'
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|FME Configuration: Source coordinate system for reader GML_1[GML] set to `EPSG:25833' as read from input data
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|Coordinate System `EPSG:25833' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|Creating reader for format: GML (Geography Markup Language)
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GML'
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|FME API version of module 'GML' matches current internal version (3.8 20160224)
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2016.1\64\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|URI 'LYSMAST.xsd' mapped to 'file:///C:/DATA/GLA/Data/1902/20170131/LYSMAST.xsd'
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|Parsing schema document 'file:///C:/DATA/GLA/Data/1902/20170131/LYSMAST.xsd' ...
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from 'http://schemas.opengis.net/gml/3.1.0/xlink/xlinks.xsd' to 'xlink.xsd'
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from 'http://schemas.opengis.net/gml/3.1.0/xlink/xlinks.xsd' to 'xlink.xsd'
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|<GML_1 Reader> - Using the current GML 3.2.1 reader to read v3.1.1 and v2.1.2 documents.
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|<GML_1 Reader> - Map Embedded Object as: 'ATTRIBUTES'
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|<GML_1 Reader> - Map Predefined Properties: 'NO'
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|<GML_1 Reader> - Map All Substitutable Properties: 'YES'
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|<GML_1 Reader> - Map Complex Properties as: 'NESTED_ATTRIBUTES'
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|<GML_1 Reader> - Add XML Namespace Prefix to: 'UNSET'
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|<GML_1 Reader> - Limit Number of Lists in Nested Attributes: 'UNSET'
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|Using XSD semantics configuration file 'file:///C:/Program Files/FME2016.1/64/xml/gml_v3.2/gml_config.xml'.
+2017-02-09 15:13:20|   1.3|  0.0|INFORM|Pre-processing xfMap 'C:\Users\knjetl\AppData\Local\Temp\XFMAP_AUTOGEN1486649600899_7232.xml' with macro stylesheet 'C:\Program Files\FME2016.1\64\xfmap\xfmap_macro.xslt' into 'C:\Users\knjetl\AppData\Local\Temp\NOMACRO_XFMAP_1486649600907_7232.xml'
+2017-02-09 15:13:20|   1.4|  0.0|INFORM|The XML Reader is using xfMap 'C:\Users\knjetl\AppData\Local\Temp\NOMACRO_XFMAP_1486649600907_7232.xml'
+2017-02-09 15:13:20|   1.4|  0.0|INFORM|FME Configuration: Source coordinate system for reader GML_1[GML] set to `EPSG:25833' as read from input data
+2017-02-09 15:13:20|   1.4|  0.0|INFORM|Coordinate System `EPSG:25833' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2017-02-09 15:13:20|   1.4|  0.0|INFORM|MULTI_READER(GML_1): Done reading 82 features from 4 readers
+2017-02-09 15:13:20|   1.4|  0.0|INFORM|Emptying factory pipeline
+2017-02-09 15:13:20|   1.4|  0.0|STATS |Router and Unexpected Input Remover(RoutingFactory): Tested 82 input feature(s), wrote 82 output feature(s): 82 matched merge filters, 82 were routed to output, 0 could not be routed.
+2017-02-09 15:13:20|   1.4|  0.0|STATS |Unexpected Input Remover Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:20|   1.4|  0.0|STATS |Lysmast (GML_1) Splitter(TeeFactory): Cloned 27 input feature(s) into 27 output feature(s)
+2017-02-09 15:13:20|   1.4|  0.0|STATS |Belysningspunkt (GML_1) Splitter(TeeFactory): Cloned 27 input feature(s) into 27 output feature(s)
+2017-02-09 15:13:20|   1.4|  0.0|STATS |Belysningsstrekning (GML_1) Splitter(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-09 15:13:20|   1.4|  0.0|STATS |Lysarmatur (GML_1) Splitter(TeeFactory): Cloned 27 input feature(s) into 27 output feature(s)
+2017-02-09 15:13:20|   1.4|  0.0|INFORM|Matcher(MatchingFactory): Upper bound on the number of comparisons is 3403. Fewer comparisons may be made, and the worst case will not exceed this upper bound
+2017-02-09 15:13:20|   1.4|  0.0|INFORM|Matcher(MatchingFactory): Processing comparison #1
+2017-02-09 15:13:21|   1.4|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2017-02-09 15:13:21|   1.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Loaded module 'CSV' from file 'C:\Program Files\FME2016.1\64\plugins/CSV.dll'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\DATA\GitHub\NVDBGML\XSD\GLA\'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Encoding name ''
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Opening dataset 'C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftSOSIMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Creating reader for format: Tabular Data
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\DATA\GitHub\NVDBGML\XSD\GLA'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftSOSIMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Opened Separated Value File C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftSOSIMapping.csv for input with delimiter `;'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Skipped line `ftid;name' in CSV File `C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftSOSIMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Closing dataset 'C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftSOSIMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\DATA\GitHub\NVDBGML\XSD\GLA\'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\DATA\GitHub\NVDBGML\XSD\GLA\'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Encoding name ''
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Opening dataset 'C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ptSOSIMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Creating reader for format: Tabular Data
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\DATA\GitHub\NVDBGML\XSD\GLA'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ptSOSIMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Opened Separated Value File C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ptSOSIMapping.csv for input with delimiter `;'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Skipped line `ft_attr;ftid;ptid;name' in CSV File `C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ptSOSIMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Closing dataset 'C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ptSOSIMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\DATA\GitHub\NVDBGML\XSD\GLA\'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\DATA\GitHub\NVDBGML\XSD\GLA\'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Encoding name ''
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Opening dataset 'C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftSOSIMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Creating reader for format: Tabular Data
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\DATA\GitHub\NVDBGML\XSD\GLA'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftSOSIMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Opened Separated Value File C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftSOSIMapping.csv for input with delimiter `;'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Skipped line `ftid;name' in CSV File `C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftSOSIMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Closing dataset 'C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftSOSIMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\DATA\GitHub\NVDBGML\XSD\GLA\'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\DATA\GitHub\NVDBGML\XSD\GLA\'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Encoding name ''
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Opening dataset 'C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Creating reader for format: Tabular Data
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\DATA\GitHub\NVDBGML\XSD\GLA'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Opened Separated Value File C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftMapping.csv for input with delimiter `;'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Skipped line `ftid;name' in CSV File `C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Closing dataset 'C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ftMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\DATA\GitHub\NVDBGML\XSD\GLA\'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\DATA\GitHub\NVDBGML\XSD\GLA\'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Encoding name ''
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Opening dataset 'C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ptMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Creating reader for format: Tabular Data
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\DATA\GitHub\NVDBGML\XSD\GLA'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ptMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Opened Separated Value File C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ptMapping.csv for input with delimiter `;'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|Skipped line `ft_attr;ftid;ptid;name' in CSV File `C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ptMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Closing dataset 'C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_ptMapping.csv'
+2017-02-09 15:13:21|   1.5|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\DATA\GitHub\NVDBGML\XSD\GLA\'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\DATA\GitHub\NVDBGML\XSD\GLA\'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Encoding name ''
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Opening dataset 'C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_enMapping.csv'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|Creating reader for format: Tabular Data
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\DATA\GitHub\NVDBGML\XSD\GLA'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_enMapping.csv'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|Opened Separated Value File C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_enMapping.csv for input with delimiter `;'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|Skipped line `ptid;enid;name;fullname' in CSV File `C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_enMapping.csv'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Closing dataset 'C:\DATA\GitHub\NVDBGML\XSD\GLA\glabelysning_enMapping.csv'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\DATA\GitHub\NVDBGML\XSD\GLA\'
+2017-02-09 15:13:21|   1.6|  0.0|STATS |Matcher(MatchingFactory): Found 0 matching group(s) of features in 82 input feature(s). 82 feature(s) did not have any matches
+2017-02-09 15:13:21|   1.6|  0.0|STATS |GeometryExtractor(TeeFactory): Cloned 82 input feature(s) into 82 output feature(s)
+2017-02-09 15:13:21|   1.6|  0.0|STATS |GeometryExtractor_Rejector(TestFactory): Tested 82 input feature(s) -- 0 feature(s) passed and 82 feature(s) failed
+2017-02-09 15:13:21|   1.6|  0.0|STATS |GeometryExtractor_<REJECTED> Feature Counter -1 2147680457(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|Snapper(SnappingFactory): Snapping 82 feature(s)...
+2017-02-09 15:13:21|   1.6|  0.0|STATS |Snapper(SnappingFactory): Processed 82 feature(s). 1 were snapped, 162 were untouched, and 0 were dropped because they snapped into a single point
+2017-02-09 15:13:21|   1.6|  0.0|STATS |Snapper(SnappingFactory): 81 feature(s) were untouched because their length was less than tolerance (1)
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|Matcher_2(MatchingFactory): Upper bound on the number of comparisons is 3403. Fewer comparisons may be made, and the worst case will not exceed this upper bound
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|Matcher_2(MatchingFactory): Processing comparison #1
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731184.58984375&ost=654775.83984375&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0.016 seconds', total transfer time: '0.094 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731184.58984375&ost=654775.83984375&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731184.58984375&ost=654775.83984375&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731184.58984375&ost=654775.83984375' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.062 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731184.58984375&ost=654775.83984375'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731184.58984375&ost=654775.83984375'
+2017-02-09 15:13:21|   1.6|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\knjetl\AppData\Local\Temp\QUADRIgml2none_151319\inspector.ffs'
+2017-02-09 15:13:21|   1.6|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\knjetl\AppData\Local\Temp\QUADRIgml2none_151319\inspector.fsc'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731148.15002441&ost=654732.080078125&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731148.15002441&ost=654732.080078125&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731148.15002441&ost=654732.080078125&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731148.15002441&ost=654732.080078125' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731148.15002441&ost=654732.080078125'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731148.15002441&ost=654732.080078125'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732000.57897949&ost=653620.461975098&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732000.57897949&ost=653620.461975098&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732000.57897949&ost=653620.461975098&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732000.57897949&ost=653620.461975098' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732000.57897949&ost=653620.461975098'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732000.57897949&ost=653620.461975098'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731089.5703125&ost=654685.782226563&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731089.5703125&ost=654685.782226563&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731089.5703125&ost=654685.782226563&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731089.5703125&ost=654685.782226563' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731089.5703125&ost=654685.782226563'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731089.5703125&ost=654685.782226563'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731167.33984375&ost=654749.602050781&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731167.33984375&ost=654749.602050781&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731167.33984375&ost=654749.602050781&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731167.33984375&ost=654749.602050781' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.032 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731167.33984375&ost=654749.602050781'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731167.33984375&ost=654749.602050781'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731262.109375&ost=654835.129882813&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731262.109375&ost=654835.129882813&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731262.109375&ost=654835.129882813&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731262.109375&ost=654835.129882813' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731262.109375&ost=654835.129882813'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731262.109375&ost=654835.129882813'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731986.18969727&ost=653583.131591797&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731986.18969727&ost=653583.131591797&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731986.18969727&ost=653583.131591797&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731986.18969727&ost=653583.131591797' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731986.18969727&ost=653583.131591797'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731986.18969727&ost=653583.131591797'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731984.00634766&ost=653613.832885742&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731984.00634766&ost=653613.832885742&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731984.00634766&ost=653613.832885742&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731984.00634766&ost=653613.832885742' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731984.00634766&ost=653613.832885742'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731984.00634766&ost=653613.832885742'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731206.96875&ost=654785.799804688&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '369 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731206.96875&ost=654785.799804688&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731206.96875&ost=654785.799804688&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731206.96875&ost=654785.799804688' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '369 bytes', DNS lookup time: '0 seconds', total transfer time: '0.032 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731206.96875&ost=654785.799804688'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731206.96875&ost=654785.799804688'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731148.14465332&ost=654732.567382813&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731148.14465332&ost=654732.567382813&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731148.14465332&ost=654732.567382813&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731148.14465332&ost=654732.567382813' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731148.14465332&ost=654732.567382813'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731148.14465332&ost=654732.567382813'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731127.21875&ost=654699.120117188&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '369 bytes', DNS lookup time: '0 seconds', total transfer time: '0.032 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731127.21875&ost=654699.120117188&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731127.21875&ost=654699.120117188&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731127.21875&ost=654699.120117188' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '369 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731127.21875&ost=654699.120117188'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731127.21875&ost=654699.120117188'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731991.96118164&ost=653616.815979004&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731991.96118164&ost=653616.815979004&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731991.96118164&ost=653616.815979004&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731991.96118164&ost=653616.815979004' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731991.96118164&ost=653616.815979004'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731991.96118164&ost=653616.815979004'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731377.28125&ost=654978.330078125&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '369 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731377.28125&ost=654978.330078125&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731377.28125&ost=654978.330078125&vegreferanse=K'
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731377.28125&ost=654978.330078125' to internal memory buffer
+2017-02-09 15:13:21|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '369 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731377.28125&ost=654978.330078125'
+2017-02-09 15:13:21|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731377.28125&ost=654978.330078125'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731282.95996094&ost=654853.599975586&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731282.95996094&ost=654853.599975586&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731282.95996094&ost=654853.599975586&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731282.95996094&ost=654853.599975586' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731282.95996094&ost=654853.599975586'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731282.95996094&ost=654853.599975586'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732011.01989746&ost=653624.107971191&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732011.01989746&ost=653624.107971191&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732011.01989746&ost=653624.107971191&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732011.01989746&ost=653624.107971191' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732011.01989746&ost=653624.107971191'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732011.01989746&ost=653624.107971191'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731242.9609375&ost=654818.270019531&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731242.9609375&ost=654818.270019531&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731242.9609375&ost=654818.270019531&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731242.9609375&ost=654818.270019531' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731242.9609375&ost=654818.270019531'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731242.9609375&ost=654818.270019531'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732042.92236328&ost=653587.813720703&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732042.92236328&ost=653587.813720703&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732042.92236328&ost=653587.813720703&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732042.92236328&ost=653587.813720703' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732042.92236328&ost=653587.813720703'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732042.92236328&ost=653587.813720703'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731127.21875&ost=654699.122070313&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '369 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731127.21875&ost=654699.122070313&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731127.21875&ost=654699.122070313&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731127.21875&ost=654699.122070313' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '369 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731127.21875&ost=654699.122070313'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731127.21875&ost=654699.122070313'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731979.47521973&ost=653606.115783691&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731979.47521973&ost=653606.115783691&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731979.47521973&ost=653606.115783691&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731979.47521973&ost=653606.115783691' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731979.47521973&ost=653606.115783691'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731979.47521973&ost=653606.115783691'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731283.06872559&ost=654853.557861328&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731283.06872559&ost=654853.557861328&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731283.06872559&ost=654853.557861328&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731283.06872559&ost=654853.557861328' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731283.06872559&ost=654853.557861328'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731283.06872559&ost=654853.557861328'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731367.8203125&ost=654935.382324219&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731367.8203125&ost=654935.382324219&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731367.8203125&ost=654935.382324219&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731367.8203125&ost=654935.382324219' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.032 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731367.8203125&ost=654935.382324219'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731367.8203125&ost=654935.382324219'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732029.70458984&ost=653630.520324707&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.046 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732029.70458984&ost=653630.520324707&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732029.70458984&ost=653630.520324707&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732029.70458984&ost=653630.520324707' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.032 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732029.70458984&ost=653630.520324707'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732029.70458984&ost=653630.520324707'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731316.76171875&ost=654883.612304688&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731316.76171875&ost=654883.612304688&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731316.76171875&ost=654883.612304688&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731316.76171875&ost=654883.612304688' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.032 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731316.76171875&ost=654883.612304688'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731316.76171875&ost=654883.612304688'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731001.359375&ost=654616.299804688&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731001.359375&ost=654616.299804688&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731001.359375&ost=654616.299804688&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731001.359375&ost=654616.299804688' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731001.359375&ost=654616.299804688'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731001.359375&ost=654616.299804688'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731167.33984375&ost=654749.600097656&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731167.33984375&ost=654749.600097656&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731167.33984375&ost=654749.600097656&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731167.33984375&ost=654749.600097656' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731167.33984375&ost=654749.600097656'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731167.33984375&ost=654749.600097656'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731030.23828125&ost=654638.419921875&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731030.23828125&ost=654638.419921875&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731030.23828125&ost=654638.419921875&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731030.23828125&ost=654638.419921875' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731030.23828125&ost=654638.419921875'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731030.23828125&ost=654638.419921875'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731242.9609375&ost=654818.271972656&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731242.9609375&ost=654818.271972656&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731242.9609375&ost=654818.271972656&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731242.9609375&ost=654818.271972656' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.032 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731242.9609375&ost=654818.271972656'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731242.9609375&ost=654818.271972656'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731377.28125&ost=654978.33203125&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '368 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731377.28125&ost=654978.33203125&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731377.28125&ost=654978.33203125&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731377.28125&ost=654978.33203125' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '368 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731377.28125&ost=654978.33203125'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731377.28125&ost=654978.33203125'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732017.56689453&ost=653578.870483398&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732017.56689453&ost=653578.870483398&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732017.56689453&ost=653578.870483398&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732017.56689453&ost=653578.870483398' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732017.56689453&ost=653578.870483398'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732017.56689453&ost=653578.870483398'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731316.76171875&ost=654883.609863281&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731316.76171875&ost=654883.609863281&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731316.76171875&ost=654883.609863281&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731316.76171875&ost=654883.609863281' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731316.76171875&ost=654883.609863281'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731316.76171875&ost=654883.609863281'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731367.8203125&ost=654935.379882813&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731367.8203125&ost=654935.379882813&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731367.8203125&ost=654935.379882813&vegreferanse=K'
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731367.8203125&ost=654935.379882813' to internal memory buffer
+2017-02-09 15:13:22|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731367.8203125&ost=654935.379882813'
+2017-02-09 15:13:22|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731367.8203125&ost=654935.379882813'
+2017-02-09 15:13:23|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732020.40771484&ost=653628.066955566&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732020.40771484&ost=653628.066955566&vegreferanse=K'
+2017-02-09 15:13:23|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732020.40771484&ost=653628.066955566&vegreferanse=K'
+2017-02-09 15:13:23|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732020.40771484&ost=653628.066955566' to internal memory buffer
+2017-02-09 15:13:23|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.032 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732020.40771484&ost=653628.066955566'
+2017-02-09 15:13:23|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7732020.40771484&ost=653628.066955566'
+2017-02-09 15:13:23|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731343.859375&ost=654902.419921875&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731343.859375&ost=654902.419921875&vegreferanse=K'
+2017-02-09 15:13:23|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731343.859375&ost=654902.419921875&vegreferanse=K'
+2017-02-09 15:13:23|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731343.859375&ost=654902.419921875' to internal memory buffer
+2017-02-09 15:13:23|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731343.859375&ost=654902.419921875'
+2017-02-09 15:13:23|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731343.859375&ost=654902.419921875'
+2017-02-09 15:13:23|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731030.23828125&ost=654638.421875&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.6|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '369 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731030.23828125&ost=654638.421875&vegreferanse=K'
+2017-02-09 15:13:23|   1.6|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731030.23828125&ost=654638.421875&vegreferanse=K'
+2017-02-09 15:13:23|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731030.23828125&ost=654638.421875' to internal memory buffer
+2017-02-09 15:13:23|   1.6|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '369 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731030.23828125&ost=654638.421875'
+2017-02-09 15:13:23|   1.6|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731030.23828125&ost=654638.421875'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731343.859375&ost=654902.422363281&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731343.859375&ost=654902.422363281&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731343.859375&ost=654902.422363281&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731343.859375&ost=654902.422363281' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.046 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731343.859375&ost=654902.422363281'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731343.859375&ost=654902.422363281'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731061.76953125&ost=654662.629882813&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.032 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731061.76953125&ost=654662.629882813&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731061.76953125&ost=654662.629882813&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731061.76953125&ost=654662.629882813' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731061.76953125&ost=654662.629882813'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731061.76953125&ost=654662.629882813'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731147.82653809&ost=654732.2890625&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731147.82653809&ost=654732.2890625&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731147.82653809&ost=654732.2890625&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731147.82653809&ost=654732.2890625' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731147.82653809&ost=654732.2890625'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731147.82653809&ost=654732.2890625'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731989.9342041&ost=653570.090026855&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731989.9342041&ost=653570.090026855&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731989.9342041&ost=653570.090026855&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731989.9342041&ost=653570.090026855' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731989.9342041&ost=653570.090026855'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731989.9342041&ost=653570.090026855'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731061.76953125&ost=654662.632324219&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731061.76953125&ost=654662.632324219&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731061.76953125&ost=654662.632324219&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731061.76953125&ost=654662.632324219' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.032 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731061.76953125&ost=654662.632324219'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731061.76953125&ost=654662.632324219'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731982.70324707&ost=653594.494567871&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731982.70324707&ost=653594.494567871&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731982.70324707&ost=653594.494567871&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731982.70324707&ost=653594.494567871' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '372 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731982.70324707&ost=653594.494567871'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731982.70324707&ost=653594.494567871'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731262.109375&ost=654835.132324219&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731262.109375&ost=654835.132324219&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731262.109375&ost=654835.132324219&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731262.109375&ost=654835.132324219' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731262.109375&ost=654835.132324219'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731262.109375&ost=654835.132324219'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731001.359375&ost=654616.302246094&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731001.359375&ost=654616.302246094&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731001.359375&ost=654616.302246094&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731001.359375&ost=654616.302246094' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '370 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731001.359375&ost=654616.302246094'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731001.359375&ost=654616.302246094'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731089.5703125&ost=654685.779785156&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731089.5703125&ost=654685.779785156&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731089.5703125&ost=654685.779785156&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731089.5703125&ost=654685.779785156' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '371 bytes', DNS lookup time: '0 seconds', total transfer time: '0.015 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731089.5703125&ost=654685.779785156'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731089.5703125&ost=654685.779785156'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731206.96875&ost=654785.802246094&vegreferanse=K' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 404, download size: '369 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731206.96875&ost=654785.802246094&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731206.96875&ost=654785.802246094&vegreferanse=K'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731206.96875&ost=654785.802246094' to internal memory buffer
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|HTTPCaller_3(HTTPFactory): HTTP transfer summary - status code: 404, download size: '369 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731206.96875&ost=654785.802246094'
+2017-02-09 15:13:23|   1.7|  0.0|ERROR |HTTPCaller_3(HTTPFactory): Received HTTP response header: 'HTTP/1.1 404 Not Found' from 'https://www.vegvesen.no/nvdb/api/v2/posisjon.xml?nord=7731206.96875&ost=654785.802246094'
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Matcher_2(MatchingFactory): Found 26 matching group(s) of features in 82 input feature(s). 18 feature(s) did not have any matches
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AttributeKeeper(TeeFactory): Cloned 26 input feature(s) into 26 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |CenterPointExtractor(TeeFactory): Cloned 44 input feature(s) into 44 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |CenterPointExtractor_Rejector(TestFactory): Tested 44 input feature(s) -- 0 feature(s) passed and 44 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |CenterPointExtractor_<REJECTED> Feature Counter -1 2147680319(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|XMLFlattener_2(XFMapFactory): Total Results: 0 Mapped Feature(s), 0 Input Feature(s), and 0 Invalid input Feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_TestFactory_0(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_<lt>UNFILTERED<gt>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|XMLFlattener_4(XFMapFactory): Total Results: 0 Mapped Feature(s), 0 Input Feature(s), and 0 Invalid input Feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_2_TestFactory_0(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_2_<lt>UNFILTERED<gt>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |IngenPosisjon_DirCreator(CreationFactory): Created 1 features
+2017-02-09 15:13:23|   1.7|  0.0|STATS |IngenPosisjon_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |IngenPosisjon_FeatureDirector(TestFactory): Tested 44 input feature(s) -- 0 feature(s) passed and 44 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |IngenPosisjon___FeatureDirector1(TestFactory): Tested 44 input feature(s) -- 0 feature(s) passed and 44 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |IngenPosisjon_VectorSetterUpper(TeeFactory): Cloned 44 input feature(s) into 44 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |IngenPosisjon___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |IngenPosisjon_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|IngenPosisjon_Recorder(RecorderFactory): Recorded 44 feature(s) to file `C:\Users\knjetl\AppData\Local\Temp\QUADRIgml2none_151319\inspector.ffs'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|XMLFlattener_3(XFMapFactory): Total Results: 0 Mapped Feature(s), 0 Input Feature(s), and 0 Invalid input Feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |XMLFlattener_3 OUTPUT Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AnnenVegkategori_DirCreator(CreationFactory): Created 1 features
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AnnenVegkategori_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AnnenVegkategori_FeatureDirector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AnnenVegkategori___FeatureDirector1(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AnnenVegkategori_VectorSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AnnenVegkategori___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AnnenVegkategori_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|AnnenVegkategori_Recorder(RecorderFactory): Recorded 0 feature(s) to file `C:\Users\knjetl\AppData\Local\Temp\QUADRIgml2none_151319\inspector.ffs'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|XMLFlattener_5(XFMapFactory): Total Results: 0 Mapped Feature(s), 0 Input Feature(s), and 0 Invalid input Feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |ListExploder(ElementFactory): Split out 0 list elements from 0 input features, using mode CLASSIC
+2017-02-09 15:13:23|   1.7|  0.0|STATS |UUIDGenerator(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |GeometryReplacer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |GeometryReplacer_Rejector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |GeometryReplacer_<REJECTED> Feature Counter -1 2147680486(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Counter_Counter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Counter_Rejector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Counter OUTPUT Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Counter_<REJECTED> Feature Counter -1 2147680279(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AttributeExposer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |CoordinateRounder(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |CoordinateConcatenator(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |StringConcatenator(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|Optional `close' method not present; not called
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AttributeValueMapper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AttributeValueMapper OUTPUT Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_5(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_5_TestFactory_0(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_5_TestFactory_1(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_5_TestFactory_2(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_5_<lt>UNFILTERED<gt>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_5 <lt>UNFILTERED<gt> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_3_TestFactory_0(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_3_TestFactory_1(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_3_<lt>UNFILTERED<gt>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TestFilter_3 <lt>UNFILTERED<gt> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AttributeKeeper_6(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AttributeKeeper_4(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |NeighborFinder(ProximityFactory): Input Summary:  0 base feature(s), 0 candidate feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |NeighborFinder(ProximityFactory): Output Summary: 0 matched feature(s), 0 unmatched base feature(s), 0 unmatched candidate feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |NeighborFinder_<REJECTED> Feature Counter -1 2147811526(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |ListElementCounter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |NullAttributeMapper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |NullAttributeMapper OUTPUT Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Kobla (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AttributeExploder(AttributeFactory): Exploding 0 attributes from 0 feature(s) as 0 resulting feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AttributeKeeper_5(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AttributeValidator(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |ListBuilder_2_fme_type_remover(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |ListBuilder_2(ListFactory): Combined 0 input feature(s) into 0 output feature(s), including 0 singleton(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |FeatureMerger_5(ReferenceFactory): Total Results: 0 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |StringReplacer_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |StringReplacer_4(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AttributeRemover_4(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |ListBuilder_3_fme_type_remover(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |ListBuilder_3(ListFactory): Combined 0 input feature(s) into 0 output feature(s), including 0 singleton(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |AttributeKeeper_7(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |StringReplacer_5(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |StringReplacer_6(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |ListBuilder_4_fme_type_remover(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |ListBuilder_4(ListFactory): Combined 0 input feature(s) into 0 output feature(s), including 0 singleton(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |TimeStamper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |StringReplacer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |StringReplacer_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|XMLFormatter_2(XMLFormatterFactory): Processed 0 feature(s) with 0 feature(s) that failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Counter_Output_DirCreator(CreationFactory): Created 1 features
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Counter_Output_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Counter_Output_FeatureDirector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Counter_Output___FeatureDirector1(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Counter_Output_VectorSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Counter_Output___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Counter_Output_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|Counter_Output_Recorder(RecorderFactory): Recorded 0 feature(s) to file `C:\Users\knjetl\AppData\Local\Temp\QUADRIgml2none_151319\inspector.ffs'
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Matcher_Matched_DirCreator(CreationFactory): Created 1 features
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Matcher_Matched_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Matcher_Matched_FeatureDirector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Matcher_Matched___FeatureDirector1(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Matcher_Matched_VectorSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Matcher_Matched___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Matcher_Matched_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|Saving spatial index into file 'C:\Users\knjetl\AppData\Local\Temp\QUADRIgml2none_151319\inspector.fsi'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|Finished saving spatial index into file 'C:\Users\knjetl\AppData\Local\Temp\QUADRIgml2none_151319\inspector.fsi'
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Stored 44 feature(s) to FME feature store file `C:\Users\knjetl\AppData\Local\Temp\QUADRIgml2none_151319\inspector.ffs'
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Stored 1 feature(s) to FME feature store file `C:\Users\knjetl\AppData\Local\Temp\QUADRIgml2none_151319\inspector.fsc'
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|Matcher_Matched_Recorder(RecorderFactory): Recorded 0 feature(s) to file `C:\Users\knjetl\AppData\Local\Temp\QUADRIgml2none_151319\inspector.ffs'
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |f_227(CreationFactory): Created 1 features
+2017-02-09 15:13:23|   1.7|  0.0|STATS |f_228(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-02-09 15:13:23|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|STATS |                            `Count' Domain Summary
+2017-02-09 15:13:23|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Matcher_2                                                                   26
+2017-02-09 15:13:23|   1.7|  0.0|STATS |==============================================================================
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Total `@Count' Invocations:                                                 26
+2017-02-09 15:13:23|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|Feature output statistics for `FFS' writer using keyword `W_1':
+2017-02-09 15:13:23|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|STATS |                               Features Written
+2017-02-09 15:13:23|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|STATS |==============================================================================
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Total Features Written                                                       0
+2017-02-09 15:13:23|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|STATS |                            Features Read Summary
+2017-02-09 15:13:23|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Belysningspunkt                                                             27
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Belysningsstrekning                                                          1
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Lysarmatur                                                                  27
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Lysmast                                                                     27
+2017-02-09 15:13:23|   1.7|  0.0|STATS |==============================================================================
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Total Features Read                                                         82
+2017-02-09 15:13:23|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|STATS |                           Features Written Summary
+2017-02-09 15:13:23|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|STATS |==============================================================================
+2017-02-09 15:13:23|   1.7|  0.0|STATS |Total Features Written                                                       0
+2017-02-09 15:13:23|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|Translation was SUCCESSFUL with 0 warning(s) (0 feature(s) output)
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|FME Session Duration: 4.6 seconds. (CPU: 1.0s user, 0.5s system)
+2017-02-09 15:13:23|   1.7|  0.0|INFORM|END - ProcessID: 7232, peak process memory usage: 155396 kB, current process memory usage: 145484 kB

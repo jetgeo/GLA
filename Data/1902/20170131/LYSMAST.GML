@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:fme="http://www.safe.com/gml/fme" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.safe.com/gml/fme LYSMAST.xsd">
+<gml:boundedBy>
+<gml:Envelope srsName="EPSG:25833" srsDimension="2">
+<gml:lowerCorner>653570.090026855 7731001.359375</gml:lowerCorner>
+<gml:upperCorner>654978.33203125 7732042.92236328</gml:upperCorner>
+</gml:Envelope>
+</gml:boundedBy>
+<gml:featureMember>
+<fme:Lysmast gml:id="id3f19ab7c-2240-4377-b061-cb02a8c4ee14">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:HREF>TOP</fme:HREF>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654935.382324219 7731367.8203125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id5914d7c9-bd46-49bf-a8bd-9ead91ce6c2e">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654902.422363281 7731343.859375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id8bff91d3-4b0d-4ae5-89ae-f7467041c802">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654978.33203125 7731377.28125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id4c2adf2c-4c4c-4045-95ff-d3346d448c99">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654883.612304688 7731316.76171875</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id0fdf70b6-4cca-4bd9-9cd4-f79725cadfbb">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654835.132324219 7731262.109375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id9150711d-ec0d-4a04-8b94-02afacc27640">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654818.271972656 7731242.9609375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id3f1fc02a-7770-4316-b421-58f30829f5d5">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654785.802246094 7731206.96875</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="ideb6aa23f-326c-4c18-98b7-d8b3b35ce373">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654749.602050781 7731167.33984375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id13a5068a-14f2-4be9-bde6-92358d38e541">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654732.567382813 7731148.14465332</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="idfa13854a-2907-478d-9a5e-7e759b1fe2c8">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654699.122070313 7731127.21875</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="ide31a09bb-84f7-40eb-86c2-9f6c5531988e">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654685.782226563 7731089.5703125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id1cdb1faf-e375-4275-ad9b-12daabebad22">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654662.632324219 7731061.76953125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="idb668a25a-42aa-405d-9673-99cce1c63a95">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654638.421875 7731030.23828125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id8182e1cc-9058-4218-b300-3e811ae13162">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654616.302246094 7731001.359375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id4d02949d-37fe-426f-b3e3-da97e3fecf8b">
+<fme:DATAFANGSTDATO>20000726</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654853.599975586 7731282.95996094</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id30bdf051-2d74-4b99-a514-16bed4dca5a0">
+<fme:DATAFANGSTDATO>20170131</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>aluminiumsmast</fme:NVDB_TYPE>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_BYGGEÅR>2015</fme:NVDB_BYGGEÅR>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:NVDB_FUNDAMENTERING>fotplate</fme:NVDB_FUNDAMENTERING>
+<fme:NVDB_PRODUKTNAVN>PHILIPS IRIDIUM MEDIUM LED</fme:NVDB_PRODUKTNAVN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653587.813720703 7732042.92236328</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id4aec65fb-06ed-4380-92ca-ea16872adc01">
+<fme:DATAFANGSTDATO>20170131</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>aluminiumsmast</fme:NVDB_TYPE>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_BYGGEÅR>2015</fme:NVDB_BYGGEÅR>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_TOTALMASTELENGDE>5.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:NVDB_PRODUKTNAVN>Rett mast 5,0m med fotplate</fme:NVDB_PRODUKTNAVN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653630.520324707 7732029.70458984</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="idc97e21b9-0396-433d-a052-5abbc976fae6">
+<fme:DATAFANGSTDATO>20170131</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>aluminiumsmast</fme:NVDB_TYPE>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_BYGGEÅR>2015</fme:NVDB_BYGGEÅR>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_TOTALMASTELENGDE>5.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:NVDB_PRODUKTNAVN>Rett mast 5,0m med fotplate</fme:NVDB_PRODUKTNAVN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653628.066955566 7732020.40771484</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id2339c1d3-c92e-4e4a-acc7-d37933f291ab">
+<fme:DATAFANGSTDATO>20170131</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>aluminiumsmast</fme:NVDB_TYPE>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_BYGGEÅR>2015</fme:NVDB_BYGGEÅR>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_TOTALMASTELENGDE>5.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:NVDB_PRODUKTNAVN>Rett mast 5,0m med fotplate</fme:NVDB_PRODUKTNAVN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653624.107971191 7732011.01989746</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id120ae8f9-fcea-426e-aa25-fb8827bd9ede">
+<fme:DATAFANGSTDATO>20170131</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>aluminiumsmast</fme:NVDB_TYPE>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_BYGGEÅR>2015</fme:NVDB_BYGGEÅR>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_TOTALMASTELENGDE>5.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:NVDB_PRODUKTNAVN>Rett mast 5,0m med fotplate</fme:NVDB_PRODUKTNAVN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653620.461975098 7732000.57897949</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="iddcadc7ab-3d3d-4153-a270-faf7f7c4ac5b">
+<fme:DATAFANGSTDATO>20170131</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>aluminiumsmast</fme:NVDB_TYPE>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_BYGGEÅR>2015</fme:NVDB_BYGGEÅR>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_TOTALMASTELENGDE>5.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:NVDB_PRODUKTNAVN>Rett mast 5,0m med fotplate</fme:NVDB_PRODUKTNAVN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653616.815979004 7731991.96118164</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="idfa68577e-661b-474b-b208-703d3a44a681">
+<fme:DATAFANGSTDATO>20170131</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>aluminiumsmast</fme:NVDB_TYPE>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_BYGGEÅR>2015</fme:NVDB_BYGGEÅR>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_TOTALMASTELENGDE>5.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:NVDB_PRODUKTNAVN>Rett mast 5,0m med fotplate</fme:NVDB_PRODUKTNAVN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653613.832885742 7731984.00634766</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="idd14d0ee7-739b-4691-90d5-28dc7e761924">
+<fme:DATAFANGSTDATO>20170131</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>aluminiumsmast</fme:NVDB_TYPE>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_BYGGEÅR>2015</fme:NVDB_BYGGEÅR>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_TOTALMASTELENGDE>5.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:NVDB_PRODUKTNAVN>Rett mast 5,0m med fotplate</fme:NVDB_PRODUKTNAVN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653606.115783691 7731979.47521973</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="ide928e34c-ee6c-4a3f-a37d-25969a7a264f">
+<fme:DATAFANGSTDATO>20170131</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>aluminiumsmast</fme:NVDB_TYPE>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_BYGGEÅR>2015</fme:NVDB_BYGGEÅR>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_TOTALMASTELENGDE>5.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:NVDB_PRODUKTNAVN>Rett mast 5,0m med fotplate</fme:NVDB_PRODUKTNAVN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653594.494567871 7731982.70324707</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id60ec23cb-4a99-4899-9328-71eb63a1493f">
+<fme:DATAFANGSTDATO>20170131</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>aluminiumsmast</fme:NVDB_TYPE>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_BYGGEÅR>2015</fme:NVDB_BYGGEÅR>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_TOTALMASTELENGDE>5.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:NVDB_PRODUKTNAVN>Rett mast 5,0m med fotplate</fme:NVDB_PRODUKTNAVN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653583.131591797 7731986.18969727</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id1cc23039-8361-4231-8e0a-abd287d33dea">
+<fme:DATAFANGSTDATO>20170131</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>aluminiumsmast</fme:NVDB_TYPE>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_BYGGEÅR>2015</fme:NVDB_BYGGEÅR>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:NVDB_FUNDAMENTERING>fotplate</fme:NVDB_FUNDAMENTERING>
+<fme:NVDB_PRODUKTNAVN>PHILIPS IRIDIUM MEDIUM LED</fme:NVDB_PRODUKTNAVN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653570.090026855 7731989.9342041</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id3c81b5b9-13a8-4624-b01a-8c6e4d15264c">
+<fme:DATAFANGSTDATO>20170131</fme:DATAFANGSTDATO>
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>aluminiumsmast</fme:NVDB_TYPE>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_BYGGEÅR>2015</fme:NVDB_BYGGEÅR>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:NVDB_FUNDAMENTERING>fotplate</fme:NVDB_FUNDAMENTERING>
+<fme:NVDB_PRODUKTNAVN>PHILIPS IRIDIUM MEDIUM LED</fme:NVDB_PRODUKTNAVN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653578.870483398 7732017.56689453</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+</gml:FeatureCollection>

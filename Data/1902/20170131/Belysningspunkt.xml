@@ -1,0 +1,2416 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<endringssett xmlns="http://nvdb.vegvesen.no/apiskriv/domain/v2" effektDato="2017-02-09" datakatalogversjon="2.07">
+	<registrer>
+		<vegObjekter>
+			<vegObjekt typeId="88" tempId="-2">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654732.08 7731148.1500000004 44.94)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.31937"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-4">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Aluminiumsmast</verdi>
+					</egenskap>
+					<egenskap typeId="10324">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="10019">
+						<verdi>Rett mast 5,0m med fotplate</verdi>
+					</egenskap>
+					<egenskap typeId="10015">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="9956">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>5.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9954">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(653620.46200000006 7732000.5789999999)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.44927"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-5">
+				<egenskaper>
+					<egenskap typeId="10007">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>LED</verdi>
+					</egenskap>
+					<egenskap typeId="9953">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1529">
+						<verdi>Philips</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10805">
+						<verdi>106.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9955">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10010">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1451">
+						<verdi>Iridium² LED</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(653620.46200000006 7732000.5789999999)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.44927"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-6">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654685.78200000001 7731089.5700000003)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109881" posisjon="0.03151"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-7">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654749.60199999996 7731167.3399999999)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.29649"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-9">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654835.13 7731262.1090000002)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.17232"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-10">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Aluminiumsmast</verdi>
+					</egenskap>
+					<egenskap typeId="10324">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="10019">
+						<verdi>Rett mast 5,0m med fotplate</verdi>
+					</egenskap>
+					<egenskap typeId="10015">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="9956">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>5.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9954">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(653583.13199999998 7731986.1900000004)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.86724"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-11">
+				<egenskaper>
+					<egenskap typeId="10007">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>LED</verdi>
+					</egenskap>
+					<egenskap typeId="9953">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1529">
+						<verdi>Philips</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10805">
+						<verdi>106.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9955">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10010">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1451">
+						<verdi>Iridium² LED</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(653583.13199999998 7731986.1900000004)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.86724"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-14">
+				<egenskaper>
+					<egenskap typeId="10007">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>LED</verdi>
+					</egenskap>
+					<egenskap typeId="9953">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1529">
+						<verdi>Philips</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10805">
+						<verdi>106.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9955">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10010">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1451">
+						<verdi>Iridium² LED</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(653613.83299999998 7731984.0060000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.58953"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-15">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Aluminiumsmast</verdi>
+					</egenskap>
+					<egenskap typeId="10324">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="10019">
+						<verdi>Rett mast 5,0m med fotplate</verdi>
+					</egenskap>
+					<egenskap typeId="10015">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="9956">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>5.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9954">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(653613.83299999998 7731984.0060000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.58953"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-16">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654785.8 7731206.9689999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.24255"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-18">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654732.56700000004 7731148.1449999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.31915"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-19">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654699.12 7731127.2189999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.3537"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-22">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Aluminiumsmast</verdi>
+					</egenskap>
+					<egenskap typeId="10324">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="10019">
+						<verdi>Rett mast 5,0m med fotplate</verdi>
+					</egenskap>
+					<egenskap typeId="10015">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="9956">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>5.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9954">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(653616.81599999999 7731991.9610000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.52404"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-23">
+				<egenskaper>
+					<egenskap typeId="10007">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>LED</verdi>
+					</egenskap>
+					<egenskap typeId="9953">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1529">
+						<verdi>Philips</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10805">
+						<verdi>106.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9955">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10010">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1451">
+						<verdi>Iridium² LED</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(653616.81599999999 7731991.9610000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.52404"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-24">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654978.33 7731377.2810000004)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1110026" posisjon="0.27529"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-26">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(654853.6 7731282.96)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.14572"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-27">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(654853.6 7731282.96)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.14572"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-29">
+				<egenskaper>
+					<egenskap typeId="10007">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>LED</verdi>
+					</egenskap>
+					<egenskap typeId="9953">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1529">
+						<verdi>Philips</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10805">
+						<verdi>106.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9955">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10010">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1451">
+						<verdi>Iridium² LED</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(653624.10800000001 7732011.0199999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.3614"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-30">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Aluminiumsmast</verdi>
+					</egenskap>
+					<egenskap typeId="10324">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="10019">
+						<verdi>Rett mast 5,0m med fotplate</verdi>
+					</egenskap>
+					<egenskap typeId="10015">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="9956">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>5.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9954">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(653624.10800000001 7732011.0199999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.3614"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-32">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654818.27 7731242.9610000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.19648"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-33">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Aluminiumsmast</verdi>
+					</egenskap>
+					<egenskap typeId="9954">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10019">
+						<verdi>PHILIPS IRIDIUM MEDIUM LED</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="10324">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="10016">
+						<verdi>Fotplate</verdi>
+					</egenskap>
+					<egenskap typeId="9956">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10015">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(653587.81400000001 7732042.9220000003)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109439" posisjon="0.05373"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-34">
+				<egenskaper>
+					<egenskap typeId="10007">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>LED</verdi>
+					</egenskap>
+					<egenskap typeId="9953">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1529">
+						<verdi>Philips</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10805">
+						<verdi>106.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9955">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10010">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1451">
+						<verdi>Iridium² LED</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(653587.81400000001 7732042.9220000003)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109439" posisjon="0.05373"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-36">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654699.12199999997 7731127.2189999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.3537"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-38">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Aluminiumsmast</verdi>
+					</egenskap>
+					<egenskap typeId="10324">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="10019">
+						<verdi>Rett mast 5,0m med fotplate</verdi>
+					</egenskap>
+					<egenskap typeId="10015">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="9956">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>5.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9954">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(653606.11600000004 7731979.4749999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.65595"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-39">
+				<egenskaper>
+					<egenskap typeId="10007">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>LED</verdi>
+					</egenskap>
+					<egenskap typeId="9953">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1529">
+						<verdi>Philips</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10805">
+						<verdi>106.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9955">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10010">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1451">
+						<verdi>Iridium² LED</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(653606.11600000004 7731979.4749999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.65595"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-41">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>POINT(654935.38199999998 7731367.8200000003)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.03152"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-42">
+				<egenskaper>
+					<egenskap typeId="10007">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>LED</verdi>
+					</egenskap>
+					<egenskap typeId="9953">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1529">
+						<verdi>Philips</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10805">
+						<verdi>106.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9955">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10010">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1451">
+						<verdi>Iridium²</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(653630.52 7732029.7050000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.20287"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-44">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Aluminiumsmast</verdi>
+					</egenskap>
+					<egenskap typeId="10324">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="10019">
+						<verdi>Rett mast 5,0m med fotplate</verdi>
+					</egenskap>
+					<egenskap typeId="10015">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="9956">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>5.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9954">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(653630.52 7732029.7050000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.20287"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-45">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654883.61199999996 7731316.7620000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.10112"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-47">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654616.3 7731001.3590000002)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.497"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-49">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654749.6 7731167.3399999999)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.29649"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-50">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654638.42 7731030.2379999999)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.46251"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-52">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654818.272 7731242.9610000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.19648"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-53">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654978.33200000005 7731377.2810000004)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1110026" posisjon="0.27529"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-54">
+				<egenskaper>
+					<egenskap typeId="10007">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>LED</verdi>
+					</egenskap>
+					<egenskap typeId="9953">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1529">
+						<verdi>Philips</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10805">
+						<verdi>106.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9955">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10010">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1451">
+						<verdi>Iridium² LED</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(653578.87 7732017.5669999998)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109439" posisjon="0.18636"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-56">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Aluminiumsmast</verdi>
+					</egenskap>
+					<egenskap typeId="9954">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10019">
+						<verdi>PHILIPS IRIDIUM MEDIUM LED</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="10324">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="10016">
+						<verdi>Fotplate</verdi>
+					</egenskap>
+					<egenskap typeId="9956">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10015">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(653578.87 7732017.5669999998)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109439" posisjon="0.18636"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-58">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654883.61 7731316.7620000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.10112"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-60">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654935.38 7731367.8200000003)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.03152"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-62">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Aluminiumsmast</verdi>
+					</egenskap>
+					<egenskap typeId="10324">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="10019">
+						<verdi>Rett mast 5,0m med fotplate</verdi>
+					</egenskap>
+					<egenskap typeId="10015">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="9956">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>5.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9954">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(653628.06700000004 7732020.4079999998)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.27899"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-63">
+				<egenskaper>
+					<egenskap typeId="10007">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>LED</verdi>
+					</egenskap>
+					<egenskap typeId="9953">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1529">
+						<verdi>Philips</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10805">
+						<verdi>106.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9955">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10010">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1451">
+						<verdi>Iridium² LED</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(653628.06700000004 7732020.4079999998)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.27899"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-64">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654902.42 7731343.8590000002)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.06982"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-66">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654638.42200000002 7731030.2379999999)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.46251"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-67">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654902.42200000002 7731343.8590000002)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.06981"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-69">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654662.63 7731061.7699999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.42432"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-72">
+				<egenskaper>
+					<egenskap typeId="2077">
+						<verdi>LED</verdi>
+					</egenskap>
+					<egenskap typeId="10007">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="9953">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1529">
+						<verdi>Philips</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10805">
+						<verdi>106.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9955">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10010">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1451">
+						<verdi>Iridium² LED</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(653570.09 7731989.9340000004)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109439" posisjon="0.33014"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-73">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Aluminiumsmast</verdi>
+					</egenskap>
+					<egenskap typeId="9954">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10019">
+						<verdi>PHILIPS IRIDIUM MEDIUM LED</verdi>
+					</egenskap>
+					<egenskap typeId="10324">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="10016">
+						<verdi>Fotplate</verdi>
+					</egenskap>
+					<egenskap typeId="10015">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="9956">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(653570.09 7731989.9340000004)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109439" posisjon="0.33014"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-74">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654662.63199999998 7731061.7699999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.42432"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-76">
+				<egenskaper>
+					<egenskap typeId="10007">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>LED</verdi>
+					</egenskap>
+					<egenskap typeId="9953">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1529">
+						<verdi>Philips</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10805">
+						<verdi>106.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9955">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="10010">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1451">
+						<verdi>Iridium² LED</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=82; synbarhet=0; POINT(653594.495 7731982.7029999997)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.77166"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-77">
+				<egenskaper>
+					<egenskap typeId="1189">
+						<verdi>Aluminiumsmast</verdi>
+					</egenskap>
+					<egenskap typeId="10324">
+						<verdi>2015</verdi>
+					</egenskap>
+					<egenskap typeId="10019">
+						<verdi>Rett mast 5,0m med fotplate</verdi>
+					</egenskap>
+					<egenskap typeId="10015">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="9956">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1338">
+						<verdi>5.00000</verdi>
+					</egenskap>
+					<egenskap typeId="9954">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; synbarhet=0; POINT(653594.495 7731982.7029999997)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.77166"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-78">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654835.13199999998 7731262.1090000002)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.17232"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-79">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654616.30200000003 7731001.3590000002)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.497"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="88" tempId="-80">
+				<egenskaper>
+					<egenskap typeId="10805">
+						<verdi>70.00000</verdi>
+					</egenskap>
+					<egenskap typeId="2077">
+						<verdi>Natrium, høytrykk</verdi>
+					</egenskap>
+					<egenskap typeId="2199">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1955">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="4788">
+						<verdi>målemetode=10; POINT(654685.78 7731089.5700000003)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109881" posisjon="0.03151"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="181" tempId="-82">
+				<egenskaper>
+					<egenskap typeId="1338">
+						<verdi>8.00000</verdi>
+					</egenskap>
+					<egenskap typeId="1189">
+						<verdi>Tremast</verdi>
+					</egenskap>
+					<egenskap typeId="4838">
+						<verdi>målemetode=82; POINT(654785.80200000003 7731206.9689999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.24255"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-3">
+				<egenskaper>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Mindre stolpe</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning område/plass</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>EX</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(653620.46200000006 7732000.5789999999)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220027">
+						<tempId>-4</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220028">
+						<tempId>-5</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.44927"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-8">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654835.13 7731262.1090000002)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-9</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-78</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.17232"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-12">
+				<egenskaper>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Mindre stolpe</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning område/plass</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>EX</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(653583.13199999998 7731986.1900000004)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220027">
+						<tempId>-10</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220028">
+						<tempId>-11</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.86724"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-13">
+				<egenskaper>
+					<egenskap typeId="1272">
+						<verdi>Belysning område/plass</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>EX</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Mindre stolpe</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(653613.83299999998 7731984.0060000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-14</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-15</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.58953"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-17">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654785.8 7731206.9689999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-16</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-82</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.24255"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-20">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654699.12 7731127.2189999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-19</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-36</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.3537"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-21">
+				<egenskaper>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Mindre stolpe</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning område/plass</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>EX</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(653616.81599999999 7731991.9610000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220027">
+						<tempId>-22</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220028">
+						<tempId>-23</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.52404"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-25">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654978.33 7731377.2810000004)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-24</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-53</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1110026" posisjon="0.27529"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-28">
+				<egenskaper>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Mindre stolpe</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning område/plass</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>EX</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(653624.10800000001 7732011.0199999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-29</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-30</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.3614"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-31">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654818.27 7731242.9610000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-32</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-52</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.19648"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-35">
+				<egenskaper>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>EX</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(653587.81400000001 7732042.9220000003)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220027">
+						<tempId>-33</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220028">
+						<tempId>-34</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109439" posisjon="0.05373"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-37">
+				<egenskaper>
+					<egenskap typeId="1272">
+						<verdi>Belysning område/plass</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>EX</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Mindre stolpe</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(653606.11600000004 7731979.4749999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220027">
+						<tempId>-38</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220028">
+						<tempId>-39</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.65595"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-40">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(654853.55799999996 7731283.0690000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-26</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-27</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.14567"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-43">
+				<egenskaper>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Mindre stolpe</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning område/plass</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>EX</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(653630.52 7732029.7050000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-42</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-44</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.20287"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-46">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654616.3 7731001.3590000002)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-47</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-79</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.497"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-48">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654749.6 7731167.3399999999)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-49</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-7</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.29649"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-51">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654638.42 7731030.2379999999)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-50</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-66</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.46251"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-55">
+				<egenskaper>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>EX</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(653578.87 7732017.5669999998)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-54</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-56</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109439" posisjon="0.18636"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-57">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654883.61 7731316.7620000001)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-58</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-45</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.10112"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-59">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654935.38 7731367.8200000003)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-60</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-41</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.03152"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-61">
+				<egenskaper>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Mindre stolpe</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning område/plass</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>EX</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(653628.06700000004 7732020.4079999998)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220027">
+						<tempId>-62</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220028">
+						<tempId>-63</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.27899"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-65">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654902.42 7731343.8590000002)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-64</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-67</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.06982"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-68">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654662.63 7731061.7699999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-69</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-74</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.42432"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-70">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654732.28899999999 7731147.8269999996)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-2</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-18</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109859" posisjon="0.31946"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-71">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2198">
+						<verdi>1</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>EX</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10006">
+						<verdi>Ja</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(653570.09 7731989.9340000004)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-72</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-73</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109439" posisjon="0.33014"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-75">
+				<egenskaper>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Mindre stolpe</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning område/plass</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>EX</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=82; synbarhet=0; POINT(653594.495 7731982.7029999997)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-76</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-77</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109717" posisjon="0.77166"/>
+				</lokasjon>
+			</vegObjekt>
+			<vegObjekt typeId="87" tempId="-81">
+				<egenskaper>
+					<egenskap typeId="1555">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="10004">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="2078">
+						<verdi>Line</verdi>
+					</egenskap>
+					<egenskap typeId="1874">
+						<verdi>Lysmast</verdi>
+					</egenskap>
+					<egenskap typeId="1272">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="10003">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4787">
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654685.78 7731089.5700000003)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220028">
+						<tempId>-80</tempId>
+					</assosiasjon>
+					<assosiasjon typeId="220027">
+						<tempId>-6</tempId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<punkt lenkeId="1109881" posisjon="0.03151"/>
+				</lokasjon>
+			</vegObjekt>
+		</vegObjekter>
+	</registrer>
+</endringssett>

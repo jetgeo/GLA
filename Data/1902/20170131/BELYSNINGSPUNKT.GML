@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:fme="http://www.safe.com/gml/fme" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.safe.com/gml/fme BELYSNINGSPUNKT.xsd">
+<gml:boundedBy>
+<gml:Envelope srsName="EPSG:25833" srsDimension="2">
+<gml:lowerCorner>653570.090026855 7731001.359375</gml:lowerCorner>
+<gml:upperCorner>654978.330078125 7732042.92236328</gml:upperCorner>
+</gml:Envelope>
+</gml:boundedBy>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="id1292295a-3cb9-43e4-a4da-2e6e16acf91b">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654978.330078125 7731377.28125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="idb5f46bec-aee7-41f6-8ef0-5be5064eff4b">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20170105</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170131</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654935.379882813 7731367.8203125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="id26e5bc37-93d5-4c44-bced-a3fab03cc309">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654902.419921875 7731343.859375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="idc837d474-cb59-441d-a558-936a89de94a1">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654883.609863281 7731316.76171875</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="ide7fe1078-7feb-4b41-9455-f9b3b258674b">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654818.270019531 7731242.9609375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="id1a3545aa-f5f7-4276-b469-d0e433dd907b">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654835.129882813 7731262.109375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="ida2cae371-4683-4935-8e85-bd0c97dd4ea1">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654785.799804688 7731206.96875</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="id451c9e33-3f56-49fe-89b8-903352b60687">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654749.600097656 7731167.33984375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="idfcac93ba-8300-40c9-92e1-7031a93c01c2">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654732.2890625 7731147.82653809</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="id90365296-3929-4b11-ad7c-367b172c9735">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654699.120117188 7731127.21875</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="idf028e94d-7aa2-41fa-ad57-d91f2712eb43">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654685.779785156 7731089.5703125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="id5583d515-f5e2-4dc7-82d5-7f136a6f371c">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654662.629882813 7731061.76953125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="idf55a43dc-43dd-441d-adef-d579cd361105">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654638.419921875 7731030.23828125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="ida3878bf0-7daf-4887-afea-279be0408596">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>10</fme:MÅLEMETODE>
+<fme:NØYAKTIGHET>20</fme:NØYAKTIGHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654616.299804688 7731001.359375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="ide360b227-129d-4839-b204-6bce717cfe6b">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>eX</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161010</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20161121</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<fme:NVDB_ANTALL>1</fme:NVDB_ANTALL>
+<fme:NVDB_OVERBELASTNINGSVERN>ja</fme:NVDB_OVERBELASTNINGSVERN>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653570.090026855 7731989.9342041</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="id4e8951b4-93e2-4b48-9eda-bd032d3a9f49">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>eX</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20161121</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653578.870483398 7732017.56689453</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="idaba17b63-8a96-4361-a94f-15001189abe6">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>eX</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653587.813720703 7732042.92236328</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="id16bb326d-31c8-4083-b65d-865e8be12d65">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningOmrådePlass</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>mindreStolpe</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>eX</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20161121</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653583.131591797 7731986.18969727</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="idd2bd0865-6133-4b41-8d1f-48da0a1f8d86">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningOmrådePlass</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>mindreStolpe</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>eX</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20161121</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653594.494567871 7731982.70324707</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="id3f50640d-bc3a-40d0-a26d-e2cdd2105173">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningOmrådePlass</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>mindreStolpe</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>eX</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20161121</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653606.115783691 7731979.47521973</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="id350bcac5-d691-4f21-b221-2484191ce96e">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningOmrådePlass</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>mindreStolpe</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>eX</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653613.832885742 7731984.00634766</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="idbf4f9506-05c7-4eea-8016-b0c566a9c5cb">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningOmrådePlass</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>mindreStolpe</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>eX</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20161121</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653630.520324707 7732029.70458984</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="id8a5a9da2-c180-4508-8b53-02c8be281b60">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningOmrådePlass</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>mindreStolpe</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>eX</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20161121</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653628.066955566 7732020.40771484</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="idb2fcf496-6f54-4cea-818b-5ec0fd58ca62">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningOmrådePlass</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>mindreStolpe</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>eX</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653624.107971191 7732011.01989746</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="idd8911f64-ac52-453f-b76f-4ec575cfc269">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningOmrådePlass</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>mindreStolpe</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>eX</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653616.815979004 7731991.96118164</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="id990e81fa-740c-4252-b4d2-50f942098239">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningOmrådePlass</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>mindreStolpe</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>eX</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<fme:KOMM>1902</fme:KOMM>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>653620.461975098 7732000.57897949</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Belysningspunkt gml:id="idd75c437b-cc47-47d2-9d4e-c9e4cace1627">
+<fme:OBJTYPE>Belysningspunkt</fme:OBJTYPE>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>N</fme:ENDRET_TYPE>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_BRUKSOMRÅDE>belysningVegGate</fme:NVDB_BRUKSOMRÅDE>
+<fme:NVDB_PLASSERING>lysmast</fme:NVDB_PLASSERING>
+<fme:NVDB_STRØMTILFØRSELKATEGORI>line</fme:NVDB_STRØMTILFØRSELKATEGORI>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:NVDB_EIER>kommune</fme:NVDB_EIER>
+<fme:NVDB_VEDLIKEHOLDSANSVARLIG>kommune</fme:NVDB_VEDLIKEHOLDSANSVARLIG>
+<fme:NVDB_EIERNAVN>Tromsø kommune</fme:NVDB_EIERNAVN>
+<fme:DATAFANGSTDATO>20161120</fme:DATAFANGSTDATO>
+<fme:OPPDATERINGSDATO>20170105</fme:OPPDATERINGSDATO>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+<fme:SYNBARHET>0</fme:SYNBARHET>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654853.557861328 7731283.06872559</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Belysningspunkt>
+</gml:featureMember>
+</gml:FeatureCollection>

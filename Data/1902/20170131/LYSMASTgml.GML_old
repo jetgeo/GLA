@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:fme="http://www.safe.com/gml/fme" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.safe.com/gml/fme LYSMAST.xsd">
+<gml:boundedBy>
+<gml:Envelope srsName="EPSG:25833" srsDimension="2">
+<gml:lowerCorner>654616.302246094 7731001.359375</gml:lowerCorner>
+<gml:upperCorner>654978.33203125 7731377.28125</gml:upperCorner>
+</gml:Envelope>
+</gml:boundedBy>
+<gml:featureMember>
+<fme:Lysmast gml:id="id3204400f-2951-465d-a110-7f35d15503d9">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654935.382324219 7731367.8203125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="ideeca6b3f-ab7f-4cf8-bf03-7e0165773f0a">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654902.422363281 7731343.859375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id2f2694d4-6fe8-4536-982b-9b8454aa2eb7">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654978.33203125 7731377.28125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id3e6bacb3-c322-4737-a445-bb02dc5ed1cb">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654883.612304688 7731316.76171875</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id0f0a0235-b2fb-4862-a65e-a685b20909df">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654835.132324219 7731262.109375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id01bdafbb-3659-43bc-9c25-bd1a8ff7589e">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654818.271972656 7731242.9609375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="ided761e0e-83fe-4474-a6ca-33540d5aeb6c">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654785.802246094 7731206.96875</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="idb2c4a0e7-6eea-49f8-a45b-50c49f0136cd">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654749.602050781 7731167.33984375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="ideb462949-afb6-4de4-b10d-33c79860ac63">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654731.789550781 7731155.48828125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id47ef2726-820d-486d-a831-5ef6c3c23cd1">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654699.122070313 7731127.21875</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id73415319-332f-48ea-89eb-8356e0c40527">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654685.782226563 7731089.5703125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id72d7ab73-7e91-46b1-b831-e71ca933f7f1">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654662.632324219 7731061.76953125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id579c8903-0f49-41cb-b832-2f5bc1a44eef">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654638.421875 7731030.23828125</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+<gml:featureMember>
+<fme:Lysmast gml:id="id02687a09-23e7-4c60-aa44-47e762359b65">
+<fme:OBJTYPE>Lysmast</fme:OBJTYPE>
+<fme:GEOMETRITYPE>1</fme:GEOMETRITYPE>
+<fme:OPPDATERINGSDATO>20161120</fme:OPPDATERINGSDATO>
+<fme:ENDRINGSFLAGG>
+<fme:ENDRET_TYPE>E</fme:ENDRET_TYPE>
+<fme:ENDRET_TID>20161120</fme:ENDRET_TID>
+</fme:ENDRINGSFLAGG>
+<fme:NVDB_TYPE>tremast</fme:NVDB_TYPE>
+<fme:NVDB_TOTALMASTELENGDE>8.00000</fme:NVDB_TOTALMASTELENGDE>
+<fme:KVALITET>
+<fme:MÅLEMETODE>82</fme:MÅLEMETODE>
+</fme:KVALITET>
+<gml:pointProperty>
+<gml:Point srsName="EPSG:25833" srsDimension="2">
+<gml:pos>654616.302246094 7731001.359375</gml:pos>
+</gml:Point>
+</gml:pointProperty>
+</fme:Lysmast>
+</gml:featureMember>
+</gml:FeatureCollection>
