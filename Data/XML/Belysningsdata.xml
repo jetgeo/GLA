@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<endringssett xmlns="http://nvdb.vegvesen.no/apiskriv/domain/v2" effektDato="2017-05-11" datakatalogversjon="2.07">
+	<registrer>
+		<vegObjekter>
+			<vegObjekt typeId="86" tempId="-102">
+				<egenskaper>
+					<egenskap typeId="1554">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="3760">
+						<verdi>Nei</verdi>
+					</egenskap>
+					<egenskap typeId="1144">
+						<verdi>Bel.pkt en side av veg</verdi>
+					</egenskap>
+					<egenskap typeId="1271">
+						<verdi>Belysning veg/gate</verdi>
+					</egenskap>
+					<egenskap typeId="8397">
+						<verdi>Tromsø kommune</verdi>
+					</egenskap>
+					<egenskap typeId="5810">
+						<verdi>Kommune</verdi>
+					</egenskap>
+					<egenskap typeId="4786">
+						<verdi>målemetode=82; synbarhet=0; LINESTRING(654935.368 7731367.952,654902.509 7731343.778,654883.61 7731316.762,654835.13 7731262.109,654818.27 7731242.961,654785.8 7731206.969,654749.6 7731167.34,654732.08 7731148.15 44.94,654699.122 7731127.219,654685.78 7731089.57,654662.632 7731061.77,654638.42 7731030.238,654616.3 7731001.359)</verdi>
+					</egenskap>
+				</egenskaper>
+				<assosiasjoner>
+					<assosiasjon typeId="220026">
+						<nvdbId>670377150</nvdbId>
+					</assosiasjon>
+					<assosiasjon typeId="220026">
+						<nvdbId>670377151</nvdbId>
+					</assosiasjon>
+					<assosiasjon typeId="220026">
+						<nvdbId>670377152</nvdbId>
+					</assosiasjon>
+					<assosiasjon typeId="220026">
+						<nvdbId>670376933</nvdbId>
+					</assosiasjon>
+					<assosiasjon typeId="220026">
+						<nvdbId>670377153</nvdbId>
+					</assosiasjon>
+					<assosiasjon typeId="220026">
+						<nvdbId>670377154</nvdbId>
+					</assosiasjon>
+					<assosiasjon typeId="220026">
+						<nvdbId>670377155</nvdbId>
+					</assosiasjon>
+					<assosiasjon typeId="220026">
+						<nvdbId>670377156</nvdbId>
+					</assosiasjon>
+					<assosiasjon typeId="220026">
+						<nvdbId>670377158</nvdbId>
+					</assosiasjon>
+					<assosiasjon typeId="220026">
+						<nvdbId>670377157</nvdbId>
+					</assosiasjon>
+					<assosiasjon typeId="220026">
+						<nvdbId>670377159</nvdbId>
+					</assosiasjon>
+					<assosiasjon typeId="220026">
+						<nvdbId>670377160</nvdbId>
+					</assosiasjon>
+					<assosiasjon typeId="220026">
+						<nvdbId>670377161</nvdbId>
+					</assosiasjon>
+				</assosiasjoner>
+				<lokasjon>
+					<linje lenkeId="1109859" fra="0.03146" til="0.497"/>
+				</lokasjon>
+			</vegObjekt>
+		</vegObjekter>
+	</registrer>
+</endringssett>

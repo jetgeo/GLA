@@ -5,9 +5,8 @@
         <options/>
     </meta>
     <projectTree name="GLA.xpr">
-        <folder path="../GitHub/NVDBGML/"/>
-        <folder path="../GitHub/NVDBGML/GML/"/>
         <folder path="."/>
-        <folder path="../NIFS/"/>
+        <folder path="../NVDBGML/API/"/>
+        <folder path="../../NIFS/"/>
     </projectTree>
 </project>
