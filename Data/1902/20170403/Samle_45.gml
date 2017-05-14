@@ -741,7 +741,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -767,7 +767,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -793,7 +793,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -819,7 +819,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -845,7 +845,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -871,7 +871,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -897,7 +897,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -923,7 +923,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -949,7 +949,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -975,7 +975,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -1001,7 +1001,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -1027,7 +1027,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -1053,7 +1053,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -1079,7 +1079,7 @@
           <nvdb:målemetode>10</nvdb:målemetode>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
@@ -1106,7 +1106,7 @@
           <nvdb:synbarhet>0</nvdb:synbarhet>
         </nvdb:Posisjonskvalitet>
       </nvdb:kvalitet>
-      <nvdb:lyskildeType>natrium_Høytrykk</nvdb:lyskildeType>
+      <nvdb:lyskildeType>natriumHøytrykk</nvdb:lyskildeType>
       <nvdb:effekt>70.000000</nvdb:effekt>
       <nvdb:driftsattår>20070405</nvdb:driftsattår>
       <nvdb:antallLyskilderPerArmatur>1</nvdb:antallLyskilderPerArmatur>
