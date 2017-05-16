@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<endringssett xmlns="http://nvdb.vegvesen.no/apiskriv/domain/v2" effektDato="2017-04-04" datakatalogversjon="2.07">
+<endringssett xmlns="http://nvdb.vegvesen.no/apiskriv/domain/v2" effektDato="2017-05-16" datakatalogversjon="2.07">
 	<registrer>
 		<vegObjekter>
 			<vegObjekt typeId="88" tempId="-92">
 				<egenskaper>
 					<egenskap typeId="10007">
-						<verdi>2015</verdi>
+						<verdi>2017</verdi>
 					</egenskap>
 					<egenskap typeId="2077">
 						<verdi>LED</verdi>
 					</egenskap>
 					<egenskap typeId="9953">
-						<verdi>16152</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="1529">
-						<verdi>3720</verdi>
+						<verdi>Philips</verdi>
 					</egenskap>
 					<egenskap typeId="1955">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805">
 						<verdi>106.000000</verdi>
@@ -29,13 +29,13 @@
 						<verdi>Iridiumē</verdi>
 					</egenskap>
 					<egenskap typeId="2199">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="9955">
-						<verdi>16159</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4788">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(653630.52 7732029.705)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(653630.52 7732029.705)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon>
@@ -45,19 +45,19 @@
 			<vegObjekt typeId="88" tempId="-93">
 				<egenskaper>
 					<egenskap typeId="10007">
-						<verdi>2015</verdi>
+						<verdi>2017</verdi>
 					</egenskap>
 					<egenskap typeId="2077">
 						<verdi>LED</verdi>
 					</egenskap>
 					<egenskap typeId="9953">
-						<verdi>16152</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="1529">
-						<verdi>3720</verdi>
+						<verdi>Philips</verdi>
 					</egenskap>
 					<egenskap typeId="1955">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805">
 						<verdi>106.000000</verdi>
@@ -69,13 +69,13 @@
 						<verdi>Iridiumē LED</verdi>
 					</egenskap>
 					<egenskap typeId="2199">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="9955">
-						<verdi>16159</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4788">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(653628.067 7732020.408)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(653628.067 7732020.408)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon>
@@ -85,19 +85,19 @@
 			<vegObjekt typeId="88" tempId="-94">
 				<egenskaper>
 					<egenskap typeId="10007">
-						<verdi>2015</verdi>
+						<verdi>2017</verdi>
 					</egenskap>
 					<egenskap typeId="2077">
 						<verdi>LED</verdi>
 					</egenskap>
 					<egenskap typeId="9953">
-						<verdi>16152</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="1529">
-						<verdi>3720</verdi>
+						<verdi>Philips</verdi>
 					</egenskap>
 					<egenskap typeId="1955">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805">
 						<verdi>106.000000</verdi>
@@ -109,13 +109,13 @@
 						<verdi>Iridiumē LED</verdi>
 					</egenskap>
 					<egenskap typeId="2199">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="9955">
-						<verdi>16159</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4788">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(653624.108 7732011.02)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(653624.108 7732011.02)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon>
@@ -125,19 +125,19 @@
 			<vegObjekt typeId="88" tempId="-95">
 				<egenskaper>
 					<egenskap typeId="10007">
-						<verdi>2015</verdi>
+						<verdi>2017</verdi>
 					</egenskap>
 					<egenskap typeId="2077">
 						<verdi>LED</verdi>
 					</egenskap>
 					<egenskap typeId="9953">
-						<verdi>16152</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="1529">
-						<verdi>3720</verdi>
+						<verdi>Philips</verdi>
 					</egenskap>
 					<egenskap typeId="1955">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805">
 						<verdi>106.000000</verdi>
@@ -149,13 +149,13 @@
 						<verdi>Iridiumē LED</verdi>
 					</egenskap>
 					<egenskap typeId="2199">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="9955">
-						<verdi>16159</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4788">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(653620.462 7732000.579)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(653620.462 7732000.579)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon>
@@ -165,19 +165,19 @@
 			<vegObjekt typeId="88" tempId="-96">
 				<egenskaper>
 					<egenskap typeId="10007">
-						<verdi>2015</verdi>
+						<verdi>2017</verdi>
 					</egenskap>
 					<egenskap typeId="2077">
 						<verdi>LED</verdi>
 					</egenskap>
 					<egenskap typeId="9953">
-						<verdi>16152</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="1529">
-						<verdi>3720</verdi>
+						<verdi>Philips</verdi>
 					</egenskap>
 					<egenskap typeId="1955">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805">
 						<verdi>106.000000</verdi>
@@ -189,13 +189,13 @@
 						<verdi>Iridiumē LED</verdi>
 					</egenskap>
 					<egenskap typeId="2199">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="9955">
-						<verdi>16159</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4788">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(653616.816 7731991.961)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(653616.816 7731991.961)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon>
@@ -205,19 +205,19 @@
 			<vegObjekt typeId="88" tempId="-97">
 				<egenskaper>
 					<egenskap typeId="10007">
-						<verdi>2015</verdi>
+						<verdi>2017</verdi>
 					</egenskap>
 					<egenskap typeId="2077">
 						<verdi>LED</verdi>
 					</egenskap>
 					<egenskap typeId="9953">
-						<verdi>16152</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="1529">
-						<verdi>3720</verdi>
+						<verdi>Philips</verdi>
 					</egenskap>
 					<egenskap typeId="1955">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805">
 						<verdi>106.000000</verdi>
@@ -229,13 +229,13 @@
 						<verdi>Iridiumē LED</verdi>
 					</egenskap>
 					<egenskap typeId="2199">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="9955">
-						<verdi>16159</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4788">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(653606.116 7731979.475)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(653606.116 7731979.475)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon>
@@ -245,19 +245,19 @@
 			<vegObjekt typeId="88" tempId="-98">
 				<egenskaper>
 					<egenskap typeId="10007">
-						<verdi>2015</verdi>
+						<verdi>2017</verdi>
 					</egenskap>
 					<egenskap typeId="2077">
 						<verdi>LED</verdi>
 					</egenskap>
 					<egenskap typeId="9953">
-						<verdi>16152</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="1529">
-						<verdi>3720</verdi>
+						<verdi>Philips</verdi>
 					</egenskap>
 					<egenskap typeId="1955">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805">
 						<verdi>106.000000</verdi>
@@ -269,13 +269,13 @@
 						<verdi>Iridiumē LED</verdi>
 					</egenskap>
 					<egenskap typeId="2199">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="9955">
-						<verdi>16159</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4788">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(653613.833 7731984.006)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(653613.833 7731984.006)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon>
@@ -285,19 +285,19 @@
 			<vegObjekt typeId="88" tempId="-99">
 				<egenskaper>
 					<egenskap typeId="10007">
-						<verdi>2015</verdi>
+						<verdi>2017</verdi>
 					</egenskap>
 					<egenskap typeId="2077">
 						<verdi>LED</verdi>
 					</egenskap>
 					<egenskap typeId="9953">
-						<verdi>16152</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="1529">
-						<verdi>3720</verdi>
+						<verdi>Philips</verdi>
 					</egenskap>
 					<egenskap typeId="1955">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805">
 						<verdi>106.000000</verdi>
@@ -309,13 +309,13 @@
 						<verdi>Iridiumē LED</verdi>
 					</egenskap>
 					<egenskap typeId="2199">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="9955">
-						<verdi>16159</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4788">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(653594.495 7731982.703)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(653594.495 7731982.703)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon>
@@ -325,19 +325,19 @@
 			<vegObjekt typeId="88" tempId="-100">
 				<egenskaper>
 					<egenskap typeId="10007">
-						<verdi>2015</verdi>
+						<verdi>2017</verdi>
 					</egenskap>
 					<egenskap typeId="2077">
 						<verdi>LED</verdi>
 					</egenskap>
 					<egenskap typeId="9953">
-						<verdi>16152</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="1529">
-						<verdi>3720</verdi>
+						<verdi>Philips</verdi>
 					</egenskap>
 					<egenskap typeId="1955">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805">
 						<verdi>106.000000</verdi>
@@ -349,13 +349,13 @@
 						<verdi>Iridiumē LED</verdi>
 					</egenskap>
 					<egenskap typeId="2199">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="9955">
-						<verdi>16159</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4788">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(653570.09 7731989.934)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(653570.09 7731989.934)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon>
@@ -365,19 +365,19 @@
 			<vegObjekt typeId="88" tempId="-101">
 				<egenskaper>
 					<egenskap typeId="10007">
-						<verdi>2015</verdi>
+						<verdi>2017</verdi>
 					</egenskap>
 					<egenskap typeId="2077">
 						<verdi>LED</verdi>
 					</egenskap>
 					<egenskap typeId="9953">
-						<verdi>16152</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="1529">
-						<verdi>3720</verdi>
+						<verdi>Philips</verdi>
 					</egenskap>
 					<egenskap typeId="1955">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805">
 						<verdi>106.000000</verdi>
@@ -389,13 +389,13 @@
 						<verdi>Iridiumē LED</verdi>
 					</egenskap>
 					<egenskap typeId="2199">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="9955">
-						<verdi>16159</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4788">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(653583.132 7731986.19)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(653583.132 7731986.19)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon>
@@ -405,22 +405,22 @@
 			<vegObjekt typeId="88" tempId="-127">
 				<egenskaper>
 					<egenskap typeId="10007">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="1955">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2199">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="2077">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(654853.6 7731282.96)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(654853.6 7731282.96)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon>
@@ -434,22 +434,22 @@
 			<vegObjekt typeId="88" nvdbId="670383204" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654935.38 7731367.82)</verdi>
+						<verdi>målemetode=10; POINT(654935.38 7731367.82)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -459,22 +459,22 @@
 			<vegObjekt typeId="88" nvdbId="670383193" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654616.3 7731001.359)</verdi>
+						<verdi>målemetode=10; POINT(654616.3 7731001.359)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -484,22 +484,22 @@
 			<vegObjekt typeId="88" nvdbId="670383194" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654638.42 7731030.238)</verdi>
+						<verdi>målemetode=10; POINT(654638.42 7731030.238)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -509,22 +509,22 @@
 			<vegObjekt typeId="88" nvdbId="670382976" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654685.78 7731089.57)</verdi>
+						<verdi>målemetode=10; POINT(654685.78 7731089.57)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -534,22 +534,22 @@
 			<vegObjekt typeId="88" nvdbId="670383195" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654662.63 7731061.77)</verdi>
+						<verdi>målemetode=10; POINT(654662.63 7731061.77)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -559,22 +559,22 @@
 			<vegObjekt typeId="88" nvdbId="670383196" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654699.12 7731127.219)</verdi>
+						<verdi>målemetode=10; POINT(654699.12 7731127.219)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -584,22 +584,22 @@
 			<vegObjekt typeId="88" nvdbId="670383197" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654732.08 7731148.15 44.94)</verdi>
+						<verdi>målemetode=10; POINT(654732.08 7731148.15 44.94)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -609,22 +609,22 @@
 			<vegObjekt typeId="88" nvdbId="670383198" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654749.6 7731167.34)</verdi>
+						<verdi>målemetode=10; POINT(654749.6 7731167.34)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -634,22 +634,22 @@
 			<vegObjekt typeId="88" nvdbId="670383199" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654785.8 7731206.969)</verdi>
+						<verdi>målemetode=10; POINT(654785.8 7731206.969)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -659,22 +659,22 @@
 			<vegObjekt typeId="88" nvdbId="670383200" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654818.27 7731242.961)</verdi>
+						<verdi>målemetode=10; POINT(654818.27 7731242.961)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -684,22 +684,22 @@
 			<vegObjekt typeId="88" nvdbId="670383201" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654835.13 7731262.109)</verdi>
+						<verdi>målemetode=10; POINT(654835.13 7731262.109)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -709,22 +709,22 @@
 			<vegObjekt typeId="88" nvdbId="670383202" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654883.61 7731316.762)</verdi>
+						<verdi>målemetode=10; POINT(654883.61 7731316.762)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -734,22 +734,22 @@
 			<vegObjekt typeId="88" nvdbId="670383203" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654902.42 7731343.859)</verdi>
+						<verdi>målemetode=10; POINT(654902.42 7731343.859)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -759,22 +759,22 @@
 			<vegObjekt typeId="88" nvdbId="670381945" versjon="1">
 				<egenskaper>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>20070405</verdi>
+						<verdi>2007</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>70.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="2077" operasjon="oppdater">
-						<verdi>natrium_Høytrykk</verdi>
+						<verdi>Natrium, høytrykk</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=10; LINESTRING(654978.33 7731377.281)</verdi>
+						<verdi>målemetode=10; POINT(654978.33 7731377.281)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -787,34 +787,34 @@
 						<verdi>LED</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10010" operasjon="oppdater">
 						<verdi>Tromsø kommune</verdi>
 					</egenskap>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>2015</verdi>
+						<verdi>2017</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>106.000000</verdi>
 					</egenskap>
 					<egenskap typeId="9953" operasjon="oppdater">
-						<verdi>16152</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="1529" operasjon="oppdater">
-						<verdi>3720</verdi>
+						<verdi>Philips</verdi>
 					</egenskap>
 					<egenskap typeId="1451" operasjon="oppdater">
 						<verdi>Iridiumē LED</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="9955" operasjon="oppdater">
-						<verdi>16159</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(653587.814 7732042.922)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(653587.814 7732042.922)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
@@ -827,34 +827,34 @@
 						<verdi>LED</verdi>
 					</egenskap>
 					<egenskap typeId="2199" operasjon="oppdater">
-						<verdi>4678</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="10010" operasjon="oppdater">
 						<verdi>Tromsø kommune</verdi>
 					</egenskap>
 					<egenskap typeId="10007" operasjon="oppdater">
-						<verdi>2015</verdi>
+						<verdi>2017</verdi>
 					</egenskap>
 					<egenskap typeId="9953" operasjon="oppdater">
-						<verdi>16152</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="10805" operasjon="oppdater">
 						<verdi>106.000000</verdi>
 					</egenskap>
 					<egenskap typeId="1529" operasjon="oppdater">
-						<verdi>3720</verdi>
+						<verdi>Philips</verdi>
 					</egenskap>
 					<egenskap typeId="1451" operasjon="oppdater">
 						<verdi>Iridiumē LED</verdi>
 					</egenskap>
 					<egenskap typeId="1955" operasjon="oppdater">
-						<verdi>3730</verdi>
+						<verdi>1</verdi>
 					</egenskap>
 					<egenskap typeId="9955" operasjon="oppdater">
-						<verdi>16159</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4788" operasjon="oppdater">
-						<verdi>målemetode=82; synbarhet=0; LINESTRING(653578.87 7732017.567)</verdi>
+						<verdi>målemetode=82; synbarhet=0; POINT(653578.87 7732017.567)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">

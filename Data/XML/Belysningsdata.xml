@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<endringssett xmlns="http://nvdb.vegvesen.no/apiskriv/domain/v2" effektDato="2017-05-14" datakatalogversjon="2.07">
+<endringssett xmlns="http://nvdb.vegvesen.no/apiskriv/domain/v2" effektDato="2017-05-16" datakatalogversjon="2.07">
 	<registrer>
 		<vegObjekter>
 			<vegObjekt typeId="181" tempId="-82">
@@ -1747,11 +1747,11 @@
 						<verdi>Tremast</verdi>
 					</egenskap>
 					<egenskap typeId="4838" operasjon="oppdater">
-						<verdi>målemetode=82; POINT(654732.567 7731148.145)</verdi>
+						<verdi>målemetode=82; POINT(654732.08 7731148.15)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
-					<punkt lenkeId="1109859" posisjon="0.31915"/>
+					<punkt lenkeId="1109859" posisjon="0.31937"/>
 				</lokasjon>
 			</vegObjekt>
 			<vegObjekt typeId="181" nvdbId="627044186" versjon="1">
@@ -2192,11 +2192,11 @@
 						<verdi>Line</verdi>
 					</egenskap>
 					<egenskap typeId="4787" operasjon="oppdater">
-						<verdi>målemetode=10; nøyaktighet=20; POINT(654732.289 7731147.827)</verdi>
+						<verdi>målemetode=10; nøyaktighet=20; POINT(654732.08 7731148.15)</verdi>
 					</egenskap>
 				</egenskaper>
 				<lokasjon operasjon="oppdater">
-					<punkt lenkeId="1109859" posisjon="0.31946"/>
+					<punkt lenkeId="1109859" posisjon="0.31937"/>
 				</lokasjon>
 			</vegObjekt>
 			<vegObjekt typeId="87" nvdbId="670377153" versjon="1">

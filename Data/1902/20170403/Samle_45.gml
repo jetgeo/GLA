@@ -214,7 +214,7 @@
       <nvdb:totalMastelengde>8.000000</nvdb:totalMastelengde>
       <nvdb:posisjon>
         <gml:Point gml:id="P_100000037" srsName="urn:ogc:def:crs:EPSG::6173" srsDimension="3">
-          <gml:pos>654732.5673828125 7731148.1446533203 -99999.0</gml:pos>
+          <gml:pos>654732.080078125 7731148.1500244141 -99999.0</gml:pos>
         </gml:Point>
       </nvdb:posisjon>
     </nvdb:Lysmast>
@@ -1793,7 +1793,7 @@
       <nvdb:vedlikeholdsansvarlig>kommune</nvdb:vedlikeholdsansvarlig>
       <nvdb:posisjon>
         <gml:Point gml:id="P_100000009" srsName="urn:ogc:def:crs:EPSG::6173" srsDimension="3">
-          <gml:pos>654732.2890625 7731147.8265380859 -99999.0</gml:pos>
+          <gml:pos>654732.080078125 7731148.1500244141 -99999.0</gml:pos>
         </gml:Point>
       </nvdb:posisjon>
     </nvdb:Belysningspunkt>

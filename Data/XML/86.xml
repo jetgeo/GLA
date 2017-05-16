@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<endringssett xmlns="http://nvdb.vegvesen.no/apiskriv/domain/v2" effektDato="2017-04-04" datakatalogversjon="2.07">
+<endringssett xmlns="http://nvdb.vegvesen.no/apiskriv/domain/v2" effektDato="2017-05-16" datakatalogversjon="2.07">
 	<registrer>
 		<vegObjekter>
 			<vegObjekt typeId="86" tempId="-102">
 				<egenskaper>
 					<egenskap typeId="1554">
-						<verdi>2145</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="3760">
-						<verdi>4720</verdi>
+						<verdi>Nei</verdi>
 					</egenskap>
 					<egenskap typeId="1144">
-						<verdi>3761</verdi>
+						<verdi>Bel.pkt en side av veg</verdi>
 					</egenskap>
 					<egenskap typeId="1271">
-						<verdi>2954</verdi>
+						<verdi>Belysning veg/gate</verdi>
 					</egenskap>
 					<egenskap typeId="8397">
 						<verdi>Tromsø kommune</verdi>
 					</egenskap>
 					<egenskap typeId="5810">
-						<verdi>8231</verdi>
+						<verdi>Kommune</verdi>
 					</egenskap>
 					<egenskap typeId="4786">
 						<verdi>målemetode=82; synbarhet=0; LINESTRING(654935.368 7731367.952,654902.509 7731343.778,654883.61 7731316.762,654835.13 7731262.109,654818.27 7731242.961,654785.8 7731206.969,654749.6 7731167.34,654732.08 7731148.15 44.94,654699.122 7731127.219,654685.78 7731089.57,654662.632 7731061.77,654638.42 7731030.238,654616.3 7731001.359)</verdi>
