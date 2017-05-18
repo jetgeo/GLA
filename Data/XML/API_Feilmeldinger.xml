@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<status xmlns="http://nvdb.vegvesen.no/apiskriv/domain/v2">
+  <mottatt>2017-05-18T08:54:34.194</mottatt>
+  <fremdrift>AVVIST</fremdrift>
+  <avvistårsak>VALIDERINGSFEIL</avvistårsak>
+  <resultat>
+    <vegObjekter>
+      <vegObjekt tempId="-83">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-84">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-85">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-105">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-106">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-107">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627043008">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627044191">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627044190">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-86">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-87">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-88">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-108">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-109">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-110">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627044189">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627044188">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627044187">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="628795614">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Vedlikeholdsansvarlig (9956), Utligger (3895), RAL-kode (3886), Eier, navn (10015), Bardun/strever (4528), Eier (9954), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-89">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-90">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-111">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-112">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-127">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-91">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-92">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Inngår i nødsystemet (10012), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-144">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Vedlikeholdsansvarlig (9956), Utligger (3895), RAL-kode (3886), Eier, navn (10015), Bardun/strever (4528), Eier (9954), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-163">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670383204">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670377161</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627044186">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627043972">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627044185">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670383193">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670377150</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670383194">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670377151</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670382976">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670376933</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627044184">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627044183">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="634501832">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="634501834">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670379421">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670377161">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670377160">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670377159">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670377157">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670377158">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670377156">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670377155">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670377154">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670377153">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670376933">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670377152">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670377151">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-93">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Inngår i nødsystemet (10012), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670377150">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670349700">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670349701">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-94">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Inngår i nødsystemet (10012), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-95">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Inngår i nødsystemet (10012), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670383195">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670377152</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670383196">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670377153</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670383197">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670377154</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-96">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Inngår i nødsystemet (10012), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-97">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Inngår i nødsystemet (10012), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670383198">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670377155</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670383199">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670377156</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670383200">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670377157</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-98">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Inngår i nødsystemet (10012), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-99">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Inngår i nødsystemet (10012), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670383201">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670377158</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670383202">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670377159</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670383203">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670377160</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-100">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Inngår i nødsystemet (10012), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-101">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Inngår i nødsystemet (10012), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670381945">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670379421</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Vedlikeholdsansvarlig (9955), Eier, navn (10010), Inngår i nødsystemet (10012), Eier (9953), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670375132">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670349701</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Inngår i nødsystemet (10012), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-82">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-102">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningsstrekning (86), mangler egenskaper med viktighet 'betinget': [Dimming (10001)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/86</referanse>
+          </advarsel>
+          <advarsel kode="MANGLER_ANBEFALTE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningsstrekning (86), mangler egenskaper med viktighet 'påkrevd, ikke absolutt': [Byggeår (8399)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/86</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-103">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt tempId="-104">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Belysningspunkt (87), mangler egenskaper med viktighet 'betinget': [Antall (2198), Fellesføring leietaker (10005), Fellesføring med annen etat (8745)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/87</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="670375131">
+        <feil>
+          <feil kode="STEDFESTING_UTENFOR_MOROBJEKT">
+            <melding>Objektet har ikke stedfesting som fullstendig dekkes av morobjekt av type Belysningspunkt (87): nvdbId 670349700</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+            <egenskapTypeId>100088</egenskapTypeId>
+          </feil>
+        </feil>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysarmatur (88), mangler egenskaper med viktighet 'betinget': [Dimming (8402), Inngår i nødsystemet (10012), Driftsmerking (10008)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/88</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627044193">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+      <vegObjekt nvdbId="627044192">
+        <feil/>
+        <advarsel>
+          <advarsel kode="MANGLER_BETINGET_PÅKREVDE_EGENSKAPER">
+            <melding>Objektet, av typen Lysmast (181), mangler egenskaper med viktighet 'betinget': [Driftsmerking (3887), Utligger (3895), RAL-kode (3886), Bardun/strever (4528), Ettergivende mast (1662)]</melding>
+            <referanse>http://labs.vegdata.no/nvdb-datakatalog/181</referanse>
+          </advarsel>
+        </advarsel>
+      </vegObjekt>
+    </vegObjekter>
+    <feil/>
+    <advarsel>
+      <advarsel kode="IKKE_GJELDENDE_DATAKATALOGVERSJON">
+        <melding>Datakatalogversjonen i endringssettet er ulik nåværende datakatalogversjon: 2.08</melding>
+      </advarsel>
+    </advarsel>
+  </resultat>
+  <eier>knjetl</eier>
+  <klient>NVDB API Skriv Generator</klient>
+</status>
