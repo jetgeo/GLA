@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:sc="http://www.interactive-instruments.de/ShapeChange/AppInfo" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:nvdb="https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB" gml:id="id74e8ed13-6dab-4106-9e33-bcb4835d8c3d" xsi:schemaLocation="https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/86 https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/86/86.xsd">
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:sc="http://www.interactive-instruments.de/ShapeChange/AppInfo" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:nvdb="https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB" gml:id="id1bc114d9-27a4-4c1f-88d4-12cd084cd79f" xsi:schemaLocation="https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/86 https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/86/86.xsd">
 	<gml:boundedBy>
 		<gml:Envelope srsName="EPSG:6173" srsDimension="3">
 			<gml:lowerCorner>616609.4082 7708143.89981729 -101.21</gml:lowerCorner>
@@ -16390,6 +16390,48 @@
 			<nvdb:assosiertBelysningspunkt xlink:href="Belysningspunkt.gml#vegvesen.no.nvdb.249874572_0"/>
 			<nvdb:assosiertBelysningspunkt xlink:href="Belysningspunkt.gml#vegvesen.no.nvdb.272026970_0"/>
 			<nvdb:assosiertBelysningspunkt xlink:href="Belysningspunkt.gml#vegvesen.no.nvdb.272026973_0"/>
+		</nvdb:Belysningsstrekning>
+	</gml:featureMember>
+	<gml:featureMember>
+		<nvdb:Belysningsstrekning gml:id="vegvesen.no.nvdb.783556867_0">
+			<nvdb:identifikasjon>
+				<nvdb:Identifikasjon>
+					<nvdb:lokalId>783556867</nvdb:lokalId>
+					<nvdb:navnerom>vegvesen.no.nvdb</nvdb:navnerom>
+					<nvdb:versjonId>1</nvdb:versjonId>
+				</nvdb:Identifikasjon>
+			</nvdb:identifikasjon>
+			<nvdb:prosesshistorie>Geometri: Egengeometri fra NVDB</nvdb:prosesshistorie>
+			<nvdb:vegreferanse>
+				<nvdb:Vegreferanse>
+					<nvdb:vegkategori>K</nvdb:vegkategori>
+					<nvdb:vegstatus>V</nvdb:vegstatus>
+					<nvdb:vegnummer>60600</nvdb:vegnummer>
+					<nvdb:hovedparsell>1</nvdb:hovedparsell>
+					<nvdb:veglenkeMeterFra>33</nvdb:veglenkeMeterFra>
+					<nvdb:veglenkeMeterTil>521</nvdb:veglenkeMeterTil>
+				</nvdb:Vegreferanse>
+			</nvdb:vegreferanse>
+			<nvdb:bruksområde>belysningVegGate</nvdb:bruksområde>
+			<nvdb:type>belPktEnSideAvVeg</nvdb:type>
+			<nvdb:fjernstyring>nei</nvdb:fjernstyring>
+			<nvdb:eier>kommune</nvdb:eier>
+			<nvdb:eier_Navn>Tromsø kommune</nvdb:eier_Navn>
+			<nvdb:vedlikeholdsansvarlig>kommune</nvdb:vedlikeholdsansvarlig>
+			<nvdb:senterlinje>
+				<gml:LineString gml:id="vegvesen.no.nvdb.783556867_0-0" srsName="EPSG:6173" srsDimension="3">
+					<gml:posList>654935.382 7731367.82 NaN 654902.509 7731343.778 NaN 654883.61 7731316.762 NaN 654835.13 7731262.109 NaN 654818.27 7731242.961 NaN 654785.8 7731206.969 NaN 654749.6 7731167.34 NaN 654732.08 7731148.15 NaN 654699.122 7731127.219 NaN 654685.78 7731089.57 NaN 654662.632 7731061.77 NaN 654638.42 7731030.238 NaN 654616.302 7731001.359 NaN</gml:posList>
+				</gml:LineString>
+			</nvdb:senterlinje>
+			<nvdb:lineærPosisjon>
+				<nvdb:LineærPosisjonStrekning>
+					<nvdb:lineærReferanseMetode>normalisert</nvdb:lineærReferanseMetode>
+					<nvdb:retning>med</nvdb:retning>
+					<nvdb:nettverkselement xlink:href="Veglenker.gml#vegvesen.no.nvdb.rl.1109859"/>
+					<nvdb:fraPosisjon>0.03152</nvdb:fraPosisjon>
+					<nvdb:tilPosisjon>0.497</nvdb:tilPosisjon>
+				</nvdb:LineærPosisjonStrekning>
+			</nvdb:lineærPosisjon>
 		</nvdb:Belysningsstrekning>
 	</gml:featureMember>
 </gml:FeatureCollection>
