@@ -1,0 +1,2573 @@
+#! <?xml version="1.0" encoding="UTF-8" ?>
+#! <WORKSPACE
+#    Command-line to run this workspace:
+#        "C:\Program Files\FME\fme.exe" C:\DATA\GitHub\GLA\FMW\TestAvForskyvning.fmw
+#              --SourceDataset_GML "C:\DATA\GitHub\GLA\Data\501\20180508_Gatelys_Lillehammer.gml"
+#              --SourceDataset_GML_5 """"""C:\DATA\GitHub\NVDBGML\GML\kommune\501\87\Belysningspunkt.gml"" ""C:\DATA\GitHub\NVDBGML\GML\kommune\501\87\Belysningsstrekning.gml"" ""C:\DATA\GitHub\NVDBGML\GML\kommune\501\87\Lysarmatur.gml"" ""C:\DATA\GitHub\NVDBGML\GML\kommune\501\87\Lysmast.gml""""""
+#              --SourceDataset_GML_4 "C:\DATA\GitHub\NVDBGML\GML\kommune\501\481\Tennpunkt.gml"
+#    
+#!   ATTR_TYPE_ENCODING="SDF"
+#!   BEGIN_PYTHON=""
+#!   BEGIN_TCL=""
+#!   CATEGORY=""
+#!   DESCRIPTION=""
+#!   DESTINATION="NONE"
+#!   DESTINATION_ROUTING_FILE=""
+#!   DOC_EXTENTS="2561.52 1408.01"
+#!   DOC_TOP_LEFT="-342.504 -1335.5"
+#!   END_PYTHON=""
+#!   END_TCL=""
+#!   EXPLICIT_BOOKMARK_ORDER="false"
+#!   FME_BUILD_NUM="18310"
+#!   FME_DOCUMENT_GUID="aa2fc677-dd13-49dc-b7d2-6b222353eb1c"
+#!   FME_DOCUMENT_PRIORGUID="3f4cc287-8ec2-4128-bff7-356bf38359f0,ba151afa-ed73-4339-af6a-0d2872c9dc5d"
+#!   FME_GEOMETRY_HANDLING="Enhanced"
+#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#!   FME_REPROJECTION_ENGINE="FME"
+#!   FME_SERVER_SERVICES=""
+#!   FME_STROKE_MAX_DEVIATION="0"
+#!   HISTORY=""
+#!   IGNORE_READER_FAILURE="No"
+#!   LAST_SAVE_BUILD="FME(R) 2018.0.1.0 (20180518 - Build 18310 - WIN64)"
+#!   LAST_SAVE_DATE="2018-08-20T15:19:40"
+#!   LOG_FILE=""
+#!   LOG_MAX_RECORDED_FEATURES="200"
+#!   MARKDOWN_DESCRIPTION=""
+#!   MARKDOWN_USAGE=""
+#!   MAX_LOG_FEATURES="200"
+#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
+#!   PASSWORD=""
+#!   PYTHON_COMPATIBILITY="2or3"
+#!   REDIRECT_TERMINATORS="NONE"
+#!   SHOW_ANNOTATIONS="true"
+#!   SHOW_INFO_NODES="true"
+#!   SOURCE="NONE"
+#!   SOURCE_ROUTING_FILE=""
+#!   TERMINATE_REJECTED="YES"
+#!   TITLE=""
+#!   USAGE=""
+#!   USE_MARKDOWN=""
+#!   VIEW_POSITION="-640.006 0"
+#!   WARN_INVALID_XFORM_PARAM="Yes"
+#!   WORKSPACE_VERSION="1"
+#!   ZOOM_SCALE="100"
+#! >
+#! <DATASETS>
+#! <DATASET
+#!   IS_SOURCE="true"
+#!   ROLE="READER"
+#!   FORMAT="GML"
+#!   DATASET="$(SourceDataset_GML)"
+#!   KEYWORD="GML_1"
+#!   MULTI_GEOM_ALLOWED="false"
+#!   ATTR_MAX_LENGTH="0"
+#!   ATTR_CASE="ANY"
+#!   ALLOWED_FEAT_TYPES=""
+#!   WRITE_DEFS="true"
+#!   DEFLINE_TEMPLATE=""
+#!   DEFLINE_ATTRS="true"
+#!   EXPOSABLE_ATTRS="gml_parent_id xml_char(254) fme_feature_type xml_char(50) fme_rotation xml_real64 gml_id xml_char(254) fme_dataset xml_char(50) gml_parent_property xml_char(254) multi_reader_full_id xml_int32 fme_geometry xml_char(50) multi_reader_type xml_char(50) xml_ns_uri xml_char(254) fme_sweep_angle xml_real64 fme_text_size xml_real64 fme_basename xml_char(50) fme_color xml_char(50) fme_fill_color xml_char(50) fme_start_angle xml_real64 fme_type xml_char(50) multi_reader_id xml_int32 gml_original_coordinate_system xml_char(64) fme_primary_axis xml_real64 multi_reader_keyword xml_char(50) fme_secondary_axis xml_real64 fme_text_string xml_char(50) xml_type xml_char(50)"
+#!   DEFLINE_PARMS=""
+#!   ATTR_INDEX_TYPES=""
+#!   ATTR_NAME_INVALID_CHARS=""
+#!   SUPPORTS_FEATURE_TYPE_FANOUT="true"
+#!   ENABLED="true"
+#!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
+#!   DATASET_TYPE="FILE_OR_URL"
+#!   GENERATE_FME_BUILD_NUM="18310"
+#!   COORDSYS=""
+#!   FEATURE_TYPES=""
+#!   MAX_FEATURES=""
+#!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   MIN_FEATURES=""
+#!   START_FEATURE=""
+#! >
+#! <METAFILE_PARAMETER
+#!   NAME="ADVANCED_PARMS"
+#!   VALUE="GML_IN_SYSTEM_ENCODING GML_IN_CONTINUE_ON_GEOM_ERROR GML_IN_CACHE_XSD GML_IN_CACHE_XSD_EXPIRY_TIME GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV GML_IN_MAP_GEOMETRY_COLUMNS GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES GML_IN_MAX_MULTI_LIST_LEVEL GML_IN_XML_FRAGMENTS_AS_DOCUMENTS GML_IN_USE_OLD_READER GML_IN_DISABLE_XML_NAMESPACE_PROCESSING GML_IN_FLATTEN_XML_FRAGMENTS GML_IN_XML_FRAGMENTS_AS_DOCUMENTS GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS GML_IN_MAP_COMPLEX_PROPERTIES_AS GML_IN_SRS_ANGLE_DIRECTION GML_IN_ENFORCE_PATH_CONTINUITY_BY GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR GML_IN_MAP_PREDEFINED_GML_PROPERTIES GML_IN_MAP_EMBEDDED_OBJECTS_AS GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="DATASET_NAME"
+#!   VALUE="gml file"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="MIME_TYPE"
+#!   VALUE="application/xml"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="NETWORK_AUTHENTICATION"
+#!   VALUE="ALWAYS"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="NETWORK_PROXY"
+#!   VALUE="NO"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="READER_DATASET_HINT"
+#!   VALUE="Select the GML file(s)"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="WRITER_DATASET_HINT"
+#!   VALUE="Specify a name for the GML file"
+#! />
+#! </DATASET>
+#! <DATASET
+#!   IS_SOURCE="true"
+#!   ROLE="READER"
+#!   FORMAT="GML"
+#!   DATASET="$(SourceDataset_GML_5)"
+#!   KEYWORD="GML_2"
+#!   MULTI_GEOM_ALLOWED="false"
+#!   ATTR_MAX_LENGTH="0"
+#!   ATTR_CASE="ANY"
+#!   ALLOWED_FEAT_TYPES=""
+#!   WRITE_DEFS="true"
+#!   DEFLINE_TEMPLATE=""
+#!   DEFLINE_ATTRS="true"
+#!   EXPOSABLE_ATTRS="gml_parent_id xml_char(254) fme_feature_type xml_char(50) fme_rotation xml_real64 gml_id xml_char(254) fme_dataset xml_char(50) gml_parent_property xml_char(254) multi_reader_full_id xml_int32 fme_geometry xml_char(50) multi_reader_type xml_char(50) xml_ns_uri xml_char(254) fme_sweep_angle xml_real64 fme_text_size xml_real64 fme_basename xml_char(50) fme_color xml_char(50) fme_fill_color xml_char(50) fme_start_angle xml_real64 fme_type xml_char(50) multi_reader_id xml_int32 gml_original_coordinate_system xml_char(64) fme_primary_axis xml_real64 multi_reader_keyword xml_char(50) fme_secondary_axis xml_real64 fme_text_string xml_char(50) xml_type xml_char(50)"
+#!   DEFLINE_PARMS=""
+#!   ATTR_INDEX_TYPES=""
+#!   ATTR_NAME_INVALID_CHARS=""
+#!   SUPPORTS_FEATURE_TYPE_FANOUT="true"
+#!   ENABLED="true"
+#!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
+#!   DATASET_TYPE="FILE_OR_URL"
+#!   GENERATE_FME_BUILD_NUM="18310"
+#!   COORDSYS=""
+#!   FEATURE_TYPES=""
+#!   MAX_FEATURES=""
+#!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   MIN_FEATURES=""
+#!   START_FEATURE=""
+#! >
+#! <METAFILE_PARAMETER
+#!   NAME="ADVANCED_PARMS"
+#!   VALUE="GML_IN_SYSTEM_ENCODING GML_IN_CONTINUE_ON_GEOM_ERROR GML_IN_CACHE_XSD GML_IN_CACHE_XSD_EXPIRY_TIME GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV GML_IN_MAP_GEOMETRY_COLUMNS GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES GML_IN_MAX_MULTI_LIST_LEVEL GML_IN_XML_FRAGMENTS_AS_DOCUMENTS GML_IN_USE_OLD_READER GML_IN_DISABLE_XML_NAMESPACE_PROCESSING GML_IN_FLATTEN_XML_FRAGMENTS GML_IN_XML_FRAGMENTS_AS_DOCUMENTS GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS GML_IN_MAP_COMPLEX_PROPERTIES_AS GML_IN_SRS_ANGLE_DIRECTION GML_IN_ENFORCE_PATH_CONTINUITY_BY GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR GML_IN_MAP_PREDEFINED_GML_PROPERTIES GML_IN_MAP_EMBEDDED_OBJECTS_AS GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="DATASET_NAME"
+#!   VALUE="gml file"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="MIME_TYPE"
+#!   VALUE="application/xml"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="NETWORK_AUTHENTICATION"
+#!   VALUE="ALWAYS"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="NETWORK_PROXY"
+#!   VALUE="NO"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="READER_DATASET_HINT"
+#!   VALUE="Select the GML file(s)"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="WRITER_DATASET_HINT"
+#!   VALUE="Specify a name for the GML file"
+#! />
+#! </DATASET>
+#! <DATASET
+#!   IS_SOURCE="true"
+#!   ROLE="READER"
+#!   FORMAT="GML"
+#!   DATASET="$(SourceDataset_GML_4)"
+#!   KEYWORD="GML_3"
+#!   MULTI_GEOM_ALLOWED="false"
+#!   ATTR_MAX_LENGTH="0"
+#!   ATTR_CASE="ANY"
+#!   ALLOWED_FEAT_TYPES=""
+#!   WRITE_DEFS="true"
+#!   DEFLINE_TEMPLATE=""
+#!   DEFLINE_ATTRS="true"
+#!   EXPOSABLE_ATTRS="gml_parent_id xml_char(254) fme_feature_type xml_char(50) fme_rotation xml_real64 gml_id xml_char(254) fme_dataset xml_char(50) gml_parent_property xml_char(254) multi_reader_full_id xml_int32 fme_geometry xml_char(50) multi_reader_type xml_char(50) xml_ns_uri xml_char(254) fme_sweep_angle xml_real64 fme_text_size xml_real64 fme_basename xml_char(50) fme_color xml_char(50) fme_fill_color xml_char(50) fme_start_angle xml_real64 fme_type xml_char(50) multi_reader_id xml_int32 gml_original_coordinate_system xml_char(64) fme_primary_axis xml_real64 multi_reader_keyword xml_char(50) fme_secondary_axis xml_real64 fme_text_string xml_char(50) xml_type xml_char(50)"
+#!   DEFLINE_PARMS=""
+#!   ATTR_INDEX_TYPES=""
+#!   ATTR_NAME_INVALID_CHARS=""
+#!   SUPPORTS_FEATURE_TYPE_FANOUT="true"
+#!   ENABLED="true"
+#!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
+#!   DATASET_TYPE="FILE_OR_URL"
+#!   GENERATE_FME_BUILD_NUM="18310"
+#!   COORDSYS=""
+#!   FEATURE_TYPES=""
+#!   MAX_FEATURES=""
+#!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   MIN_FEATURES=""
+#!   START_FEATURE=""
+#! >
+#! <METAFILE_PARAMETER
+#!   NAME="ADVANCED_PARMS"
+#!   VALUE="GML_IN_SYSTEM_ENCODING GML_IN_CONTINUE_ON_GEOM_ERROR GML_IN_CACHE_XSD GML_IN_CACHE_XSD_EXPIRY_TIME GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV GML_IN_MAP_GEOMETRY_COLUMNS GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES GML_IN_MAX_MULTI_LIST_LEVEL GML_IN_XML_FRAGMENTS_AS_DOCUMENTS GML_IN_USE_OLD_READER GML_IN_DISABLE_XML_NAMESPACE_PROCESSING GML_IN_FLATTEN_XML_FRAGMENTS GML_IN_XML_FRAGMENTS_AS_DOCUMENTS GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS GML_IN_MAP_COMPLEX_PROPERTIES_AS GML_IN_SRS_ANGLE_DIRECTION GML_IN_ENFORCE_PATH_CONTINUITY_BY GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR GML_IN_MAP_PREDEFINED_GML_PROPERTIES GML_IN_MAP_EMBEDDED_OBJECTS_AS GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="DATASET_NAME"
+#!   VALUE="gml file"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="MIME_TYPE"
+#!   VALUE="application/xml"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="NETWORK_AUTHENTICATION"
+#!   VALUE="ALWAYS"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="NETWORK_PROXY"
+#!   VALUE="NO"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="READER_DATASET_HINT"
+#!   VALUE="Select the GML file(s)"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="WRITER_DATASET_HINT"
+#!   VALUE="Specify a name for the GML file"
+#! />
+#! </DATASET>
+#! </DATASETS>
+#! <DATA_TYPES>
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_char(width)"
+#!   FME_TYPE="fme_varchar(width)"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_char(width)"
+#!   FME_TYPE="fme_varbinary(width)"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_char(width)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_char(width)"
+#!   FME_TYPE="fme_binary(width)"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_buffer"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_buffer"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_buffer"
+#!   FME_TYPE="fme_json"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_xml"
+#!   FME_TYPE="fme_xml"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_datetime"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_date"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_time"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_int64"
+#!   FME_TYPE="fme_int64"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_uint64"
+#!   FME_TYPE="fme_uint64"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_int32"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_uint32"
+#!   FME_TYPE="fme_uint32"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_int16"
+#!   FME_TYPE="fme_int16"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_uint16"
+#!   FME_TYPE="fme_uint16"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_byte"
+#!   FME_TYPE="fme_int8"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_ubyte"
+#!   FME_TYPE="fme_uint8"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_real32"
+#!   FME_TYPE="fme_real32"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_real64"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_decimal(width,decimal)"
+#!   FME_TYPE="fme_decimal(width,decimal)"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_boolean"
+#!   FME_TYPE="fme_boolean"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_char(20)"
+#!   FME_TYPE="fme_datetime"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_char(8)"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_char(12)"
+#!   FME_TYPE="fme_time"
+#!   FORMAT="GML"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_geometry"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="GML"
+#! />
+#! </DATA_TYPES>
+#! <GEOM_TYPES>
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_no_geom"
+#!   FME_TYPE="fme_no_geom"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_point"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_line"
+#!   FME_TYPE="fme_line"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_area"
+#!   FME_TYPE="fme_area"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_aggregate"
+#!   FME_TYPE="fme_collection"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_text"
+#!   FME_TYPE="fme_text"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_area"
+#!   FME_TYPE="fme_ellipse"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_area"
+#!   FME_TYPE="fme_rectangle"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_area"
+#!   FME_TYPE="fme_rounded_rectangle"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_arc"
+#!   FME_TYPE="fme_arc"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_surface"
+#!   FME_TYPE="fme_surface"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_solid"
+#!   FME_TYPE="fme_solid"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_mesh"
+#!   FME_TYPE="fme_surface"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_raster"
+#!   FME_TYPE="fme_no_geom"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_point_cloud"
+#!   FME_TYPE="fme_point_cloud"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_area"
+#!   FME_TYPE="fme_raster"
+#!   FORMAT="GML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xml_no_geom"
+#!   FME_TYPE="fme_feature_table"
+#!   FORMAT="GML"
+#! />
+#! </GEOM_TYPES>
+#! <FEATURE_TYPES>
+#! <FEATURE_TYPE
+#!   IS_SOURCE="true"
+#!   NODE_NAME="Lysarmatur"
+#!   FEATURE_TYPE_NAME=""
+#!   FEATURE_TYPE_NAME_QUALIFIER=""
+#!   IS_EDITABLE="false"
+#!   IDENTIFIER="3"
+#!   FEAT_GEOMTYPE="xml_point"
+#!   POSITION="-310.00410004100036 -58.993949939499487"
+#!   BOUNDING_RECT="-310.00410004100036 -58.993949939499487 -1 -1"
+#!   ORDER="500000000000000"
+#!   COLLAPSED="true"
+#!   KEYWORD="GML_1"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   HIDDEN_USER_ATTRS=""
+#!   MERGE_FILTER=""
+#!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
+#!   MERGE_FILTER_CASE_SENSITIVE="true"
+#!   DYNAMIC_SCHEMA="false"
+#! >
+#!     <FEAT_ATTRIBUTE ATTR_NAME="driftsattår" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="driftsmerking" ATTR_TYPE="xml_char(9)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="effekt" ATTR_TYPE="xml_decimal(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eier" ATTR_TYPE="xml_char(8)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eierNavn" ATTR_TYPE="xml_char(20)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="endringsflagg.Endringsflagg.tidspunktEndring" ATTR_TYPE="xml_char(11)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="endringsflagg.Endringsflagg.typeEndring" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_id" ATTR_TYPE="xml_char(39)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_original_coordinate_system" ATTR_TYPE="xml_char(11)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_property" ATTR_TYPE="xml_char(14)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.lokalId" ATTR_TYPE="xml_char(9)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.navnerom" ATTR_TYPE="xml_char(20)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="kvalitet.Posisjonskvalitet.målemetode" ATTR_TYPE="xml_decimal(3,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="kvalitet.Posisjonskvalitet.nøyaktighet" ATTR_TYPE="xml_decimal(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="kvalitet.Posisjonskvalitet.synbarhet" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lyskildeType" ATTR_TYPE="xml_char(16)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="produktnavnArmatur" ATTR_TYPE="xml_char(12)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="produsentnavnArmatur" ATTR_TYPE="xml_char(14)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vedlikeholdsansvarlig" ATTR_TYPE="xml_char(8)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! </FEATURE_TYPE>
+#! <FEATURE_TYPE
+#!   IS_SOURCE="true"
+#!   NODE_NAME="Tennpunkt"
+#!   FEATURE_TYPE_NAME=""
+#!   FEATURE_TYPE_NAME_QUALIFIER=""
+#!   IS_EDITABLE="false"
+#!   IDENTIFIER="5"
+#!   FEAT_GEOMTYPE="xml_point"
+#!   POSITION="-310.00410004100036 -344.99394993949937"
+#!   BOUNDING_RECT="-310.00410004100036 -344.99394993949937 -1 -1"
+#!   ORDER="500000000000000"
+#!   COLLAPSED="true"
+#!   KEYWORD="GML_1"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   HIDDEN_USER_ATTRS=""
+#!   MERGE_FILTER=""
+#!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
+#!   MERGE_FILTER_CASE_SENSITIVE="false"
+#!   DYNAMIC_SCHEMA="false"
+#! >
+#!     <FEAT_ATTRIBUTE ATTR_NAME="driftsattår" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="driftsmerking" ATTR_TYPE="xml_char(9)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="endringsflagg.Endringsflagg.tidspunktEndring" ATTR_TYPE="xml_char(11)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="endringsflagg.Endringsflagg.typeEndring" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_id" ATTR_TYPE="xml_char(39)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_original_coordinate_system" ATTR_TYPE="xml_char(11)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_property" ATTR_TYPE="xml_char(14)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.lokalId" ATTR_TYPE="xml_char(6)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.navnerom" ATTR_TYPE="xml_char(20)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="kvalitet.Posisjonskvalitet.målemetode" ATTR_TYPE="xml_decimal(3,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="kvalitet.Posisjonskvalitet.nøyaktighet" ATTR_TYPE="xml_decimal(3,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="kvalitet.Posisjonskvalitet.synbarhet" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! </FEATURE_TYPE>
+#! <FEATURE_TYPE
+#!   IS_SOURCE="true"
+#!   NODE_NAME="Lysmast"
+#!   FEATURE_TYPE_NAME=""
+#!   FEATURE_TYPE_NAME_QUALIFIER=""
+#!   IS_EDITABLE="false"
+#!   IDENTIFIER="6"
+#!   FEAT_GEOMTYPE="xml_point"
+#!   POSITION="-310.00410004100036 -201.99394993949949"
+#!   BOUNDING_RECT="-310.00410004100036 -201.99394993949949 -1 -1"
+#!   ORDER="500000000000000"
+#!   COLLAPSED="true"
+#!   KEYWORD="GML_1"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   HIDDEN_USER_ATTRS=""
+#!   MERGE_FILTER=""
+#!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
+#!   MERGE_FILTER_CASE_SENSITIVE="false"
+#!   DYNAMIC_SCHEMA="false"
+#! >
+#!     <FEAT_ATTRIBUTE ATTR_NAME="bruksområde" ATTR_TYPE="xml_char(4)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="byggeår" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="driftsmerking" ATTR_TYPE="xml_char(9)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eier" ATTR_TYPE="xml_char(8)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eierNavn" ATTR_TYPE="xml_char(20)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="endringsflagg.Endringsflagg.tidspunktEndring" ATTR_TYPE="xml_char(11)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="endringsflagg.Endringsflagg.typeEndring" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_id" ATTR_TYPE="xml_char(39)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_original_coordinate_system" ATTR_TYPE="xml_char(11)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_property" ATTR_TYPE="xml_char(14)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.lokalId" ATTR_TYPE="xml_char(9)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.navnerom" ATTR_TYPE="xml_char(20)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="kvalitet.Posisjonskvalitet.målemetode" ATTR_TYPE="xml_decimal(3,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="kvalitet.Posisjonskvalitet.nøyaktighet" ATTR_TYPE="xml_decimal(3,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="kvalitet.Posisjonskvalitet.synbarhet" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="type" ATTR_TYPE="xml_char(9)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="utligger" ATTR_TYPE="xml_char(3)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vedlikeholdsansvarlig" ATTR_TYPE="xml_char(8)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! </FEATURE_TYPE>
+#! <FEATURE_TYPE
+#!   IS_SOURCE="true"
+#!   NODE_NAME="Belysningspunkt"
+#!   FEATURE_TYPE_NAME=""
+#!   FEATURE_TYPE_NAME_QUALIFIER=""
+#!   IS_EDITABLE="false"
+#!   IDENTIFIER="7"
+#!   FEAT_GEOMTYPE="xml_point"
+#!   POSITION="-310.00410004100036 72.503075030750267"
+#!   BOUNDING_RECT="-310.00410004100036 72.503075030750267 -1 -1"
+#!   ORDER="500000000000000"
+#!   COLLAPSED="true"
+#!   KEYWORD="GML_1"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   HIDDEN_USER_ATTRS=""
+#!   MERGE_FILTER=""
+#!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
+#!   MERGE_FILTER_CASE_SENSITIVE="false"
+#!   DYNAMIC_SCHEMA="false"
+#! >
+#!     <FEAT_ATTRIBUTE ATTR_NAME="bruksområde" ATTR_TYPE="xml_char(17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eier" ATTR_TYPE="xml_char(8)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eierNavn" ATTR_TYPE="xml_char(20)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="endringsflagg.Endringsflagg.tidspunktEndring" ATTR_TYPE="xml_char(11)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="endringsflagg.Endringsflagg.typeEndring" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_id" ATTR_TYPE="xml_char(39)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_original_coordinate_system" ATTR_TYPE="xml_char(11)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_property" ATTR_TYPE="xml_char(14)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.lokalId" ATTR_TYPE="xml_char(9)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.navnerom" ATTR_TYPE="xml_char(20)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="kvalitet.Posisjonskvalitet.målemetode" ATTR_TYPE="xml_decimal(3,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="kvalitet.Posisjonskvalitet.nøyaktighet" ATTR_TYPE="xml_decimal(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="kvalitet.Posisjonskvalitet.synbarhet" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="plassering" ATTR_TYPE="xml_char(8)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="strømtilførselKategori" ATTR_TYPE="xml_char(10)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vedlikeholdsansvarlig" ATTR_TYPE="xml_char(8)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! </FEATURE_TYPE>
+#! <FEATURE_TYPE
+#!   IS_SOURCE="true"
+#!   NODE_NAME="Belysningspunkt"
+#!   FEATURE_TYPE_NAME=""
+#!   FEATURE_TYPE_NAME_QUALIFIER=""
+#!   IS_EDITABLE="false"
+#!   IDENTIFIER="13"
+#!   FEAT_GEOMTYPE="xml_point"
+#!   POSITION="-342.50442504425041 -746.99939999399987"
+#!   BOUNDING_RECT="-342.50442504425041 -746.99939999399987 -1 -1"
+#!   ORDER="500000000000000"
+#!   COLLAPSED="true"
+#!   KEYWORD="GML_2"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   HIDDEN_USER_ATTRS=""
+#!   MERGE_FILTER=""
+#!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
+#!   MERGE_FILTER_CASE_SENSITIVE="true"
+#!   DYNAMIC_SCHEMA="false"
+#! >
+#!     <FEAT_ATTRIBUTE ATTR_NAME="antall" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="assosiertLysarmatur.href" ATTR_TYPE="xml_char(44)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="assosiertLysarmatur{}.href" ATTR_TYPE="xml_char(44)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="assosiertLysmast.href" ATTR_TYPE="xml_char(41)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="assosiertLysmast{}.href" ATTR_TYPE="xml_char(41)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="assosiertTilstandSkade_Belysning.href" ATTR_TYPE="xml_char(57)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="assosiertTilstandSkade_Belysning{}.href" ATTR_TYPE="xml_char(57)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="avstandFraVegkant" ATTR_TYPE="xml_decimal(4,1)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="bruksområde" ATTR_TYPE="xml_char(23)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eier" ATTR_TYPE="xml_char(21)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eier_Navn" ATTR_TYPE="xml_char(20)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="fellesføringMedAnnenEtat" ATTR_TYPE="xml_char(12)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_id" ATTR_TYPE="xml_char(29)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_original_coordinate_system" ATTR_TYPE="xml_char(10)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_property" ATTR_TYPE="xml_char(14)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.lokalId" ATTR_TYPE="xml_decimal(10,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.navnerom" ATTR_TYPE="xml_char(17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.versjonId" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.lineærReferanseMetode" ATTR_TYPE="xml_char(12)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.nettverkselement.href" ATTR_TYPE="xml_char(42)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.posisjon" ATTR_TYPE="xml_decimal(31,17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="plassering" ATTR_TYPE="xml_char(21)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="prosesshistorie" ATTR_TYPE="xml_char(62)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="strømtilførsel_Kategori" ATTR_TYPE="xml_char(10)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vedlikeholdsansvarlig" ATTR_TYPE="xml_char(16)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.hovedparsell" ATTR_TYPE="xml_decimal(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegkategori" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterFra" ATTR_TYPE="xml_decimal(6,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterTil" ATTR_TYPE="xml_decimal(6,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegnummer" ATTR_TYPE="xml_decimal(6,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegstatus" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! </FEATURE_TYPE>
+#! <FEATURE_TYPE
+#!   IS_SOURCE="true"
+#!   NODE_NAME="Belysningsstrekning"
+#!   FEATURE_TYPE_NAME=""
+#!   FEATURE_TYPE_NAME_QUALIFIER=""
+#!   IS_EDITABLE="false"
+#!   IDENTIFIER="20"
+#!   FEAT_GEOMTYPE="xml_line"
+#!   POSITION="-342.50442504425041 -889.99939999399976"
+#!   BOUNDING_RECT="-342.50442504425041 -889.99939999399976 -1 -1"
+#!   ORDER="500000000000000"
+#!   COLLAPSED="true"
+#!   KEYWORD="GML_2"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   HIDDEN_USER_ATTRS=""
+#!   MERGE_FILTER=""
+#!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
+#!   MERGE_FILTER_CASE_SENSITIVE="true"
+#!   DYNAMIC_SCHEMA="false"
+#! >
+#!     <FEAT_ATTRIBUTE ATTR_NAME="assosiertBelysningspunkt.href" ATTR_TYPE="xml_char(49)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="assosiertBelysningspunkt{}.href" ATTR_TYPE="xml_char(49)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="assosiertKommentar.href" ATTR_TYPE="xml_char(43)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="avstand_Innbyrdes" ATTR_TYPE="xml_decimal(3,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="bruksområde" ATTR_TYPE="xml_char(23)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="byggeår" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="dimming" ATTR_TYPE="xml_char(4)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eier" ATTR_TYPE="xml_char(21)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="fjernstyring" ATTR_TYPE="xml_char(4)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_id" ATTR_TYPE="xml_char(29)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_original_coordinate_system" ATTR_TYPE="xml_char(10)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_property" ATTR_TYPE="xml_char(14)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.lokalId" ATTR_TYPE="xml_decimal(10,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.navnerom" ATTR_TYPE="xml_char(17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.versjonId" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.fraPosisjon" ATTR_TYPE="xml_decimal(31,17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.lineærReferanseMetode" ATTR_TYPE="xml_char(12)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.nettverkselement.href" ATTR_TYPE="xml_char(42)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.retning" ATTR_TYPE="xml_char(4)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.tilPosisjon" ATTR_TYPE="xml_decimal(19,17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.fraPosisjon" ATTR_TYPE="xml_decimal(18,16)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.lineærReferanseMetode" ATTR_TYPE="xml_char(12)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.nettverkselement.href" ATTR_TYPE="xml_char(42)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.retning" ATTR_TYPE="xml_char(4)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.tilPosisjon" ATTR_TYPE="xml_decimal(18,16)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="navnPåStrekning" ATTR_TYPE="xml_char(17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="prosesshistorie" ATTR_TYPE="xml_char(62)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="type" ATTR_TYPE="xml_char(22)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vedlikeholdsansvarlig" ATTR_TYPE="xml_char(16)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.hovedparsell" ATTR_TYPE="xml_decimal(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegkategori" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterFra" ATTR_TYPE="xml_decimal(6,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterTil" ATTR_TYPE="xml_decimal(6,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegnummer" ATTR_TYPE="xml_decimal(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegstatus" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse{}.Vegreferanse.hovedparsell" ATTR_TYPE="xml_decimal(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse{}.Vegreferanse.vegkategori" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse{}.Vegreferanse.veglenkeMeterFra" ATTR_TYPE="xml_decimal(6,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse{}.Vegreferanse.veglenkeMeterTil" ATTR_TYPE="xml_decimal(6,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse{}.Vegreferanse.vegnummer" ATTR_TYPE="xml_decimal(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse{}.Vegreferanse.vegstatus" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! </FEATURE_TYPE>
+#! <FEATURE_TYPE
+#!   IS_SOURCE="true"
+#!   NODE_NAME="Lysarmatur"
+#!   FEATURE_TYPE_NAME=""
+#!   FEATURE_TYPE_NAME_QUALIFIER=""
+#!   IS_EDITABLE="false"
+#!   IDENTIFIER="21"
+#!   FEAT_GEOMTYPE="xml_point"
+#!   POSITION="-342.50442504425041 -1032.9993999939998"
+#!   BOUNDING_RECT="-342.50442504425041 -1032.9993999939998 -1 -1"
+#!   ORDER="500000000000000"
+#!   COLLAPSED="true"
+#!   KEYWORD="GML_2"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   HIDDEN_USER_ATTRS=""
+#!   MERGE_FILTER=""
+#!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
+#!   MERGE_FILTER_CASE_SENSITIVE="true"
+#!   DYNAMIC_SCHEMA="false"
+#! >
+#!     <FEAT_ATTRIBUTE ATTR_NAME="antallArmaturerIBelysningspkt" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="antallLyskilderPerArmatur" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="armaturnummer" ATTR_TYPE="xml_char(6)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="avskjerming_Materiale" ATTR_TYPE="xml_char(6)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="avskjerming_Type" ATTR_TYPE="xml_char(18)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="dimming" ATTR_TYPE="xml_char(4)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="driftsattår" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="driftsmerking" ATTR_TYPE="xml_char(9)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="effekt" ATTR_TYPE="xml_decimal(5,1)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eier" ATTR_TYPE="xml_char(21)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eier_Navn" ATTR_TYPE="xml_char(20)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_id" ATTR_TYPE="xml_char(29)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_original_coordinate_system" ATTR_TYPE="xml_char(10)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_property" ATTR_TYPE="xml_char(14)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="høydeOverVeg" ATTR_TYPE="xml_decimal(4,1)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.lokalId" ATTR_TYPE="xml_decimal(10,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.navnerom" ATTR_TYPE="xml_char(17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.versjonId" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.lineærReferanseMetode" ATTR_TYPE="xml_char(12)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.nettverkselement.href" ATTR_TYPE="xml_char(42)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.posisjon" ATTR_TYPE="xml_decimal(31,17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lyskildeType" ATTR_TYPE="xml_char(17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="produktnavn_Armatur" ATTR_TYPE="xml_char(17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="produsentnavn_Armatur" ATTR_TYPE="xml_char(17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="prosesshistorie" ATTR_TYPE="xml_char(62)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="utskiftbareLyskilder" ATTR_TYPE="xml_char(3)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="utstyrsklasse" ATTR_TYPE="xml_char(15)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vedlikeholdsansvarlig" ATTR_TYPE="xml_char(16)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.hovedparsell" ATTR_TYPE="xml_decimal(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegkategori" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterFra" ATTR_TYPE="xml_decimal(6,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterTil" ATTR_TYPE="xml_decimal(6,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegnummer" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegstatus" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! </FEATURE_TYPE>
+#! <FEATURE_TYPE
+#!   IS_SOURCE="true"
+#!   NODE_NAME="Lysmast"
+#!   FEATURE_TYPE_NAME=""
+#!   FEATURE_TYPE_NAME_QUALIFIER=""
+#!   IS_EDITABLE="false"
+#!   IDENTIFIER="22"
+#!   FEAT_GEOMTYPE="xml_point"
+#!   POSITION="-342.50442504425041 -1175.9993999939998"
+#!   BOUNDING_RECT="-342.50442504425041 -1175.9993999939998 -1 -1"
+#!   ORDER="500000000000000"
+#!   COLLAPSED="true"
+#!   KEYWORD="GML_2"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   HIDDEN_USER_ATTRS=""
+#!   MERGE_FILTER=""
+#!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
+#!   MERGE_FILTER_CASE_SENSITIVE="false"
+#!   DYNAMIC_SCHEMA="false"
+#! >
+#!     <FEAT_ATTRIBUTE ATTR_NAME="RAL_Kode" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="bardunStrever" ATTR_TYPE="xml_char(4)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="boltavstandFotplate" ATTR_TYPE="xml_char(14)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="bruksområde" ATTR_TYPE="xml_char(4)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="byggeår" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="diameter" ATTR_TYPE="xml_decimal(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="driftsmerking" ATTR_TYPE="xml_char(9)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eier" ATTR_TYPE="xml_char(21)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="eier_Navn" ATTR_TYPE="xml_char(20)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="ettergivendeMast" ATTR_TYPE="xml_char(22)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="fundamentering" ATTR_TYPE="xml_char(16)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_id" ATTR_TYPE="xml_char(29)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_original_coordinate_system" ATTR_TYPE="xml_char(10)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_property" ATTR_TYPE="xml_char(14)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.lokalId" ATTR_TYPE="xml_decimal(10,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.navnerom" ATTR_TYPE="xml_char(17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.versjonId" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.lineærReferanseMetode" ATTR_TYPE="xml_char(12)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.nettverkselement.href" ATTR_TYPE="xml_char(42)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.posisjon" ATTR_TYPE="xml_decimal(31,17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="overflatebehandling" ATTR_TYPE="xml_char(12)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="produsentnavn" ATTR_TYPE="xml_char(9)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="prosesshistorie" ATTR_TYPE="xml_char(62)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="totalMastelengde" ATTR_TYPE="xml_decimal(4,1)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="type" ATTR_TYPE="xml_char(24)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="utligger" ATTR_TYPE="xml_char(4)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="utliggerarmensLengde" ATTR_TYPE="xml_decimal(3,1)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vedlikeholdsansvarlig" ATTR_TYPE="xml_char(16)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.hovedparsell" ATTR_TYPE="xml_decimal(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegkategori" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterFra" ATTR_TYPE="xml_decimal(6,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterTil" ATTR_TYPE="xml_decimal(6,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegnummer" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegstatus" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! </FEATURE_TYPE>
+#! <FEATURE_TYPE
+#!   IS_SOURCE="true"
+#!   NODE_NAME="Tennpunkt"
+#!   FEATURE_TYPE_NAME=""
+#!   FEATURE_TYPE_NAME_QUALIFIER=""
+#!   IS_EDITABLE="false"
+#!   IDENTIFIER="35"
+#!   FEAT_GEOMTYPE="xml_point"
+#!   POSITION="-342.50442504425041 -1335.50242502425"
+#!   BOUNDING_RECT="-342.50442504425041 -1335.50242502425 -1 -1"
+#!   ORDER="500000000000000"
+#!   COLLAPSED="true"
+#!   KEYWORD="GML_3"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   HIDDEN_USER_ATTRS=""
+#!   MERGE_FILTER=""
+#!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
+#!   MERGE_FILTER_CASE_SENSITIVE="true"
+#!   DYNAMIC_SCHEMA="false"
+#! >
+#!     <FEAT_ATTRIBUTE ATTR_NAME="driftsattår" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="driftsmerking" ATTR_TYPE="xml_char(9)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_id" ATTR_TYPE="xml_char(29)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_original_coordinate_system" ATTR_TYPE="xml_char(10)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_property" ATTR_TYPE="xml_char(14)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.lokalId" ATTR_TYPE="xml_decimal(10,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.navnerom" ATTR_TYPE="xml_char(17)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="identifikasjon.Identifikasjon.versjonId" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.lineærReferanseMetode" ATTR_TYPE="xml_char(12)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.nettverkselement.href" ATTR_TYPE="xml_char(42)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.posisjon" ATTR_TYPE="xml_decimal(17,15)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="prosesshistorie" ATTR_TYPE="xml_char(32)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="spenning" ATTR_TYPE="xml_decimal(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="tennpunktnummer" ATTR_TYPE="xml_decimal(9,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.hovedparsell" ATTR_TYPE="xml_decimal(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegkategori" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterFra" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterTil" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegnummer" ATTR_TYPE="xml_decimal(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="vegreferanse.Vegreferanse.vegstatus" ATTR_TYPE="xml_char(2)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! </FEATURE_TYPE>
+#! </FEATURE_TYPES>
+#! <FMESERVER>
+#! </FMESERVER>
+#! <GLOBAL_PARAMETERS>
+#! <GLOBAL_PARAMETER
+#!   GUI_LINE="GUI OPTIONAL MULTIFILE SourceDataset_GML GML_Files(*.gml;*.gz;*.xml)|*.gml;*gz;*.xml|GML_Files(*.gml)|*.gml|Compressed_GML_Files(*.gz)|*.gz|GML_Files(*.xml)|*.xml|All_Files|* Source Geography Markup Language (GML) File(s):"
+#!   DEFAULT_VALUE="C:\DATA\GitHub\GLA\Data\501\20180508_Gatelys_Lillehammer.gml"
+#!   IS_STAND_ALONE="false"
+#! />
+#! <GLOBAL_PARAMETER
+#!   GUI_LINE="GUI OPTIONAL MULTIFILE SourceDataset_GML_5 GML_Files(*.gml;*.gz;*.xml)|*.gml;*gz;*.xml|GML_Files(*.gml)|*.gml|Compressed_GML_Files(*.gz)|*.gz|GML_Files(*.xml)|*.xml|All_Files|* Source Geography Markup Language (GML) File(s):"
+#!   DEFAULT_VALUE="&quot;&quot;C:\DATA\GitHub\NVDBGML\GML\kommune\501\87\Belysningspunkt.gml&quot; &quot;C:\DATA\GitHub\NVDBGML\GML\kommune\501\87\Belysningsstrekning.gml&quot; &quot;C:\DATA\GitHub\NVDBGML\GML\kommune\501\87\Lysarmatur.gml&quot; &quot;C:\DATA\GitHub\NVDBGML\GML\kommune\501\87\Lysmast.gml&quot;&quot;"
+#!   IS_STAND_ALONE="false"
+#! />
+#! <GLOBAL_PARAMETER
+#!   GUI_LINE="GUI OPTIONAL MULTIFILE SourceDataset_GML_4 GML_Files(*.gml;*.gz;*.xml)|*.gml;*gz;*.xml|GML_Files(*.gml)|*.gml|Compressed_GML_Files(*.gz)|*.gz|GML_Files(*.xml)|*.xml|All_Files|* Source Geography Markup Language (GML) File(s):"
+#!   DEFAULT_VALUE="C:\DATA\GitHub\NVDBGML\GML\kommune\501\481\Tennpunkt.gml"
+#!   IS_STAND_ALONE="false"
+#! />
+#! </GLOBAL_PARAMETERS>
+#! <COMMENTS>
+#! </COMMENTS>
+#! <CONSTANTS>
+#! </CONSTANTS>
+#! <BOOKMARKS>
+#! </BOOKMARKS>
+#! <TRANSFORMERS>
+#! <TRANSFORMER
+#!   IDENTIFIER="31"
+#!   TYPE="Reprojector"
+#!   VERSION="4"
+#!   POSITION="415.00415004150022 1.0060500605005132"
+#!   BOUNDING_RECT="415.00415004150022 1.0060500605005132 -1 -1"
+#!   ORDER="500000000000011"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="18310"
+#! >
+#!     <OUTPUT_FEAT NAME="REPROJECTED"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="bruksområde" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="byggeår" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="driftsmerking" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="eier" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="eierNavn" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="endringsflagg.Endringsflagg.tidspunktEndring" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="endringsflagg.Endringsflagg.typeEndring" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_original_coordinate_system" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_parent_property" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.lokalId" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.navnerom" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.målemetode" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.nøyaktighet" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.synbarhet" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="utligger" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vedlikeholdsansvarlig" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="driftsattår" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="effekt" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lyskildeType" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="produktnavnArmatur" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="produsentnavnArmatur" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="plassering" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="strømtilførselKategori" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="DEST" PARM_VALUE="ETRS89.UTM-33N"/>
+#!     <XFORM_PARM PARM_NAME="INTERPOLATION_TYPE_NAME" PARM_VALUE="Nearest Neighbor"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_CELL_SIZE" PARM_VALUE="Preserve Cells"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_TOLERANCE" PARM_VALUE="0.0"/>
+#!     <XFORM_PARM PARM_NAME="SOURCE" PARM_VALUE="Read from feature"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Reprojector"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="33"
+#!   TYPE="AttributeExposer"
+#!   VERSION="1"
+#!   POSITION="427.50427504275035 -347.49397493974942"
+#!   BOUNDING_RECT="427.50427504275035 -347.49397493974942 -1 -1"
+#!   ORDER="500000000000012"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="18310"
+#! >
+#!     <OUTPUT_FEAT NAME="OUTPUT"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="bruksområde" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="byggeår" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="driftsmerking" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="eier" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="eierNavn" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="endringsflagg.Endringsflagg.tidspunktEndring" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="endringsflagg.Endringsflagg.typeEndring" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_original_coordinate_system" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_parent_property" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.lokalId" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.navnerom" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.målemetode" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.nøyaktighet" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.synbarhet" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="utligger" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vedlikeholdsansvarlig" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="driftsattår" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="effekt" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lyskildeType" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="produktnavnArmatur" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="produsentnavnArmatur" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="plassering" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="strømtilførselKategori" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_feature_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="fme_feature_type"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_LIST_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="37"
+#!   TYPE="Inspector"
+#!   VERSION="5"
+#!   POSITION="1044.0049000490005 -288.49319993199924"
+#!   BOUNDING_RECT="1044.0049000490005 -288.49319993199924 -1 -1"
+#!   ORDER="500000000000013"
+#!   PARMS_EDITED="true"
+#!   ENABLED="false"
+#!   LAST_PARM_EDIT="18310"
+#! >
+#!     <XFORM_PARM PARM_NAME="AREA_COLOR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PEN_COLOR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="POINTCLOUD_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_NUM_COLS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_NUM_ROWS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_START_COL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_START_ROW" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_VISUALIZATION_OPTION" PARM_VALUE="No Reduction"/>
+#!     <XFORM_PARM PARM_NAME="TACKATTRS" PARM_VALUE="fme_feature_type"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_INTERVAL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_MAX_NUM_POINTS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_TYPE_DISPLAY" PARM_VALUE="No Thinning"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="VECTOR_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="org_"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="18"
+#!   TYPE="Inspector"
+#!   VERSION="5"
+#!   POSITION="967.50967509675115 -1017.510175101751"
+#!   BOUNDING_RECT="967.50967509675115 -1017.510175101751 -1 -1"
+#!   ORDER="500000000000014"
+#!   PARMS_EDITED="true"
+#!   ENABLED="false"
+#!   LAST_PARM_EDIT="18310"
+#! >
+#!     <XFORM_PARM PARM_NAME="AREA_COLOR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PEN_COLOR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="POINTCLOUD_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_NUM_COLS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_NUM_ROWS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_START_COL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_START_ROW" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_VISUALIZATION_OPTION" PARM_VALUE="No Reduction"/>
+#!     <XFORM_PARM PARM_NAME="TACKATTRS" PARM_VALUE="fme_feature_type"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_INTERVAL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_MAX_NUM_POINTS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_TYPE_DISPLAY" PARM_VALUE="No Thinning"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="VECTOR_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="NVDB_"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="26"
+#!   TYPE="AttributeExposer"
+#!   VERSION="1"
+#!   POSITION="472.50422504225025 -829.99939999399976"
+#!   BOUNDING_RECT="472.50422504225025 -829.99939999399976 -1 -1"
+#!   ORDER="500000000000012"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="18310"
+#! >
+#!     <OUTPUT_FEAT NAME="OUTPUT"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="RAL_Kode" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="bardunStrever" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="boltavstandFotplate" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="bruksområde" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="byggeår" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="diameter" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="driftsmerking" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="eier" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="eier_Navn" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ettergivendeMast" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fundamentering" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_original_coordinate_system" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_parent_property" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.lokalId" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.navnerom" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.versjonId" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.lineærReferanseMetode" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.nettverkselement.href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.posisjon" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="overflatebehandling" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="produsentnavn" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="prosesshistorie" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="totalMastelengde" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="utligger" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="utliggerarmensLengde" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vedlikeholdsansvarlig" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.hovedparsell" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.vegkategori" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterFra" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterTil" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.vegnummer" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.vegstatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertBelysningspunkt.href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertBelysningspunkt{}.href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertKommentar.href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="avstand_Innbyrdes" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="dimming" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fjernstyring" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.fraPosisjon" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.lineærReferanseMetode" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.nettverkselement.href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.retning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.tilPosisjon" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.fraPosisjon" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.lineærReferanseMetode" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.nettverkselement.href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.retning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.tilPosisjon" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="navnPåStrekning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.hovedparsell" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.vegkategori" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.veglenkeMeterFra" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.veglenkeMeterTil" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.vegnummer" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.vegstatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="antallArmaturerIBelysningspkt" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="antallLyskilderPerArmatur" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="armaturnummer" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="avskjerming_Materiale" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="avskjerming_Type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="driftsattår" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="effekt" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="høydeOverVeg" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lyskildeType" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="produktnavn_Armatur" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="produsentnavn_Armatur" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="utskiftbareLyskilder" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="utstyrsklasse" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="antall" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertLysarmatur.href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertLysarmatur{}.href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertLysmast.href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertLysmast{}.href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertTilstandSkade_Belysning.href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertTilstandSkade_Belysning{}.href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="avstandFraVegkant" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fellesføringMedAnnenEtat" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="plassering" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="strømtilførsel_Kategori" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="spenning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="tennpunktnummer" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_feature_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="fme_feature_type"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_LIST_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer_2"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="25"
+#!   TYPE="NeighborFinder"
+#!   VERSION="17"
+#!   POSITION="1660.0166001660018 -529.99939999399976"
+#!   BOUNDING_RECT="1660.0166001660018 -529.99939999399976 -1 -1"
+#!   ORDER="500000000000015"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="18310"
+#! >
+#!     <OUTPUT_FEAT NAME="MATCHED"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="bruksområde" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="byggeår" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="driftsmerking" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="eier" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="eierNavn" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="endringsflagg.Endringsflagg.tidspunktEndring" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="endringsflagg.Endringsflagg.typeEndring" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_original_coordinate_system" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_parent_property" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.lokalId" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.navnerom" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.målemetode" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.nøyaktighet" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.synbarhet" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="utligger" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vedlikeholdsansvarlig" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="driftsattår" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="effekt" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lyskildeType" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="produktnavnArmatur" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="produsentnavnArmatur" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="plassering" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="strømtilførselKategori" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_feature_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_distance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_angle" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_candidate_angle" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_candidate_label_angle" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_closest_candidate_x" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_closest_candidate_y" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_closest_base_x" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_closest_base_y" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <OUTPUT_FEAT NAME="UNMATCHED_BASE"/>
+#!     <FEAT_COLLAPSED COLLAPSED="1"/>
+#!     <XFORM_ATTR ATTR_NAME="bruksområde" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="byggeår" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="driftsmerking" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="eier" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="eierNavn" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="endringsflagg.Endringsflagg.tidspunktEndring" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="endringsflagg.Endringsflagg.typeEndring" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="gml_original_coordinate_system" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="gml_parent_property" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.lokalId" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.navnerom" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.målemetode" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.nøyaktighet" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.synbarhet" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="type" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="utligger" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="vedlikeholdsansvarlig" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="driftsattår" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="effekt" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="lyskildeType" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="produktnavnArmatur" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="produsentnavnArmatur" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="plassering" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="strømtilførselKategori" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="fme_feature_type" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <OUTPUT_FEAT NAME="UNMATCHED_CANDIDATE"/>
+#!     <FEAT_COLLAPSED COLLAPSED="2"/>
+#!     <XFORM_ATTR ATTR_NAME="RAL_Kode" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="bardunStrever" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="boltavstandFotplate" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="bruksområde" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="byggeår" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="diameter" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="driftsmerking" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="eier" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="eier_Navn" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="ettergivendeMast" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="fundamentering" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="gml_original_coordinate_system" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="gml_parent_property" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.lokalId" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.navnerom" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.versjonId" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.lineærReferanseMetode" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.nettverkselement.href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.posisjon" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="overflatebehandling" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="produsentnavn" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="prosesshistorie" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="totalMastelengde" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="type" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="utligger" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="utliggerarmensLengde" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vedlikeholdsansvarlig" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.hovedparsell" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.vegkategori" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterFra" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterTil" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.vegnummer" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.vegstatus" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertBelysningspunkt.href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertBelysningspunkt{}.href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertKommentar.href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="avstand_Innbyrdes" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="dimming" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="fjernstyring" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.fraPosisjon" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.lineærReferanseMetode" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.nettverkselement.href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.retning" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.tilPosisjon" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.fraPosisjon" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.lineærReferanseMetode" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.nettverkselement.href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.retning" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.tilPosisjon" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="navnPåStrekning" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.hovedparsell" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.vegkategori" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.veglenkeMeterFra" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.veglenkeMeterTil" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.vegnummer" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.vegstatus" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="antallArmaturerIBelysningspkt" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="antallLyskilderPerArmatur" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="armaturnummer" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="avskjerming_Materiale" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="avskjerming_Type" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="driftsattår" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="effekt" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="høydeOverVeg" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="lyskildeType" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="produktnavn_Armatur" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="produsentnavn_Armatur" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="utskiftbareLyskilder" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="utstyrsklasse" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="antall" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertLysarmatur.href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertLysarmatur{}.href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertLysmast.href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertLysmast{}.href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertTilstandSkade_Belysning.href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertTilstandSkade_Belysning{}.href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="avstandFraVegkant" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="fellesføringMedAnnenEtat" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="plassering" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="strømtilførsel_Kategori" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="spenning" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="tennpunktnummer" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="fme_feature_type" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
+#!     <FEAT_COLLAPSED COLLAPSED="3"/>
+#!     <XFORM_ATTR ATTR_NAME="bruksområde" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="byggeår" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="driftsmerking" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="eier" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="eierNavn" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="endringsflagg.Endringsflagg.tidspunktEndring" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="endringsflagg.Endringsflagg.typeEndring" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="gml_original_coordinate_system" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="gml_parent_property" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.lokalId" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.navnerom" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.målemetode" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.nøyaktighet" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.synbarhet" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="type" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="utligger" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vedlikeholdsansvarlig" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="driftsattår" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="effekt" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lyskildeType" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="produktnavnArmatur" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="produsentnavnArmatur" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="plassering" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="strømtilførselKategori" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="fme_feature_type" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="RAL_Kode" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="bardunStrever" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="boltavstandFotplate" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="diameter" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="eier_Navn" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="ettergivendeMast" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="fundamentering" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.versjonId" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.lineærReferanseMetode" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.nettverkselement.href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonPunkt.posisjon" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="overflatebehandling" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="produsentnavn" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="prosesshistorie" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="totalMastelengde" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="utliggerarmensLengde" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.hovedparsell" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.vegkategori" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterFra" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.veglenkeMeterTil" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.vegnummer" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse.Vegreferanse.vegstatus" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertBelysningspunkt.href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertBelysningspunkt{}.href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertKommentar.href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="avstand_Innbyrdes" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="dimming" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="fjernstyring" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.fraPosisjon" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.lineærReferanseMetode" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.nettverkselement.href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.retning" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon.LineærPosisjonStrekning.tilPosisjon" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.fraPosisjon" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.lineærReferanseMetode" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.nettverkselement.href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.retning" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="lineærPosisjon{}.LineærPosisjonStrekning.tilPosisjon" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="navnPåStrekning" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.hovedparsell" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.vegkategori" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.veglenkeMeterFra" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.veglenkeMeterTil" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.vegnummer" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="vegreferanse{}.Vegreferanse.vegstatus" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="antallArmaturerIBelysningspkt" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="antallLyskilderPerArmatur" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="armaturnummer" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="avskjerming_Materiale" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="avskjerming_Type" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="høydeOverVeg" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="produktnavn_Armatur" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="produsentnavn_Armatur" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="utskiftbareLyskilder" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="utstyrsklasse" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="antall" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertLysarmatur.href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertLysarmatur{}.href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertLysmast.href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertLysmast{}.href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertTilstandSkade_Belysning.href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="assosiertTilstandSkade_Belysning{}.href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="avstandFraVegkant" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="fellesføringMedAnnenEtat" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="strømtilførsel_Kategori" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="spenning" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="tennpunktnummer" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_SUPER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="CANDIDATES_FIRST" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="CLOSE_LIST_ATTRS_TO_INCLUDE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="CLOSE_LIST_ATTRS_TO_INCLUDE_MODE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="CLOSE_LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="FME_PROCESS_COUNTDISP" PARM_VALUE="No Parallelism"/>
+#!     <XFORM_PARM PARM_NAME="FME_PROCESS_GROUPS_ORDERED" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="fme_feature_type"/>
+#!     <XFORM_PARM PARM_NAME="INCOMING_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="INSERT_VERTEX" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="K" PARM_VALUE="1"/>
+#!     <XFORM_PARM PARM_NAME="MAX" PARM_VALUE="2"/>
+#!     <XFORM_PARM PARM_NAME="MEASURES_FROM_CANDIDATE" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="MEASURE_TYPE" PARM_VALUE="Continuous"/>
+#!     <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Bases and Candidates"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TREAT_POLYGON_AS" PARM_VALUE="Lines"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="NeighborFinder"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="43"
+#!   TYPE="Inspector"
+#!   VERSION="5"
+#!   POSITION="2219.0166501665017 -643.50035000349965"
+#!   BOUNDING_RECT="2219.0166501665017 -643.50035000349965 -1 -1"
+#!   ORDER="500000000000016"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="18310"
+#! >
+#!     <XFORM_PARM PARM_NAME="AREA_COLOR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PEN_COLOR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="POINTCLOUD_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_NUM_COLS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_NUM_ROWS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_START_COL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_START_ROW" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_VISUALIZATION_OPTION" PARM_VALUE="No Reduction"/>
+#!     <XFORM_PARM PARM_NAME="TACKATTRS" PARM_VALUE="fme_feature_type"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_INTERVAL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_MAX_NUM_POINTS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_TYPE_DISPLAY" PARM_VALUE="No Thinning"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="VECTOR_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="kobla"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="45"
+#!   TYPE="CoordinateRounder"
+#!   VERSION="3"
+#!   POSITION="430.0043000430004 -170.00170001700019"
+#!   BOUNDING_RECT="430.0043000430004 -170.00170001700019 -1 -1"
+#!   ORDER="500000000000017"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="18310"
+#! >
+#!     <OUTPUT_FEAT NAME="ROUNDED"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="bruksområde" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="byggeår" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="driftsmerking" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="eier" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="eierNavn" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="endringsflagg.Endringsflagg.tidspunktEndring" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="endringsflagg.Endringsflagg.typeEndring" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_original_coordinate_system" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="gml_parent_property" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.lokalId" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="identifikasjon.Identifikasjon.navnerom" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.målemetode" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.nøyaktighet" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="kvalitet.Posisjonskvalitet.synbarhet" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="utligger" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="vedlikeholdsansvarlig" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="driftsattår" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="effekt" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="lyskildeType" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="produktnavnArmatur" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="produsentnavnArmatur" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="plassering" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="strømtilførselKategori" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CoordinateRounder"/>
+#!     <XFORM_PARM PARM_NAME="XPREC" PARM_VALUE="3"/>
+#!     <XFORM_PARM PARM_NAME="YPREC" PARM_VALUE="3"/>
+#!     <XFORM_PARM PARM_NAME="ZPREC" PARM_VALUE="3"/>
+#! </TRANSFORMER>
+#! </TRANSFORMERS>
+#! <FEAT_LINKS>
+#! <FEAT_LINK
+#!   IDENTIFIER="36"
+#!   SOURCE_NODE="3"
+#!   TARGET_NODE="31"
+#!   SOURCE_PORT_DESC="-1"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="32"
+#!   SOURCE_NODE="5"
+#!   TARGET_NODE="31"
+#!   SOURCE_PORT_DESC="-1"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="34"
+#!   SOURCE_NODE="6"
+#!   TARGET_NODE="31"
+#!   SOURCE_PORT_DESC="-1"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="38"
+#!   SOURCE_NODE="7"
+#!   TARGET_NODE="31"
+#!   SOURCE_PORT_DESC="-1"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="30"
+#!   SOURCE_NODE="13"
+#!   TARGET_NODE="26"
+#!   SOURCE_PORT_DESC="-1"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="28"
+#!   SOURCE_NODE="20"
+#!   TARGET_NODE="26"
+#!   SOURCE_PORT_DESC="-1"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="29"
+#!   SOURCE_NODE="21"
+#!   TARGET_NODE="26"
+#!   SOURCE_PORT_DESC="-1"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="27"
+#!   SOURCE_NODE="22"
+#!   TARGET_NODE="26"
+#!   SOURCE_PORT_DESC="-1"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="48"
+#!   SOURCE_NODE="35"
+#!   TARGET_NODE="26"
+#!   SOURCE_PORT_DESC="-1"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="44"
+#!   SOURCE_NODE="25"
+#!   TARGET_NODE="43"
+#!   SOURCE_PORT_DESC="fo 0 MATCHED"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="40"
+#!   SOURCE_NODE="26"
+#!   TARGET_NODE="18"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="42"
+#!   SOURCE_NODE="26"
+#!   TARGET_NODE="25"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 1 CANDIDATE"
+#!   ENABLED="true"
+#!   EXECUTION_IDX="1"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="46"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="45"
+#!   SOURCE_PORT_DESC="fo 0 REPROJECTED"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="39"
+#!   SOURCE_NODE="33"
+#!   TARGET_NODE="37"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="41"
+#!   SOURCE_NODE="33"
+#!   TARGET_NODE="25"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 BASE"
+#!   ENABLED="true"
+#!   EXECUTION_IDX="1"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="47"
+#!   SOURCE_NODE="45"
+#!   TARGET_NODE="33"
+#!   SOURCE_PORT_DESC="fo 0 ROUNDED"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! </FEAT_LINKS>
+#! <BREAKPOINTS>
+#! </BREAKPOINTS>
+#! <ATTR_LINKS>
+#! </ATTR_LINKS>
+#! <SUBDOCUMENTS>
+#! </SUBDOCUMENTS>
+#! <LOOKUP_TABLES>
+#! </LOOKUP_TABLES>
+#! </WORKSPACE>
+FME_PYTHON_VERSION 2or3
+GUI IGNORE SourceDataset_GML_1,GML_IN_FME_GROUP_NAMED1_GML_1,GML_IN_IGNORE_APPLICATON_SCHEMA_GML_1,GML_IN_XSD_DOC_GML_1,GML_IN_VALIDATE_DATASET_GML_1,GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_1,GML_IN_MAP_FEATURE_COLLECTION_GML_1,GML_IN_GML_FEATURE_ELEMENTS_GML_1,GML_IN_SRS_GEOMETRY_PARAMETERS_GML_1,GML_IN_SRS_AXIS_ORDER_GML_1,GML_IN_SRS_ANGLE_DIRECTION_GML_1,GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_1,GML_IN_FEATURE_PROPERTIES_READER_GML_1,GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_1,GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_1,GML_IN_MAP_GEOMETRY_COLUMNS_GML_1,GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_1,GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_1,GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_1,GML_IN_ATTRIBUTE_HANDLING_GML_1,GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_1,GML_IN_MAX_MULTI_LIST_LEVEL_GML_1,GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_1,GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_1,GML_IN_FLATTEN_XML_FRAGMENTS_GML_1,GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_1,GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_1,GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_1,GML_IN_GML_READER_GROUP_GML_1,GML_IN_USE_OLD_READER_GML_1,GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_1,GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_1,GML_IN_EXPLORE_XSD_VALUES_GROUP_GML_1,GML_IN_EXPLORE_XSD_VALUES_GML_1,GML_IN_USE_SEARCH_ENVELOPE_GML_1,GML_IN_SEARCH_ENVELOPE_MINX_GML_1,GML_IN_SEARCH_ENVELOPE_MINY_GML_1,GML_IN_SEARCH_ENVELOPE_MAXX_GML_1,GML_IN_SEARCH_ENVELOPE_MAXY_GML_1,GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_1,GML_IN_CLIP_TO_ENVELOPE_GML_1,GML_IN_GML_RDR_ADV_GML_1,GML_IN_CONTINUE_ON_GEOM_ERROR_GML_1,GML_IN_SYSTEM_ENCODING_GML_1,GML_IN_CACHE_XSD_GML_1,GML_IN_CACHE_XSD_EXPIRY_TIME_GML_1,GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_1,GML_IN_NETWORK_AUTHENTICATION_GML_1,SourceDataset_GML_2,GML_IN_FME_GROUP_NAMED1_GML_2,GML_IN_IGNORE_APPLICATON_SCHEMA_GML_2,GML_IN_XSD_DOC_GML_2,GML_IN_VALIDATE_DATASET_GML_2,GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_2,GML_IN_MAP_FEATURE_COLLECTION_GML_2,GML_IN_GML_FEATURE_ELEMENTS_GML_2,GML_IN_SRS_GEOMETRY_PARAMETERS_GML_2,GML_IN_SRS_AXIS_ORDER_GML_2,GML_IN_SRS_ANGLE_DIRECTION_GML_2,GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_2,GML_IN_FEATURE_PROPERTIES_READER_GML_2,GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_2,GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_2,GML_IN_MAP_GEOMETRY_COLUMNS_GML_2,GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_2,GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_2,GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_2,GML_IN_ATTRIBUTE_HANDLING_GML_2,GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_2,GML_IN_MAX_MULTI_LIST_LEVEL_GML_2,GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_2,GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_2,GML_IN_FLATTEN_XML_FRAGMENTS_GML_2,GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_2,GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_2,GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_2,GML_IN_GML_READER_GROUP_GML_2,GML_IN_USE_OLD_READER_GML_2,GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_2,GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_2,GML_IN_EXPLORE_XSD_VALUES_GROUP_GML_2,GML_IN_EXPLORE_XSD_VALUES_GML_2,GML_IN_USE_SEARCH_ENVELOPE_GML_2,GML_IN_SEARCH_ENVELOPE_MINX_GML_2,GML_IN_SEARCH_ENVELOPE_MINY_GML_2,GML_IN_SEARCH_ENVELOPE_MAXX_GML_2,GML_IN_SEARCH_ENVELOPE_MAXY_GML_2,GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_2,GML_IN_CLIP_TO_ENVELOPE_GML_2,GML_IN_GML_RDR_ADV_GML_2,GML_IN_CONTINUE_ON_GEOM_ERROR_GML_2,GML_IN_SYSTEM_ENCODING_GML_2,GML_IN_CACHE_XSD_GML_2,GML_IN_CACHE_XSD_EXPIRY_TIME_GML_2,GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_2,GML_IN_NETWORK_AUTHENTICATION_GML_2,SourceDataset_GML_3,GML_IN_FME_GROUP_NAMED1_GML_3,GML_IN_IGNORE_APPLICATON_SCHEMA_GML_3,GML_IN_XSD_DOC_GML_3,GML_IN_VALIDATE_DATASET_GML_3,GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_3,GML_IN_MAP_FEATURE_COLLECTION_GML_3,GML_IN_GML_FEATURE_ELEMENTS_GML_3,GML_IN_SRS_GEOMETRY_PARAMETERS_GML_3,GML_IN_SRS_AXIS_ORDER_GML_3,GML_IN_SRS_ANGLE_DIRECTION_GML_3,GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_3,GML_IN_FEATURE_PROPERTIES_READER_GML_3,GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_3,GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_3,GML_IN_MAP_GEOMETRY_COLUMNS_GML_3,GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_3,GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_3,GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_3,GML_IN_ATTRIBUTE_HANDLING_GML_3,GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_3,GML_IN_MAX_MULTI_LIST_LEVEL_GML_3,GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_3,GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_3,GML_IN_FLATTEN_XML_FRAGMENTS_GML_3,GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_3,GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_3,GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_3,GML_IN_GML_READER_GROUP_GML_3,GML_IN_USE_OLD_READER_GML_3,GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_3,GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_3,GML_IN_EXPLORE_XSD_VALUES_GROUP_GML_3,GML_IN_EXPLORE_XSD_VALUES_GML_3,GML_IN_USE_SEARCH_ENVELOPE_GML_3,GML_IN_SEARCH_ENVELOPE_MINX_GML_3,GML_IN_SEARCH_ENVELOPE_MINY_GML_3,GML_IN_SEARCH_ENVELOPE_MAXX_GML_3,GML_IN_SEARCH_ENVELOPE_MAXY_GML_3,GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_3,GML_IN_CLIP_TO_ENVELOPE_GML_3,GML_IN_GML_RDR_ADV_GML_3,GML_IN_CONTINUE_ON_GEOM_ERROR_GML_3,GML_IN_SYSTEM_ENCODING_GML_3,GML_IN_CACHE_XSD_GML_3,GML_IN_CACHE_XSD_EXPIRY_TIME_GML_3,GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_3,GML_IN_NETWORK_AUTHENTICATION_GML_3
+DEFAULT_MACRO SourceDataset_GML C:\DATA\GitHub\GLA\Data\501\20180508_Gatelys_Lillehammer.gml
+GUI OPTIONAL MULTIFILE SourceDataset_GML GML_Files(*.gml;*.gz;*.xml)|*.gml;*gz;*.xml|GML_Files(*.gml)|*.gml|Compressed_GML_Files(*.gz)|*.gz|GML_Files(*.xml)|*.xml|All_Files|* Source Geography Markup Language (GML) File(s):
+DEFAULT_MACRO SourceDataset_GML_5 ""C:\DATA\GitHub\NVDBGML\GML\kommune\501\87\Belysningspunkt.gml" "C:\DATA\GitHub\NVDBGML\GML\kommune\501\87\Belysningsstrekning.gml" "C:\DATA\GitHub\NVDBGML\GML\kommune\501\87\Lysarmatur.gml" "C:\DATA\GitHub\NVDBGML\GML\kommune\501\87\Lysmast.gml""
+GUI OPTIONAL MULTIFILE SourceDataset_GML_5 GML_Files(*.gml;*.gz;*.xml)|*.gml;*gz;*.xml|GML_Files(*.gml)|*.gml|Compressed_GML_Files(*.gz)|*.gz|GML_Files(*.xml)|*.xml|All_Files|* Source Geography Markup Language (GML) File(s):
+DEFAULT_MACRO SourceDataset_GML_4 C:\DATA\GitHub\NVDBGML\GML\kommune\501\481\Tennpunkt.gml
+GUI OPTIONAL MULTIFILE SourceDataset_GML_4 GML_Files(*.gml;*.gz;*.xml)|*.gml;*gz;*.xml|GML_Files(*.gml)|*.gml|Compressed_GML_Files(*.gz)|*.gz|GML_Files(*.xml)|*.xml|All_Files|* Source Geography Markup Language (GML) File(s):
+#! START_HEADER
+#! START_WB_HEADER
+READER_TYPE MULTI_READER
+MULTI_READER_TYPE{0} GML
+MULTI_READER_KEYWORD{0} GML_1
+MULTI_READER_GEN_DIRECTIVES{0} USE_SEARCH_ENVELOPE,NO,FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE,,SRS_AXIS_ORDER,,SRS_ANGLE_DIRECTION,,GML_READER_GROUP,,CACHE_XSD_EXPIRY_TIME,,SYSTEM_ENCODING,,DISABLE_XML_NAMESPACE_PROCESSING,<lt>Unused<gt>,VALIDATE_DATASET,no,GML_RDR_ADV,,ENFORCE_PATH_CONTINUITY_BY,SNAPPING_END_POINTS,MAP_PREDEFINED_GML_PROPERTIES,<lt>Unused<gt>,SRS_GEOMETRY_PARAMETERS,,MAP_EMBEDDED_OBJECTS_AS,<lt>Unused<gt>,GML_EXPOSE_FORMAT_ATTRS,,MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV,no,EXPOSE_ATTRS_GROUP,,QNAMES_FOR_PROPERTIES_TO_IGNORE,<lt>Unused<gt>,EXPLORE_XSD_VALUES_GROUP,,MAP_FEATURE_COLLECTION,<lt>Unused<gt>,GML_FEATURE_ELEMENTS,,ADD_NAMESPACE_PREFIX_TO_NAMES,<lt>Unused<gt>,NETWORK_AUTHENTICATION,,MAP_ALL_SUBSTITUTABLE_PROPERTIES,YES,DISABLE_AUTOMATIC_READER_TYPE_SELECTION,<lt>Unused<gt>,FEATURE_PROPERTIES_READER,,MAP_COMPLEX_PROPERTIES_AS,<lt>Unused<gt>,USE_OLD_READER,NO,SEARCH_ENVELOPE_MAXX,0,CONTINUE_ON_GEOM_ERROR,yes,FLATTEN_XML_FRAGMENTS_SEPARATOR,,EXPLORE_XSD_VALUES,NO,_MERGE_SCHEMAS,YES,MAP_GEOMETRY_COLUMNS,<lt>Unused<gt>,IGNORE_APPLICATON_SCHEMA,yes,SEARCH_ENVELOPE_COORDINATE_SYSTEM,,FEATURE_TYPES_SCHEMA_MODE,XML_SCHEMA,CLIP_TO_ENVELOPE,NO,MAX_MULTI_LIST_LEVEL,,XML_FRAGMENTS_AS_DOCUMENTS,<lt>Unused<gt>,XSD_DOC,<lt>Unused<gt>,SEARCH_ENVELOPE_MINX,0,SKIP_SCHEMA_LOCATION_IN_DATASET,<lt>Unused<gt>,CACHE_XSD,yes,ATTRIBUTE_HANDLING,,FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE,,SEARCH_ENVELOPE_MINY,0,FLATTEN_XML_FRAGMENTS,NO,SEARCH_ENVELOPE_MAXY,0,ADD_GEOMETRIES_AS_XML_FRAGMENTS,<lt>Unused<gt>
+MULTI_READER_TYPE{1} GML
+MULTI_READER_KEYWORD{1} GML_2
+MULTI_READER_GEN_DIRECTIVES{1} USE_SEARCH_ENVELOPE,NO,FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE,,SRS_AXIS_ORDER,,SRS_ANGLE_DIRECTION,,GML_READER_GROUP,,CACHE_XSD_EXPIRY_TIME,,SYSTEM_ENCODING,,DISABLE_XML_NAMESPACE_PROCESSING,<lt>Unused<gt>,VALIDATE_DATASET,no,GML_RDR_ADV,,ENFORCE_PATH_CONTINUITY_BY,SNAPPING_END_POINTS,MAP_PREDEFINED_GML_PROPERTIES,<lt>Unused<gt>,SRS_GEOMETRY_PARAMETERS,,MAP_EMBEDDED_OBJECTS_AS,<lt>Unused<gt>,GML_EXPOSE_FORMAT_ATTRS,,MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV,no,EXPOSE_ATTRS_GROUP,,QNAMES_FOR_PROPERTIES_TO_IGNORE,<lt>Unused<gt>,EXPLORE_XSD_VALUES_GROUP,,MAP_FEATURE_COLLECTION,<lt>Unused<gt>,GML_FEATURE_ELEMENTS,,ADD_NAMESPACE_PREFIX_TO_NAMES,<lt>Unused<gt>,NETWORK_AUTHENTICATION,,MAP_ALL_SUBSTITUTABLE_PROPERTIES,YES,DISABLE_AUTOMATIC_READER_TYPE_SELECTION,<lt>Unused<gt>,FEATURE_PROPERTIES_READER,,MAP_COMPLEX_PROPERTIES_AS,<lt>Unused<gt>,USE_OLD_READER,NO,SEARCH_ENVELOPE_MAXX,0,CONTINUE_ON_GEOM_ERROR,yes,FLATTEN_XML_FRAGMENTS_SEPARATOR,,EXPLORE_XSD_VALUES,NO,_MERGE_SCHEMAS,YES,MAP_GEOMETRY_COLUMNS,<lt>Unused<gt>,_EXTRA_DATASETS,C:<backslash>DATA<backslash>GitHub<backslash>NVDBGML<backslash>GML<backslash>kommune<backslash>501<backslash>87<backslash>Belysningsstrekning.gml<comma>C:<backslash>DATA<backslash>GitHub<backslash>NVDBGML<backslash>GML<backslash>kommune<backslash>501<backslash>87<backslash>Lysarmatur.gml<comma>C:<backslash>DATA<backslash>GitHub<backslash>NVDBGML<backslash>GML<backslash>kommune<backslash>501<backslash>87<backslash>Lysmast.gml,IGNORE_APPLICATON_SCHEMA,yes,SEARCH_ENVELOPE_COORDINATE_SYSTEM,,FEATURE_TYPES_SCHEMA_MODE,XML_SCHEMA,CLIP_TO_ENVELOPE,NO,MAX_MULTI_LIST_LEVEL,,XML_FRAGMENTS_AS_DOCUMENTS,<lt>Unused<gt>,XSD_DOC,<lt>Unused<gt>,SEARCH_ENVELOPE_MINX,0,SKIP_SCHEMA_LOCATION_IN_DATASET,<lt>Unused<gt>,CACHE_XSD,yes,ATTRIBUTE_HANDLING,,FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE,,SEARCH_ENVELOPE_MINY,0,FLATTEN_XML_FRAGMENTS,NO,SEARCH_ENVELOPE_MAXY,0,ADD_GEOMETRIES_AS_XML_FRAGMENTS,<lt>Unused<gt>
+MULTI_READER_TYPE{2} GML
+MULTI_READER_KEYWORD{2} GML_3
+MULTI_READER_GEN_DIRECTIVES{2} USE_SEARCH_ENVELOPE,NO,FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE,,SRS_AXIS_ORDER,,SRS_ANGLE_DIRECTION,,GML_READER_GROUP,,CACHE_XSD_EXPIRY_TIME,,SYSTEM_ENCODING,,DISABLE_XML_NAMESPACE_PROCESSING,<lt>Unused<gt>,VALIDATE_DATASET,no,GML_RDR_ADV,,ENFORCE_PATH_CONTINUITY_BY,SNAPPING_END_POINTS,MAP_PREDEFINED_GML_PROPERTIES,<lt>Unused<gt>,SRS_GEOMETRY_PARAMETERS,,MAP_EMBEDDED_OBJECTS_AS,<lt>Unused<gt>,GML_EXPOSE_FORMAT_ATTRS,,MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV,no,EXPOSE_ATTRS_GROUP,,QNAMES_FOR_PROPERTIES_TO_IGNORE,<lt>Unused<gt>,EXPLORE_XSD_VALUES_GROUP,,MAP_FEATURE_COLLECTION,<lt>Unused<gt>,GML_FEATURE_ELEMENTS,,ADD_NAMESPACE_PREFIX_TO_NAMES,<lt>Unused<gt>,NETWORK_AUTHENTICATION,,MAP_ALL_SUBSTITUTABLE_PROPERTIES,YES,DISABLE_AUTOMATIC_READER_TYPE_SELECTION,<lt>Unused<gt>,FEATURE_PROPERTIES_READER,,MAP_COMPLEX_PROPERTIES_AS,<lt>Unused<gt>,USE_OLD_READER,NO,SEARCH_ENVELOPE_MAXX,0,CONTINUE_ON_GEOM_ERROR,yes,FLATTEN_XML_FRAGMENTS_SEPARATOR,,EXPLORE_XSD_VALUES,NO,_MERGE_SCHEMAS,YES,MAP_GEOMETRY_COLUMNS,<lt>Unused<gt>,IGNORE_APPLICATON_SCHEMA,yes,SEARCH_ENVELOPE_COORDINATE_SYSTEM,,FEATURE_TYPES_SCHEMA_MODE,XML_SCHEMA,CLIP_TO_ENVELOPE,NO,MAX_MULTI_LIST_LEVEL,,XML_FRAGMENTS_AS_DOCUMENTS,<lt>Unused<gt>,XSD_DOC,<lt>Unused<gt>,SEARCH_ENVELOPE_MINX,0,SKIP_SCHEMA_LOCATION_IN_DATASET,<lt>Unused<gt>,CACHE_XSD,yes,ATTRIBUTE_HANDLING,,FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE,,SEARCH_ENVELOPE_MINY,0,FLATTEN_XML_FRAGMENTS,NO,SEARCH_ENVELOPE_MAXY,0,ADD_GEOMETRIES_AS_XML_FRAGMENTS,<lt>Unused<gt>
+
+WRITER_TYPE NULL
+WRITER_KEYWORD NULL_DEST
+NULL_DEST_DATASET null
+#! END_WB_HEADER
+
+#! START_WB_HEADER
+MACRO WB_KEYWORD "GML_1"
+#! END_WB_HEADER
+#! START_SOURCE_HEADER GML GML_1
+# ============================================================================
+# The following GUI lines prompt for a GML file to be used as the
+# the source of the data.
+# The user input is stored in a macro, which is then used to define
+# the dataset to be written.
+# The dataset this mapping file was generated from was:
+#! END_SOURCE_HEADER
+#! START_WB_HEADER
+DEFAULT_MACRO SourceDataset
+INCLUDE [ if {{$(SourceDataset)} != ""} {                        \
+ puts {DEFAULT_MACRO SourceDataset_GML_1 $(SourceDataset)}     \
+ } ]
+#! END_WB_HEADER
+#! START_SOURCE_HEADER GML GML_1
+DEFAULT_MACRO SourceDataset_GML_1 $(SourceDataset_GML)
+GUI OPTIONAL MULTIFILE SourceDataset_GML_1 GML_Files(*.gml;*.gz;*.xml)|*.gml;*gz;*.xml|GML_Files(*.gml)|*.gml|Compressed_GML_Files(*.gz)|*.gz|GML_Files(*.xml)|*.xml|All_Files|* Source Geography Markup Language (GML) File(s):
+# ============================================================================
+DEFAULT_MACRO GML_IN_FME_GROUP_NAMED1_GML_1 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_FME_GROUP_NAMED1_GML_1 GML_IN_IGNORE_APPLICATON_SCHEMA_GML_1%GML_IN_XSD_DOC_GML_1%GML_IN_VALIDATE_DATASET_GML_1%GML_IN_FEATURE_TYPES_SCHEMA_MODE%GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_1%GML_IN_MAP_FEATURE_COLLECTION_GML_1%GML_IN_GML_FEATURE_ELEMENTS_GML_1 Application Schema
+DEFAULT_MACRO GML_IN_IGNORE_APPLICATON_SCHEMA_GML_1 yes
+GML_1_IGNORE_APPLICATON_SCHEMA "$(GML_IN_IGNORE_APPLICATON_SCHEMA_GML_1)"
+GUI ACTIVECHOICE GML_IN_IGNORE_APPLICATON_SCHEMA_GML_1 no,GML_IN_GML_FEATURE_ELEMENTS_GML_1%yes,GML_IN_XSD_DOC_GML_1,GML_IN_VALIDATE_DATASET_GML_1,GML_IN_FEATURE_TYPES_SCHEMA_MODE,GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_1,GML_IN_MAP_FEATURE_COLLECTION_GML_1,GML_IN_FEATURE_PROPERTIES_READER_GML_1,GML_IN_ATTRIBUTE_HANDLING_GML_1,GML_IN_GML_READER_GROUP_GML_1 Ignore Application Schema:
+# ============================================================================
+# The XSD_DOC keyword overwrites the location of the XML Schema document that
+# is specified in the xsi:schemaLocation of the XML dataset.
+DEFAULT_MACRO GML_IN_XSD_DOC_GML_1 <Unused>
+GML_1_XSD_DOC "$(GML_IN_XSD_DOC_GML_1)"
+GUI OPTIONAL FILE_OR_URL GML_IN_XSD_DOC_GML_1 GML_Schema_File(*.xsd)|*.xsd|All_Files(*)|* Application Schema:
+# ============================================================================
+# This specifies whether the XML dataset should be validated against its
+# DTD file. If set to 'auto', the XML document will only be validated if
+# its DTD file is available.
+DEFAULT_MACRO GML_IN_VALIDATE_DATASET_GML_1 no
+GML_1_VALIDATE_DATASET "$(GML_IN_VALIDATE_DATASET_GML_1)"
+GUI CHOICE GML_IN_VALIDATE_DATASET_GML_1 yes%no Validate GML Dataset File:
+# ============================================================================
+# Specifies whether we should only show feature types from XSD or dataset
+DEFAULT_MACRO GML_IN_FEATURE_TYPES_SCHEMA_MODE_GML_1 XML_SCHEMA
+GML_1_FEATURE_TYPES_SCHEMA_MODE "$(GML_IN_FEATURE_TYPES_SCHEMA_MODE_GML_1)"
+DEFAULT_MACRO GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_1 <Unused>
+GML_1_SKIP_SCHEMA_LOCATION_IN_DATASET "$(GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_1)"
+GUI CHOICE GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_1 Yes%No Ignore xsi:schemaLocation in Dataset:
+DEFAULT_MACRO GML_IN_MAP_FEATURE_COLLECTION_GML_1 <Unused>
+GML_1_MAP_FEATURE_COLLECTION "$(GML_IN_MAP_FEATURE_COLLECTION_GML_1)"
+GUI OPTIONAL LOOKUP_LISTBOX GML_IN_MAP_FEATURE_COLLECTION_GML_1 gml:FeatureCollection,gml%wfs:FeatureCollection,wfs Map FeatureCollection:
+DEFAULT_MACRO GML_IN_GML_FEATURE_ELEMENTS_GML_1 
+GML_1_GML_FEATURE_ELEMENTS "$(GML_IN_GML_FEATURE_ELEMENTS_GML_1)"
+GUI OPTIONAL TEXT_EDIT_ GML_IN_GML_FEATURE_ELEMENTS_GML_1 GML Feature Elements:
+# ============================================================================
+DEFAULT_MACRO GML_IN_SRS_GEOMETRY_PARAMETERS_GML_1 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_SRS_GEOMETRY_PARAMETERS_GML_1 GML_IN_SRS_AXIS_ORDER_GML_1%GML_IN_SRS_ANGLE_DIRECTION_GML_1%GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_1 GML SRS/Geometry Parameters
+DEFAULT_MACRO GML_IN_SRS_AXIS_ORDER_GML_1 
+GML_1_SRS_AXIS_ORDER "$(GML_IN_SRS_AXIS_ORDER_GML_1)"
+GUI OPTIONAL CHOICE GML_IN_SRS_AXIS_ORDER_GML_1 1,2%2,1%1,2,3%2,1,3 GML SRS Axis Order:
+DEFAULT_MACRO GML_IN_SRS_ANGLE_DIRECTION_GML_1 
+GML_1_SRS_ANGLE_DIRECTION "$(GML_IN_SRS_ANGLE_DIRECTION_GML_1)"
+GUI OPTIONAL LOOKUP_CHOICE GML_IN_SRS_ANGLE_DIRECTION_GML_1 Counterclockwise,CCW%Clockwise,CW GML SRS Angle Direction:
+DEFAULT_MACRO GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_1 SNAPPING_END_POINTS
+GML_1_ENFORCE_PATH_CONTINUITY_BY "$(GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_1)"
+GUI OPTIONAL LOOKUP_CHOICE GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_1 "\"Snapping End Points\",SNAPPING_END_POINTS"%"\"Inserting New Segment\",INSERTING_NEW_SEGMENT" Enforce Path Continuity By:
+# ============================================================================
+DEFAULT_MACRO GML_IN_FEATURE_PROPERTIES_READER_GML_1 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_FEATURE_PROPERTIES_READER_GML_1 GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_1%GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_1%GML_IN_MAP_GEOMETRY_COLUMNS_GML_1%GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_1%GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_1%GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_1 Feature Properties
+DEFAULT_MACRO GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_1 <Unused>
+GML_1_MAP_EMBEDDED_OBJECTS_AS "$(GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_1)"
+GUI LOOKUP_CHOICE GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_1 "\"Attributes\",ATTRIBUTES"%"\"Geometries\",GEOMETRIES"%"\"Feature Types\",FEATURE_TYPES" Map Embedded Objects as:
+DEFAULT_MACRO GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_1 <Unused>
+GML_1_MAP_PREDEFINED_GML_PROPERTIES "$(GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_1)"
+GUI OPTIONAL CHECKBOX GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_1 YES%NO Map Predefined Properties
+DEFAULT_MACRO GML_IN_MAP_GEOMETRY_COLUMNS_GML_1 <Unused>
+GML_1_MAP_GEOMETRY_COLUMNS "$(GML_IN_MAP_GEOMETRY_COLUMNS_GML_1)"
+GUI OPTIONAL CHECKBOX GML_IN_MAP_GEOMETRY_COLUMNS_GML_1 YES%NO Map Geometry Columns
+DEFAULT_MACRO GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_1 YES
+GML_1_MAP_ALL_SUBSTITUTABLE_PROPERTIES "$(GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_1)"
+GUI OPTIONAL CHECKBOX GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_1 YES%NO Map All Substitutable Properties
+DEFAULT_MACRO GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_1 <Unused>
+GML_1_ADD_NAMESPACE_PREFIX_TO_NAMES "$(GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_1)"
+GUI OPTIONAL LOOKUP_CHOICE GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_1 "\"Feature Types\",FEATURE_TYPES"%"\"Feature Types and Attributes\",FEATURE_TYPES_AND_ATTRIBUTES" Add XML Namespace Prefix to:
+DEFAULT_MACRO GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_1 <Unused>
+GML_1_QNAMES_FOR_PROPERTIES_TO_IGNORE "$(GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_1)"
+GUI OPTIONAL TEXT_EDIT_XML GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_1 Properties to Ignore:
+# ============================================================================
+DEFAULT_MACRO GML_IN_ATTRIBUTE_HANDLING_GML_1 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_ATTRIBUTE_HANDLING_GML_1 GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_1%GML_IN_MAX_MULTI_LIST_LEVEL_GML_1%GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_1%GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_1%GML_IN_FLATTEN_XML_FRAGMENTS_GML_1 Feature Properties - Attribute Handling
+DEFAULT_MACRO GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_1 <Unused>
+GML_1_MAP_COMPLEX_PROPERTIES_AS "$(GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_1)"
+GUI ACTIVECHOICE GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_1 "Nested Attributes"%"\"XML Fragments\",GML_IN_MAX_MULTI_LIST_LEVEL_GML_1" Map Complex Properties as:
+GUI LOOKUP GML_IN_MAX_MULTI_LIST_LEVEL_GML_1 <Unused>, 
+DEFAULT_MACRO GML_IN_MAX_MULTI_LIST_LEVEL_GML_1 
+GML_1_MAX_MULTI_LIST_LEVEL "$(GML_IN_MAX_MULTI_LIST_LEVEL_GML_1)"
+GUI OPTIONAL CHOICE GML_IN_MAX_MULTI_LIST_LEVEL_GML_1 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20 Limit Number of Lists in Nested Attributes:
+DEFAULT_MACRO GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_1 <Unused>
+GML_1_ADD_GEOMETRIES_AS_XML_FRAGMENTS "$(GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_1)"
+GUI OPTIONAL CHECKBOX GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_1 YES%NO Add Geometries as XML Fragments
+DEFAULT_MACRO GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_1 <Unused>
+GML_1_XML_FRAGMENTS_AS_DOCUMENTS "$(GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_1)"
+GUI OPTIONAL CHECKBOX GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_1 YES%NO Include XML Declaration in XML Fragments
+DEFAULT_MACRO GML_IN_FLATTEN_XML_FRAGMENTS_GML_1 NO
+GML_1_FLATTEN_XML_FRAGMENTS "$(GML_IN_FLATTEN_XML_FRAGMENTS_GML_1)"
+GUI ACTIVEDISCLOSUREGROUP GML_IN_FLATTEN_XML_FRAGMENTS_GML_1 GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_1%GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_1%GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_1 Flatten XML Fragments
+GUI LOOKUP GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_1 <Unused>, 
+DEFAULT_MACRO GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_1 
+GML_1_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE "$(GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_1)"
+GUI OPTIONAL STRING_OR_CHOICE GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_1 {%_%-%empty_string Substitute Open List Brace:
+GUI LOOKUP GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_1 <Unused>, 
+DEFAULT_MACRO GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_1 
+GML_1_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE "$(GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_1)"
+GUI OPTIONAL STRING_OR_CHOICE GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_1 }%_%-%empty_string Substitute Close List Brace:
+GUI LOOKUP GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_1 <Unused>, 
+DEFAULT_MACRO GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_1 
+GML_1_FLATTEN_XML_FRAGMENTS_SEPARATOR "$(GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_1)"
+GUI OPTIONAL STRING_OR_CHOICE GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_1 .%_%empty_string Substitute Element List Separator:
+# ============================================================================
+DEFAULT_MACRO GML_IN_GML_READER_GROUP_GML_1 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_GML_READER_GROUP_GML_1 GML_IN_USE_OLD_READER_GML_1%GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_1%GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_1 Version and XML Namespace Processing
+DEFAULT_MACRO GML_IN_USE_OLD_READER_GML_1 NO
+GML_1_USE_OLD_READER "$(GML_IN_USE_OLD_READER_GML_1)"
+GUI OPTIONAL ACTIVECHECK GML_IN_USE_OLD_READER_GML_1 YES,GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_1%NO Use Old Reader for GML v3.1.1 and v2.1.2 Documents
+DEFAULT_MACRO GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_1 <Unused>
+GML_1_DISABLE_AUTOMATIC_READER_TYPE_SELECTION "$(GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_1)"
+GUI OPTIONAL CHECKBOX GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_1 YES%NO Disable Automatic Reader Type Selection
+DEFAULT_MACRO GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_1 <Unused>
+GML_1_DISABLE_XML_NAMESPACE_PROCESSING "$(GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_1)"
+GUI OPTIONAL CHECKBOX GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_1 YES%NO Disable XML Namespace Processing
+# ============================================================================
+DEFAULT_MACRO GML_IN_EXPLORE_XSD_VALUES_GROUP_GML_1 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_EXPLORE_XSD_VALUES_GROUP_GML_1 GML_IN_EXPLORE_XSD_VALUES_GML_1 Explore XSD Values
+DEFAULT_MACRO GML_IN_EXPLORE_XSD_VALUES_GML_1 NO
+GML_1_EXPLORE_XSD_VALUES "$(GML_IN_EXPLORE_XSD_VALUES_GML_1)"
+GUI OPTIONAL ACTIVECHECK GML_IN_EXPLORE_XSD_VALUES_GML_1 YES,GML_IN_VALIDATE_DATASET_GML_1,GML_IN_FEATURE_TYPES_SCHEMA_MODE,GML_IN_SRS_GEOMETRY_PARAMETERS_GML_1,GML_IN_USE_OLD_READER_GML_1,GML_IN_USE_SEARCH_ENVELOPE_GML_1%NO Explore XSD Values
+DEFAULT_MACRO GML_IN_EXPOSE_ATTRS_GROUP_GML_1 
+GML_1_EXPOSE_ATTRS_GROUP "$(GML_IN_EXPOSE_ATTRS_GROUP_GML_1)"
+# Include this file in source setting section to add external search envelope processing
+# Zero as a default means we don't do any search -- this makes workbench happier
+DEFAULT_MACRO GML_IN_USE_SEARCH_ENVELOPE_GML_1 NO
+GML_1_USE_SEARCH_ENVELOPE "$(GML_IN_USE_SEARCH_ENVELOPE_GML_1)"
+GUI ACTIVEDISCLOSUREGROUP GML_IN_USE_SEARCH_ENVELOPE_GML_1 GML_IN_SEARCH_ENVELOPE_MINX_GML_1%GML_IN_SEARCH_ENVELOPE_MINY_GML_1%GML_IN_SEARCH_ENVELOPE_MAXX_GML_1%GML_IN_SEARCH_ENVELOPE_MAXY_GML_1%GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_1%GML_IN_CLIP_TO_ENVELOPE_GML_1%GML_IN_SEARCH_METHOD%GML_IN_SEARCH_METHOD_FILTER%GML_IN_SEARCH_ORDER%GML_IN_SEARCH_FEATURE%GML_IN_DUMMY_SEARCH_ENVELOPE_PARAMETER Use Search Envelope
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_MINX_GML_1 <Unused>,0 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_MINX_GML_1 0
+GML_1_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_MINX_GML_1)"
+GUI OPTIONAL FLOAT GML_IN_SEARCH_ENVELOPE_MINX_GML_1 Minimum X:
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_MINY_GML_1 <Unused>,0 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_MINY_GML_1 0
+GML_1_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_MINY_GML_1)"
+GUI OPTIONAL FLOAT GML_IN_SEARCH_ENVELOPE_MINY_GML_1 Minimum Y:
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_MAXX_GML_1 <Unused>,0 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_MAXX_GML_1 0
+GML_1_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_MAXX_GML_1)"
+GUI OPTIONAL FLOAT GML_IN_SEARCH_ENVELOPE_MAXX_GML_1 Maximum X:
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_MAXY_GML_1 <Unused>,0 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_MAXY_GML_1 0
+GML_1_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_MAXY_GML_1)"
+GUI OPTIONAL FLOAT GML_IN_SEARCH_ENVELOPE_MAXY_GML_1 Maximum Y:
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_1 <Unused>, 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_1 
+GML_1_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_1)"
+GUI OPTIONAL COORDSYS GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_1 Search Envelope Coordinate System:
+# ===========================================================================
+# BUG18999: We now have a soft clip to fall back on like native spatial index
+# thus we are reintroducing the clip to envelop as an option for users.
+# Defualt to soft clip as per the existing database readers we are emulating
+GUI LOOKUP GML_IN_CLIP_TO_ENVELOPE_GML_1 <Unused>,NO 
+DEFAULT_MACRO GML_IN_CLIP_TO_ENVELOPE_GML_1 NO
+GML_1_CLIP_TO_ENVELOPE "$(GML_IN_CLIP_TO_ENVELOPE_GML_1)"
+GUI OPTIONAL CHECKBOX GML_IN_CLIP_TO_ENVELOPE_GML_1 YES%NO Clip to Search Envelope
+DEFAULT_MACRO GML_IN_GML_RDR_ADV_GML_1 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_GML_RDR_ADV_GML_1 GML_IN_CONTINUE_ON_GEOM_ERROR_GML_1%GML_IN_SYSTEM_ENCODING_GML_1%GML_IN_CACHE_XSD_GML_1%GML_IN_CACHE_XSD_EXPIRY_TIME_GML_1%GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_1 Advanced
+# ============================================================================
+# This keyword allows the GML reader to continue reading the input dataset when
+# it encounters an error reading a feature's geometry.
+DEFAULT_MACRO GML_IN_CONTINUE_ON_GEOM_ERROR_GML_1 yes
+GML_1_CONTINUE_ON_GEOM_ERROR "$(GML_IN_CONTINUE_ON_GEOM_ERROR_GML_1)"
+GUI CHOICE GML_IN_CONTINUE_ON_GEOM_ERROR_GML_1 yes%no Continue on Geometry Error:
+# ============================================================================
+# This keyword specifies what encoding the GML schema and data features should
+# be in when they are output to the FME. The default value for this keyword
+# is the system's encoding.
+DEFAULT_MACRO GML_IN_SYSTEM_ENCODING_GML_1 
+GML_1_SYSTEM_ENCODING "$(GML_IN_SYSTEM_ENCODING_GML_1)"
+GUI OPTIONAL TEXT GML_IN_SYSTEM_ENCODING_GML_1 System Encoding:
+# ============================================================================
+# This keyword allows XML Schemas to be temporarily cached thereby minimizing
+# the number of network fetches.
+DEFAULT_MACRO GML_IN_CACHE_XSD_GML_1 yes
+GML_1_CACHE_XSD "$(GML_IN_CACHE_XSD_GML_1)"
+GUI CHOICE GML_IN_CACHE_XSD_GML_1 yes%no Cache XSD Documents:
+# ============================================================================
+# Specifies the amount of time in seconds an XML Schema document is allowed
+# to be cached before it expires.
+DEFAULT_MACRO GML_IN_CACHE_XSD_EXPIRY_TIME_GML_1 
+GML_1_CACHE_XSD_EXPIRY_TIME "$(GML_IN_CACHE_XSD_EXPIRY_TIME_GML_1)"
+GUI OPTIONAL INTEGER GML_IN_CACHE_XSD_EXPIRY_TIME_GML_1 Cache XSD Expiry Time:
+DEFAULT_MACRO GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_1 no
+GML_1_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV "$(GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_1)"
+GUI CHOICE GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_1 no%yes Simple multi-valued properties as csv:
+# ===========================================================================
+DEFAULT_MACRO GML_IN_NETWORK_AUTHENTICATION_GML_1 
+GML_1_NETWORK_AUTHENTICATION "$(GML_IN_NETWORK_AUTHENTICATION_GML_1)"
+GUI OPTIONAL AUTHENTICATOR GML_IN_NETWORK_AUTHENTICATION_GML_1 CONTAINER%GROUP%CONTAINER_TITLE%"Network Authentication"%PROMPT_TYPE%NETWORK Network Authentication
+# ============================================================================ 
+DEFAULT_MACRO GML_IN_ATTRIBUTE_READING_GML_1 ALL
+GML_1_ATTRIBUTE_READING "$(GML_IN_ATTRIBUTE_READING_GML_1)"
+# ============================================================================ 
+GML_1_GENERATE_FME_BUILD_NUM 18310
+GML_1_DATASET "$(SourceDataset_GML_1)"
+#! END_SOURCE_HEADER
+#! START_WB_HEADER
+MACRO WB_KEYWORD "GML_2"
+#! END_WB_HEADER
+#! START_SOURCE_HEADER GML GML_2
+# ============================================================================
+# The following GUI lines prompt for a GML file to be used as the
+# the source of the data.
+# The user input is stored in a macro, which is then used to define
+# the dataset to be written.
+# The dataset this mapping file was generated from was:
+#! END_SOURCE_HEADER
+#! START_WB_HEADER
+DEFAULT_MACRO SourceDataset
+INCLUDE [ if {{$(SourceDataset)} != ""} {                        \
+ puts {DEFAULT_MACRO SourceDataset_GML_2 $(SourceDataset)}     \
+ } ]
+#! END_WB_HEADER
+#! START_SOURCE_HEADER GML GML_2
+DEFAULT_MACRO SourceDataset_GML_2 $(SourceDataset_GML_5)
+GUI OPTIONAL MULTIFILE SourceDataset_GML_2 GML_Files(*.gml;*.gz;*.xml)|*.gml;*gz;*.xml|GML_Files(*.gml)|*.gml|Compressed_GML_Files(*.gz)|*.gz|GML_Files(*.xml)|*.xml|All_Files|* Source Geography Markup Language (GML) File(s):
+# ============================================================================
+DEFAULT_MACRO GML_IN_FME_GROUP_NAMED1_GML_2 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_FME_GROUP_NAMED1_GML_2 GML_IN_IGNORE_APPLICATON_SCHEMA_GML_2%GML_IN_XSD_DOC_GML_2%GML_IN_VALIDATE_DATASET_GML_2%GML_IN_FEATURE_TYPES_SCHEMA_MODE%GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_2%GML_IN_MAP_FEATURE_COLLECTION_GML_2%GML_IN_GML_FEATURE_ELEMENTS_GML_2 Application Schema
+DEFAULT_MACRO GML_IN_IGNORE_APPLICATON_SCHEMA_GML_2 yes
+GML_2_IGNORE_APPLICATON_SCHEMA "$(GML_IN_IGNORE_APPLICATON_SCHEMA_GML_2)"
+GUI ACTIVECHOICE GML_IN_IGNORE_APPLICATON_SCHEMA_GML_2 no,GML_IN_GML_FEATURE_ELEMENTS_GML_2%yes,GML_IN_XSD_DOC_GML_2,GML_IN_VALIDATE_DATASET_GML_2,GML_IN_FEATURE_TYPES_SCHEMA_MODE,GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_2,GML_IN_MAP_FEATURE_COLLECTION_GML_2,GML_IN_FEATURE_PROPERTIES_READER_GML_2,GML_IN_ATTRIBUTE_HANDLING_GML_2,GML_IN_GML_READER_GROUP_GML_2 Ignore Application Schema:
+# ============================================================================
+# The XSD_DOC keyword overwrites the location of the XML Schema document that
+# is specified in the xsi:schemaLocation of the XML dataset.
+DEFAULT_MACRO GML_IN_XSD_DOC_GML_2 <Unused>
+GML_2_XSD_DOC "$(GML_IN_XSD_DOC_GML_2)"
+GUI OPTIONAL FILE_OR_URL GML_IN_XSD_DOC_GML_2 GML_Schema_File(*.xsd)|*.xsd|All_Files(*)|* Application Schema:
+# ============================================================================
+# This specifies whether the XML dataset should be validated against its
+# DTD file. If set to 'auto', the XML document will only be validated if
+# its DTD file is available.
+DEFAULT_MACRO GML_IN_VALIDATE_DATASET_GML_2 no
+GML_2_VALIDATE_DATASET "$(GML_IN_VALIDATE_DATASET_GML_2)"
+GUI CHOICE GML_IN_VALIDATE_DATASET_GML_2 yes%no Validate GML Dataset File:
+# ============================================================================
+# Specifies whether we should only show feature types from XSD or dataset
+DEFAULT_MACRO GML_IN_FEATURE_TYPES_SCHEMA_MODE_GML_2 XML_SCHEMA
+GML_2_FEATURE_TYPES_SCHEMA_MODE "$(GML_IN_FEATURE_TYPES_SCHEMA_MODE_GML_2)"
+DEFAULT_MACRO GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_2 <Unused>
+GML_2_SKIP_SCHEMA_LOCATION_IN_DATASET "$(GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_2)"
+GUI CHOICE GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_2 Yes%No Ignore xsi:schemaLocation in Dataset:
+DEFAULT_MACRO GML_IN_MAP_FEATURE_COLLECTION_GML_2 <Unused>
+GML_2_MAP_FEATURE_COLLECTION "$(GML_IN_MAP_FEATURE_COLLECTION_GML_2)"
+GUI OPTIONAL LOOKUP_LISTBOX GML_IN_MAP_FEATURE_COLLECTION_GML_2 gml:FeatureCollection,gml%wfs:FeatureCollection,wfs Map FeatureCollection:
+DEFAULT_MACRO GML_IN_GML_FEATURE_ELEMENTS_GML_2 
+GML_2_GML_FEATURE_ELEMENTS "$(GML_IN_GML_FEATURE_ELEMENTS_GML_2)"
+GUI OPTIONAL TEXT_EDIT_ GML_IN_GML_FEATURE_ELEMENTS_GML_2 GML Feature Elements:
+# ============================================================================
+DEFAULT_MACRO GML_IN_SRS_GEOMETRY_PARAMETERS_GML_2 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_SRS_GEOMETRY_PARAMETERS_GML_2 GML_IN_SRS_AXIS_ORDER_GML_2%GML_IN_SRS_ANGLE_DIRECTION_GML_2%GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_2 GML SRS/Geometry Parameters
+DEFAULT_MACRO GML_IN_SRS_AXIS_ORDER_GML_2 
+GML_2_SRS_AXIS_ORDER "$(GML_IN_SRS_AXIS_ORDER_GML_2)"
+GUI OPTIONAL CHOICE GML_IN_SRS_AXIS_ORDER_GML_2 1,2%2,1%1,2,3%2,1,3 GML SRS Axis Order:
+DEFAULT_MACRO GML_IN_SRS_ANGLE_DIRECTION_GML_2 
+GML_2_SRS_ANGLE_DIRECTION "$(GML_IN_SRS_ANGLE_DIRECTION_GML_2)"
+GUI OPTIONAL LOOKUP_CHOICE GML_IN_SRS_ANGLE_DIRECTION_GML_2 Counterclockwise,CCW%Clockwise,CW GML SRS Angle Direction:
+DEFAULT_MACRO GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_2 SNAPPING_END_POINTS
+GML_2_ENFORCE_PATH_CONTINUITY_BY "$(GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_2)"
+GUI OPTIONAL LOOKUP_CHOICE GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_2 "\"Snapping End Points\",SNAPPING_END_POINTS"%"\"Inserting New Segment\",INSERTING_NEW_SEGMENT" Enforce Path Continuity By:
+# ============================================================================
+DEFAULT_MACRO GML_IN_FEATURE_PROPERTIES_READER_GML_2 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_FEATURE_PROPERTIES_READER_GML_2 GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_2%GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_2%GML_IN_MAP_GEOMETRY_COLUMNS_GML_2%GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_2%GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_2%GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_2 Feature Properties
+DEFAULT_MACRO GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_2 <Unused>
+GML_2_MAP_EMBEDDED_OBJECTS_AS "$(GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_2)"
+GUI LOOKUP_CHOICE GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_2 "\"Attributes\",ATTRIBUTES"%"\"Geometries\",GEOMETRIES"%"\"Feature Types\",FEATURE_TYPES" Map Embedded Objects as:
+DEFAULT_MACRO GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_2 <Unused>
+GML_2_MAP_PREDEFINED_GML_PROPERTIES "$(GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_2)"
+GUI OPTIONAL CHECKBOX GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_2 YES%NO Map Predefined Properties
+DEFAULT_MACRO GML_IN_MAP_GEOMETRY_COLUMNS_GML_2 <Unused>
+GML_2_MAP_GEOMETRY_COLUMNS "$(GML_IN_MAP_GEOMETRY_COLUMNS_GML_2)"
+GUI OPTIONAL CHECKBOX GML_IN_MAP_GEOMETRY_COLUMNS_GML_2 YES%NO Map Geometry Columns
+DEFAULT_MACRO GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_2 YES
+GML_2_MAP_ALL_SUBSTITUTABLE_PROPERTIES "$(GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_2)"
+GUI OPTIONAL CHECKBOX GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_2 YES%NO Map All Substitutable Properties
+DEFAULT_MACRO GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_2 <Unused>
+GML_2_ADD_NAMESPACE_PREFIX_TO_NAMES "$(GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_2)"
+GUI OPTIONAL LOOKUP_CHOICE GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_2 "\"Feature Types\",FEATURE_TYPES"%"\"Feature Types and Attributes\",FEATURE_TYPES_AND_ATTRIBUTES" Add XML Namespace Prefix to:
+DEFAULT_MACRO GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_2 <Unused>
+GML_2_QNAMES_FOR_PROPERTIES_TO_IGNORE "$(GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_2)"
+GUI OPTIONAL TEXT_EDIT_XML GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_2 Properties to Ignore:
+# ============================================================================
+DEFAULT_MACRO GML_IN_ATTRIBUTE_HANDLING_GML_2 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_ATTRIBUTE_HANDLING_GML_2 GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_2%GML_IN_MAX_MULTI_LIST_LEVEL_GML_2%GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_2%GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_2%GML_IN_FLATTEN_XML_FRAGMENTS_GML_2 Feature Properties - Attribute Handling
+DEFAULT_MACRO GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_2 <Unused>
+GML_2_MAP_COMPLEX_PROPERTIES_AS "$(GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_2)"
+GUI ACTIVECHOICE GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_2 "Nested Attributes"%"\"XML Fragments\",GML_IN_MAX_MULTI_LIST_LEVEL_GML_2" Map Complex Properties as:
+GUI LOOKUP GML_IN_MAX_MULTI_LIST_LEVEL_GML_2 <Unused>, 
+DEFAULT_MACRO GML_IN_MAX_MULTI_LIST_LEVEL_GML_2 
+GML_2_MAX_MULTI_LIST_LEVEL "$(GML_IN_MAX_MULTI_LIST_LEVEL_GML_2)"
+GUI OPTIONAL CHOICE GML_IN_MAX_MULTI_LIST_LEVEL_GML_2 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20 Limit Number of Lists in Nested Attributes:
+DEFAULT_MACRO GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_2 <Unused>
+GML_2_ADD_GEOMETRIES_AS_XML_FRAGMENTS "$(GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_2)"
+GUI OPTIONAL CHECKBOX GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_2 YES%NO Add Geometries as XML Fragments
+DEFAULT_MACRO GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_2 <Unused>
+GML_2_XML_FRAGMENTS_AS_DOCUMENTS "$(GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_2)"
+GUI OPTIONAL CHECKBOX GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_2 YES%NO Include XML Declaration in XML Fragments
+DEFAULT_MACRO GML_IN_FLATTEN_XML_FRAGMENTS_GML_2 NO
+GML_2_FLATTEN_XML_FRAGMENTS "$(GML_IN_FLATTEN_XML_FRAGMENTS_GML_2)"
+GUI ACTIVEDISCLOSUREGROUP GML_IN_FLATTEN_XML_FRAGMENTS_GML_2 GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_2%GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_2%GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_2 Flatten XML Fragments
+GUI LOOKUP GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_2 <Unused>, 
+DEFAULT_MACRO GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_2 
+GML_2_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE "$(GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_2)"
+GUI OPTIONAL STRING_OR_CHOICE GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_2 {%_%-%empty_string Substitute Open List Brace:
+GUI LOOKUP GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_2 <Unused>, 
+DEFAULT_MACRO GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_2 
+GML_2_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE "$(GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_2)"
+GUI OPTIONAL STRING_OR_CHOICE GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_2 }%_%-%empty_string Substitute Close List Brace:
+GUI LOOKUP GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_2 <Unused>, 
+DEFAULT_MACRO GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_2 
+GML_2_FLATTEN_XML_FRAGMENTS_SEPARATOR "$(GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_2)"
+GUI OPTIONAL STRING_OR_CHOICE GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_2 .%_%empty_string Substitute Element List Separator:
+# ============================================================================
+DEFAULT_MACRO GML_IN_GML_READER_GROUP_GML_2 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_GML_READER_GROUP_GML_2 GML_IN_USE_OLD_READER_GML_2%GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_2%GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_2 Version and XML Namespace Processing
+DEFAULT_MACRO GML_IN_USE_OLD_READER_GML_2 NO
+GML_2_USE_OLD_READER "$(GML_IN_USE_OLD_READER_GML_2)"
+GUI OPTIONAL ACTIVECHECK GML_IN_USE_OLD_READER_GML_2 YES,GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_2%NO Use Old Reader for GML v3.1.1 and v2.1.2 Documents
+DEFAULT_MACRO GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_2 <Unused>
+GML_2_DISABLE_AUTOMATIC_READER_TYPE_SELECTION "$(GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_2)"
+GUI OPTIONAL CHECKBOX GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_2 YES%NO Disable Automatic Reader Type Selection
+DEFAULT_MACRO GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_2 <Unused>
+GML_2_DISABLE_XML_NAMESPACE_PROCESSING "$(GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_2)"
+GUI OPTIONAL CHECKBOX GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_2 YES%NO Disable XML Namespace Processing
+# ============================================================================
+DEFAULT_MACRO GML_IN_EXPLORE_XSD_VALUES_GROUP_GML_2 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_EXPLORE_XSD_VALUES_GROUP_GML_2 GML_IN_EXPLORE_XSD_VALUES_GML_2 Explore XSD Values
+DEFAULT_MACRO GML_IN_EXPLORE_XSD_VALUES_GML_2 NO
+GML_2_EXPLORE_XSD_VALUES "$(GML_IN_EXPLORE_XSD_VALUES_GML_2)"
+GUI OPTIONAL ACTIVECHECK GML_IN_EXPLORE_XSD_VALUES_GML_2 YES,GML_IN_VALIDATE_DATASET_GML_2,GML_IN_FEATURE_TYPES_SCHEMA_MODE,GML_IN_SRS_GEOMETRY_PARAMETERS_GML_2,GML_IN_USE_OLD_READER_GML_2,GML_IN_USE_SEARCH_ENVELOPE_GML_2%NO Explore XSD Values
+DEFAULT_MACRO GML_IN_EXPOSE_ATTRS_GROUP_GML_2 
+GML_2_EXPOSE_ATTRS_GROUP "$(GML_IN_EXPOSE_ATTRS_GROUP_GML_2)"
+# Include this file in source setting section to add external search envelope processing
+# Zero as a default means we don't do any search -- this makes workbench happier
+DEFAULT_MACRO GML_IN_USE_SEARCH_ENVELOPE_GML_2 NO
+GML_2_USE_SEARCH_ENVELOPE "$(GML_IN_USE_SEARCH_ENVELOPE_GML_2)"
+GUI ACTIVEDISCLOSUREGROUP GML_IN_USE_SEARCH_ENVELOPE_GML_2 GML_IN_SEARCH_ENVELOPE_MINX_GML_2%GML_IN_SEARCH_ENVELOPE_MINY_GML_2%GML_IN_SEARCH_ENVELOPE_MAXX_GML_2%GML_IN_SEARCH_ENVELOPE_MAXY_GML_2%GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_2%GML_IN_CLIP_TO_ENVELOPE_GML_2%GML_IN_SEARCH_METHOD%GML_IN_SEARCH_METHOD_FILTER%GML_IN_SEARCH_ORDER%GML_IN_SEARCH_FEATURE%GML_IN_DUMMY_SEARCH_ENVELOPE_PARAMETER Use Search Envelope
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_MINX_GML_2 <Unused>,0 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_MINX_GML_2 0
+GML_2_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_MINX_GML_2)"
+GUI OPTIONAL FLOAT GML_IN_SEARCH_ENVELOPE_MINX_GML_2 Minimum X:
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_MINY_GML_2 <Unused>,0 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_MINY_GML_2 0
+GML_2_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_MINY_GML_2)"
+GUI OPTIONAL FLOAT GML_IN_SEARCH_ENVELOPE_MINY_GML_2 Minimum Y:
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_MAXX_GML_2 <Unused>,0 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_MAXX_GML_2 0
+GML_2_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_MAXX_GML_2)"
+GUI OPTIONAL FLOAT GML_IN_SEARCH_ENVELOPE_MAXX_GML_2 Maximum X:
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_MAXY_GML_2 <Unused>,0 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_MAXY_GML_2 0
+GML_2_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_MAXY_GML_2)"
+GUI OPTIONAL FLOAT GML_IN_SEARCH_ENVELOPE_MAXY_GML_2 Maximum Y:
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_2 <Unused>, 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_2 
+GML_2_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_2)"
+GUI OPTIONAL COORDSYS GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_2 Search Envelope Coordinate System:
+# ===========================================================================
+# BUG18999: We now have a soft clip to fall back on like native spatial index
+# thus we are reintroducing the clip to envelop as an option for users.
+# Defualt to soft clip as per the existing database readers we are emulating
+GUI LOOKUP GML_IN_CLIP_TO_ENVELOPE_GML_2 <Unused>,NO 
+DEFAULT_MACRO GML_IN_CLIP_TO_ENVELOPE_GML_2 NO
+GML_2_CLIP_TO_ENVELOPE "$(GML_IN_CLIP_TO_ENVELOPE_GML_2)"
+GUI OPTIONAL CHECKBOX GML_IN_CLIP_TO_ENVELOPE_GML_2 YES%NO Clip to Search Envelope
+DEFAULT_MACRO GML_IN_GML_RDR_ADV_GML_2 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_GML_RDR_ADV_GML_2 GML_IN_CONTINUE_ON_GEOM_ERROR_GML_2%GML_IN_SYSTEM_ENCODING_GML_2%GML_IN_CACHE_XSD_GML_2%GML_IN_CACHE_XSD_EXPIRY_TIME_GML_2%GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_2 Advanced
+# ============================================================================
+# This keyword allows the GML reader to continue reading the input dataset when
+# it encounters an error reading a feature's geometry.
+DEFAULT_MACRO GML_IN_CONTINUE_ON_GEOM_ERROR_GML_2 yes
+GML_2_CONTINUE_ON_GEOM_ERROR "$(GML_IN_CONTINUE_ON_GEOM_ERROR_GML_2)"
+GUI CHOICE GML_IN_CONTINUE_ON_GEOM_ERROR_GML_2 yes%no Continue on Geometry Error:
+# ============================================================================
+# This keyword specifies what encoding the GML schema and data features should
+# be in when they are output to the FME. The default value for this keyword
+# is the system's encoding.
+DEFAULT_MACRO GML_IN_SYSTEM_ENCODING_GML_2 
+GML_2_SYSTEM_ENCODING "$(GML_IN_SYSTEM_ENCODING_GML_2)"
+GUI OPTIONAL TEXT GML_IN_SYSTEM_ENCODING_GML_2 System Encoding:
+# ============================================================================
+# This keyword allows XML Schemas to be temporarily cached thereby minimizing
+# the number of network fetches.
+DEFAULT_MACRO GML_IN_CACHE_XSD_GML_2 yes
+GML_2_CACHE_XSD "$(GML_IN_CACHE_XSD_GML_2)"
+GUI CHOICE GML_IN_CACHE_XSD_GML_2 yes%no Cache XSD Documents:
+# ============================================================================
+# Specifies the amount of time in seconds an XML Schema document is allowed
+# to be cached before it expires.
+DEFAULT_MACRO GML_IN_CACHE_XSD_EXPIRY_TIME_GML_2 
+GML_2_CACHE_XSD_EXPIRY_TIME "$(GML_IN_CACHE_XSD_EXPIRY_TIME_GML_2)"
+GUI OPTIONAL INTEGER GML_IN_CACHE_XSD_EXPIRY_TIME_GML_2 Cache XSD Expiry Time:
+DEFAULT_MACRO GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_2 no
+GML_2_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV "$(GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_2)"
+GUI CHOICE GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_2 no%yes Simple multi-valued properties as csv:
+# ===========================================================================
+DEFAULT_MACRO GML_IN_NETWORK_AUTHENTICATION_GML_2 
+GML_2_NETWORK_AUTHENTICATION "$(GML_IN_NETWORK_AUTHENTICATION_GML_2)"
+GUI OPTIONAL AUTHENTICATOR GML_IN_NETWORK_AUTHENTICATION_GML_2 CONTAINER%GROUP%CONTAINER_TITLE%"Network Authentication"%PROMPT_TYPE%NETWORK Network Authentication
+# ============================================================================ 
+DEFAULT_MACRO GML_IN_ATTRIBUTE_READING_GML_2 ALL
+GML_2_ATTRIBUTE_READING "$(GML_IN_ATTRIBUTE_READING_GML_2)"
+# ============================================================================ 
+GML_2_GENERATE_FME_BUILD_NUM 18310
+GML_2_DATASET "$(SourceDataset_GML_2)"
+#! END_SOURCE_HEADER
+#! START_WB_HEADER
+MACRO WB_KEYWORD "GML_3"
+#! END_WB_HEADER
+#! START_SOURCE_HEADER GML GML_3
+# ============================================================================
+# The following GUI lines prompt for a GML file to be used as the
+# the source of the data.
+# The user input is stored in a macro, which is then used to define
+# the dataset to be written.
+# The dataset this mapping file was generated from was:
+#! END_SOURCE_HEADER
+#! START_WB_HEADER
+DEFAULT_MACRO SourceDataset
+INCLUDE [ if {{$(SourceDataset)} != ""} {                        \
+ puts {DEFAULT_MACRO SourceDataset_GML_3 $(SourceDataset)}     \
+ } ]
+#! END_WB_HEADER
+#! START_SOURCE_HEADER GML GML_3
+DEFAULT_MACRO SourceDataset_GML_3 $(SourceDataset_GML_4)
+GUI OPTIONAL MULTIFILE SourceDataset_GML_3 GML_Files(*.gml;*.gz;*.xml)|*.gml;*gz;*.xml|GML_Files(*.gml)|*.gml|Compressed_GML_Files(*.gz)|*.gz|GML_Files(*.xml)|*.xml|All_Files|* Source Geography Markup Language (GML) File(s):
+# ============================================================================
+DEFAULT_MACRO GML_IN_FME_GROUP_NAMED1_GML_3 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_FME_GROUP_NAMED1_GML_3 GML_IN_IGNORE_APPLICATON_SCHEMA_GML_3%GML_IN_XSD_DOC_GML_3%GML_IN_VALIDATE_DATASET_GML_3%GML_IN_FEATURE_TYPES_SCHEMA_MODE%GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_3%GML_IN_MAP_FEATURE_COLLECTION_GML_3%GML_IN_GML_FEATURE_ELEMENTS_GML_3 Application Schema
+DEFAULT_MACRO GML_IN_IGNORE_APPLICATON_SCHEMA_GML_3 yes
+GML_3_IGNORE_APPLICATON_SCHEMA "$(GML_IN_IGNORE_APPLICATON_SCHEMA_GML_3)"
+GUI ACTIVECHOICE GML_IN_IGNORE_APPLICATON_SCHEMA_GML_3 no,GML_IN_GML_FEATURE_ELEMENTS_GML_3%yes,GML_IN_XSD_DOC_GML_3,GML_IN_VALIDATE_DATASET_GML_3,GML_IN_FEATURE_TYPES_SCHEMA_MODE,GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_3,GML_IN_MAP_FEATURE_COLLECTION_GML_3,GML_IN_FEATURE_PROPERTIES_READER_GML_3,GML_IN_ATTRIBUTE_HANDLING_GML_3,GML_IN_GML_READER_GROUP_GML_3 Ignore Application Schema:
+# ============================================================================
+# The XSD_DOC keyword overwrites the location of the XML Schema document that
+# is specified in the xsi:schemaLocation of the XML dataset.
+DEFAULT_MACRO GML_IN_XSD_DOC_GML_3 <Unused>
+GML_3_XSD_DOC "$(GML_IN_XSD_DOC_GML_3)"
+GUI OPTIONAL FILE_OR_URL GML_IN_XSD_DOC_GML_3 GML_Schema_File(*.xsd)|*.xsd|All_Files(*)|* Application Schema:
+# ============================================================================
+# This specifies whether the XML dataset should be validated against its
+# DTD file. If set to 'auto', the XML document will only be validated if
+# its DTD file is available.
+DEFAULT_MACRO GML_IN_VALIDATE_DATASET_GML_3 no
+GML_3_VALIDATE_DATASET "$(GML_IN_VALIDATE_DATASET_GML_3)"
+GUI CHOICE GML_IN_VALIDATE_DATASET_GML_3 yes%no Validate GML Dataset File:
+# ============================================================================
+# Specifies whether we should only show feature types from XSD or dataset
+DEFAULT_MACRO GML_IN_FEATURE_TYPES_SCHEMA_MODE_GML_3 XML_SCHEMA
+GML_3_FEATURE_TYPES_SCHEMA_MODE "$(GML_IN_FEATURE_TYPES_SCHEMA_MODE_GML_3)"
+DEFAULT_MACRO GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_3 <Unused>
+GML_3_SKIP_SCHEMA_LOCATION_IN_DATASET "$(GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_3)"
+GUI CHOICE GML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_GML_3 Yes%No Ignore xsi:schemaLocation in Dataset:
+DEFAULT_MACRO GML_IN_MAP_FEATURE_COLLECTION_GML_3 <Unused>
+GML_3_MAP_FEATURE_COLLECTION "$(GML_IN_MAP_FEATURE_COLLECTION_GML_3)"
+GUI OPTIONAL LOOKUP_LISTBOX GML_IN_MAP_FEATURE_COLLECTION_GML_3 gml:FeatureCollection,gml%wfs:FeatureCollection,wfs Map FeatureCollection:
+DEFAULT_MACRO GML_IN_GML_FEATURE_ELEMENTS_GML_3 
+GML_3_GML_FEATURE_ELEMENTS "$(GML_IN_GML_FEATURE_ELEMENTS_GML_3)"
+GUI OPTIONAL TEXT_EDIT_ GML_IN_GML_FEATURE_ELEMENTS_GML_3 GML Feature Elements:
+# ============================================================================
+DEFAULT_MACRO GML_IN_SRS_GEOMETRY_PARAMETERS_GML_3 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_SRS_GEOMETRY_PARAMETERS_GML_3 GML_IN_SRS_AXIS_ORDER_GML_3%GML_IN_SRS_ANGLE_DIRECTION_GML_3%GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_3 GML SRS/Geometry Parameters
+DEFAULT_MACRO GML_IN_SRS_AXIS_ORDER_GML_3 
+GML_3_SRS_AXIS_ORDER "$(GML_IN_SRS_AXIS_ORDER_GML_3)"
+GUI OPTIONAL CHOICE GML_IN_SRS_AXIS_ORDER_GML_3 1,2%2,1%1,2,3%2,1,3 GML SRS Axis Order:
+DEFAULT_MACRO GML_IN_SRS_ANGLE_DIRECTION_GML_3 
+GML_3_SRS_ANGLE_DIRECTION "$(GML_IN_SRS_ANGLE_DIRECTION_GML_3)"
+GUI OPTIONAL LOOKUP_CHOICE GML_IN_SRS_ANGLE_DIRECTION_GML_3 Counterclockwise,CCW%Clockwise,CW GML SRS Angle Direction:
+DEFAULT_MACRO GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_3 SNAPPING_END_POINTS
+GML_3_ENFORCE_PATH_CONTINUITY_BY "$(GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_3)"
+GUI OPTIONAL LOOKUP_CHOICE GML_IN_ENFORCE_PATH_CONTINUITY_BY_GML_3 "\"Snapping End Points\",SNAPPING_END_POINTS"%"\"Inserting New Segment\",INSERTING_NEW_SEGMENT" Enforce Path Continuity By:
+# ============================================================================
+DEFAULT_MACRO GML_IN_FEATURE_PROPERTIES_READER_GML_3 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_FEATURE_PROPERTIES_READER_GML_3 GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_3%GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_3%GML_IN_MAP_GEOMETRY_COLUMNS_GML_3%GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_3%GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_3%GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_3 Feature Properties
+DEFAULT_MACRO GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_3 <Unused>
+GML_3_MAP_EMBEDDED_OBJECTS_AS "$(GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_3)"
+GUI LOOKUP_CHOICE GML_IN_MAP_EMBEDDED_OBJECTS_AS_GML_3 "\"Attributes\",ATTRIBUTES"%"\"Geometries\",GEOMETRIES"%"\"Feature Types\",FEATURE_TYPES" Map Embedded Objects as:
+DEFAULT_MACRO GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_3 <Unused>
+GML_3_MAP_PREDEFINED_GML_PROPERTIES "$(GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_3)"
+GUI OPTIONAL CHECKBOX GML_IN_MAP_PREDEFINED_GML_PROPERTIES_GML_3 YES%NO Map Predefined Properties
+DEFAULT_MACRO GML_IN_MAP_GEOMETRY_COLUMNS_GML_3 <Unused>
+GML_3_MAP_GEOMETRY_COLUMNS "$(GML_IN_MAP_GEOMETRY_COLUMNS_GML_3)"
+GUI OPTIONAL CHECKBOX GML_IN_MAP_GEOMETRY_COLUMNS_GML_3 YES%NO Map Geometry Columns
+DEFAULT_MACRO GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_3 YES
+GML_3_MAP_ALL_SUBSTITUTABLE_PROPERTIES "$(GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_3)"
+GUI OPTIONAL CHECKBOX GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_3 YES%NO Map All Substitutable Properties
+DEFAULT_MACRO GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_3 <Unused>
+GML_3_ADD_NAMESPACE_PREFIX_TO_NAMES "$(GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_3)"
+GUI OPTIONAL LOOKUP_CHOICE GML_IN_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_3 "\"Feature Types\",FEATURE_TYPES"%"\"Feature Types and Attributes\",FEATURE_TYPES_AND_ATTRIBUTES" Add XML Namespace Prefix to:
+DEFAULT_MACRO GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_3 <Unused>
+GML_3_QNAMES_FOR_PROPERTIES_TO_IGNORE "$(GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_3)"
+GUI OPTIONAL TEXT_EDIT_XML GML_IN_QNAMES_FOR_PROPERTIES_TO_IGNORE_GML_3 Properties to Ignore:
+# ============================================================================
+DEFAULT_MACRO GML_IN_ATTRIBUTE_HANDLING_GML_3 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_ATTRIBUTE_HANDLING_GML_3 GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_3%GML_IN_MAX_MULTI_LIST_LEVEL_GML_3%GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_3%GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_3%GML_IN_FLATTEN_XML_FRAGMENTS_GML_3 Feature Properties - Attribute Handling
+DEFAULT_MACRO GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_3 <Unused>
+GML_3_MAP_COMPLEX_PROPERTIES_AS "$(GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_3)"
+GUI ACTIVECHOICE GML_IN_MAP_COMPLEX_PROPERTIES_AS_GML_3 "Nested Attributes"%"\"XML Fragments\",GML_IN_MAX_MULTI_LIST_LEVEL_GML_3" Map Complex Properties as:
+GUI LOOKUP GML_IN_MAX_MULTI_LIST_LEVEL_GML_3 <Unused>, 
+DEFAULT_MACRO GML_IN_MAX_MULTI_LIST_LEVEL_GML_3 
+GML_3_MAX_MULTI_LIST_LEVEL "$(GML_IN_MAX_MULTI_LIST_LEVEL_GML_3)"
+GUI OPTIONAL CHOICE GML_IN_MAX_MULTI_LIST_LEVEL_GML_3 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20 Limit Number of Lists in Nested Attributes:
+DEFAULT_MACRO GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_3 <Unused>
+GML_3_ADD_GEOMETRIES_AS_XML_FRAGMENTS "$(GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_3)"
+GUI OPTIONAL CHECKBOX GML_IN_ADD_GEOMETRIES_AS_XML_FRAGMENTS_GML_3 YES%NO Add Geometries as XML Fragments
+DEFAULT_MACRO GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_3 <Unused>
+GML_3_XML_FRAGMENTS_AS_DOCUMENTS "$(GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_3)"
+GUI OPTIONAL CHECKBOX GML_IN_XML_FRAGMENTS_AS_DOCUMENTS_GML_3 YES%NO Include XML Declaration in XML Fragments
+DEFAULT_MACRO GML_IN_FLATTEN_XML_FRAGMENTS_GML_3 NO
+GML_3_FLATTEN_XML_FRAGMENTS "$(GML_IN_FLATTEN_XML_FRAGMENTS_GML_3)"
+GUI ACTIVEDISCLOSUREGROUP GML_IN_FLATTEN_XML_FRAGMENTS_GML_3 GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_3%GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_3%GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_3 Flatten XML Fragments
+GUI LOOKUP GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_3 <Unused>, 
+DEFAULT_MACRO GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_3 
+GML_3_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE "$(GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_3)"
+GUI OPTIONAL STRING_OR_CHOICE GML_IN_FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE_GML_3 {%_%-%empty_string Substitute Open List Brace:
+GUI LOOKUP GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_3 <Unused>, 
+DEFAULT_MACRO GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_3 
+GML_3_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE "$(GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_3)"
+GUI OPTIONAL STRING_OR_CHOICE GML_IN_FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE_GML_3 }%_%-%empty_string Substitute Close List Brace:
+GUI LOOKUP GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_3 <Unused>, 
+DEFAULT_MACRO GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_3 
+GML_3_FLATTEN_XML_FRAGMENTS_SEPARATOR "$(GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_3)"
+GUI OPTIONAL STRING_OR_CHOICE GML_IN_FLATTEN_XML_FRAGMENTS_SEPARATOR_GML_3 .%_%empty_string Substitute Element List Separator:
+# ============================================================================
+DEFAULT_MACRO GML_IN_GML_READER_GROUP_GML_3 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_GML_READER_GROUP_GML_3 GML_IN_USE_OLD_READER_GML_3%GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_3%GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_3 Version and XML Namespace Processing
+DEFAULT_MACRO GML_IN_USE_OLD_READER_GML_3 NO
+GML_3_USE_OLD_READER "$(GML_IN_USE_OLD_READER_GML_3)"
+GUI OPTIONAL ACTIVECHECK GML_IN_USE_OLD_READER_GML_3 YES,GML_IN_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_3%NO Use Old Reader for GML v3.1.1 and v2.1.2 Documents
+DEFAULT_MACRO GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_3 <Unused>
+GML_3_DISABLE_AUTOMATIC_READER_TYPE_SELECTION "$(GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_3)"
+GUI OPTIONAL CHECKBOX GML_IN_DISABLE_AUTOMATIC_READER_TYPE_SELECTION_GML_3 YES%NO Disable Automatic Reader Type Selection
+DEFAULT_MACRO GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_3 <Unused>
+GML_3_DISABLE_XML_NAMESPACE_PROCESSING "$(GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_3)"
+GUI OPTIONAL CHECKBOX GML_IN_DISABLE_XML_NAMESPACE_PROCESSING_GML_3 YES%NO Disable XML Namespace Processing
+# ============================================================================
+DEFAULT_MACRO GML_IN_EXPLORE_XSD_VALUES_GROUP_GML_3 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_EXPLORE_XSD_VALUES_GROUP_GML_3 GML_IN_EXPLORE_XSD_VALUES_GML_3 Explore XSD Values
+DEFAULT_MACRO GML_IN_EXPLORE_XSD_VALUES_GML_3 NO
+GML_3_EXPLORE_XSD_VALUES "$(GML_IN_EXPLORE_XSD_VALUES_GML_3)"
+GUI OPTIONAL ACTIVECHECK GML_IN_EXPLORE_XSD_VALUES_GML_3 YES,GML_IN_VALIDATE_DATASET_GML_3,GML_IN_FEATURE_TYPES_SCHEMA_MODE,GML_IN_SRS_GEOMETRY_PARAMETERS_GML_3,GML_IN_USE_OLD_READER_GML_3,GML_IN_USE_SEARCH_ENVELOPE_GML_3%NO Explore XSD Values
+DEFAULT_MACRO GML_IN_EXPOSE_ATTRS_GROUP_GML_3 
+GML_3_EXPOSE_ATTRS_GROUP "$(GML_IN_EXPOSE_ATTRS_GROUP_GML_3)"
+# Include this file in source setting section to add external search envelope processing
+# Zero as a default means we don't do any search -- this makes workbench happier
+DEFAULT_MACRO GML_IN_USE_SEARCH_ENVELOPE_GML_3 NO
+GML_3_USE_SEARCH_ENVELOPE "$(GML_IN_USE_SEARCH_ENVELOPE_GML_3)"
+GUI ACTIVEDISCLOSUREGROUP GML_IN_USE_SEARCH_ENVELOPE_GML_3 GML_IN_SEARCH_ENVELOPE_MINX_GML_3%GML_IN_SEARCH_ENVELOPE_MINY_GML_3%GML_IN_SEARCH_ENVELOPE_MAXX_GML_3%GML_IN_SEARCH_ENVELOPE_MAXY_GML_3%GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_3%GML_IN_CLIP_TO_ENVELOPE_GML_3%GML_IN_SEARCH_METHOD%GML_IN_SEARCH_METHOD_FILTER%GML_IN_SEARCH_ORDER%GML_IN_SEARCH_FEATURE%GML_IN_DUMMY_SEARCH_ENVELOPE_PARAMETER Use Search Envelope
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_MINX_GML_3 <Unused>,0 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_MINX_GML_3 0
+GML_3_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_MINX_GML_3)"
+GUI OPTIONAL FLOAT GML_IN_SEARCH_ENVELOPE_MINX_GML_3 Minimum X:
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_MINY_GML_3 <Unused>,0 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_MINY_GML_3 0
+GML_3_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_MINY_GML_3)"
+GUI OPTIONAL FLOAT GML_IN_SEARCH_ENVELOPE_MINY_GML_3 Minimum Y:
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_MAXX_GML_3 <Unused>,0 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_MAXX_GML_3 0
+GML_3_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_MAXX_GML_3)"
+GUI OPTIONAL FLOAT GML_IN_SEARCH_ENVELOPE_MAXX_GML_3 Maximum X:
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_MAXY_GML_3 <Unused>,0 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_MAXY_GML_3 0
+GML_3_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_MAXY_GML_3)"
+GUI OPTIONAL FLOAT GML_IN_SEARCH_ENVELOPE_MAXY_GML_3 Maximum Y:
+# ===========================================================================
+GUI LOOKUP GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_3 <Unused>, 
+DEFAULT_MACRO GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_3 
+GML_3_SEARCH_ENVELOPE "$(GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_3)"
+GUI OPTIONAL COORDSYS GML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_GML_3 Search Envelope Coordinate System:
+# ===========================================================================
+# BUG18999: We now have a soft clip to fall back on like native spatial index
+# thus we are reintroducing the clip to envelop as an option for users.
+# Defualt to soft clip as per the existing database readers we are emulating
+GUI LOOKUP GML_IN_CLIP_TO_ENVELOPE_GML_3 <Unused>,NO 
+DEFAULT_MACRO GML_IN_CLIP_TO_ENVELOPE_GML_3 NO
+GML_3_CLIP_TO_ENVELOPE "$(GML_IN_CLIP_TO_ENVELOPE_GML_3)"
+GUI OPTIONAL CHECKBOX GML_IN_CLIP_TO_ENVELOPE_GML_3 YES%NO Clip to Search Envelope
+DEFAULT_MACRO GML_IN_GML_RDR_ADV_GML_3 
+GUI OPTIONAL DISCLOSUREGROUP GML_IN_GML_RDR_ADV_GML_3 GML_IN_CONTINUE_ON_GEOM_ERROR_GML_3%GML_IN_SYSTEM_ENCODING_GML_3%GML_IN_CACHE_XSD_GML_3%GML_IN_CACHE_XSD_EXPIRY_TIME_GML_3%GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_3 Advanced
+# ============================================================================
+# This keyword allows the GML reader to continue reading the input dataset when
+# it encounters an error reading a feature's geometry.
+DEFAULT_MACRO GML_IN_CONTINUE_ON_GEOM_ERROR_GML_3 yes
+GML_3_CONTINUE_ON_GEOM_ERROR "$(GML_IN_CONTINUE_ON_GEOM_ERROR_GML_3)"
+GUI CHOICE GML_IN_CONTINUE_ON_GEOM_ERROR_GML_3 yes%no Continue on Geometry Error:
+# ============================================================================
+# This keyword specifies what encoding the GML schema and data features should
+# be in when they are output to the FME. The default value for this keyword
+# is the system's encoding.
+DEFAULT_MACRO GML_IN_SYSTEM_ENCODING_GML_3 
+GML_3_SYSTEM_ENCODING "$(GML_IN_SYSTEM_ENCODING_GML_3)"
+GUI OPTIONAL TEXT GML_IN_SYSTEM_ENCODING_GML_3 System Encoding:
+# ============================================================================
+# This keyword allows XML Schemas to be temporarily cached thereby minimizing
+# the number of network fetches.
+DEFAULT_MACRO GML_IN_CACHE_XSD_GML_3 yes
+GML_3_CACHE_XSD "$(GML_IN_CACHE_XSD_GML_3)"
+GUI CHOICE GML_IN_CACHE_XSD_GML_3 yes%no Cache XSD Documents:
+# ============================================================================
+# Specifies the amount of time in seconds an XML Schema document is allowed
+# to be cached before it expires.
+DEFAULT_MACRO GML_IN_CACHE_XSD_EXPIRY_TIME_GML_3 
+GML_3_CACHE_XSD_EXPIRY_TIME "$(GML_IN_CACHE_XSD_EXPIRY_TIME_GML_3)"
+GUI OPTIONAL INTEGER GML_IN_CACHE_XSD_EXPIRY_TIME_GML_3 Cache XSD Expiry Time:
+DEFAULT_MACRO GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_3 no
+GML_3_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV "$(GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_3)"
+GUI CHOICE GML_IN_MULTI_VALUE_SIMPLE_PROPERTIES_AS_CSV_GML_3 no%yes Simple multi-valued properties as csv:
+# ===========================================================================
+DEFAULT_MACRO GML_IN_NETWORK_AUTHENTICATION_GML_3 
+GML_3_NETWORK_AUTHENTICATION "$(GML_IN_NETWORK_AUTHENTICATION_GML_3)"
+GUI OPTIONAL AUTHENTICATOR GML_IN_NETWORK_AUTHENTICATION_GML_3 CONTAINER%GROUP%CONTAINER_TITLE%"Network Authentication"%PROMPT_TYPE%NETWORK Network Authentication
+# ============================================================================ 
+DEFAULT_MACRO GML_IN_ATTRIBUTE_READING_GML_3 ALL
+GML_3_ATTRIBUTE_READING "$(GML_IN_ATTRIBUTE_READING_GML_3)"
+# ============================================================================ 
+GML_3_GENERATE_FME_BUILD_NUM 18310
+GML_3_DATASET "$(SourceDataset_GML_3)"
+#! END_SOURCE_HEADER
+#! START_WB_HEADER
+#! END_WB_HEADER
+
+#! END_HEADER
+
+LOG_FILENAME "$(FME_MF_DIR)TestAvForskyvning.log"
+LOG_APPEND NO
+LOG_MAX_FEATURES 200
+LOG_MAX_RECORDED_FEATURES 200
+FME_REPROJECTION_ENGINE FME
+FME_IMPLICIT_CSMAP_REPROJECTION_MODE Auto
+FME_GEOMETRY_HANDLING Enhanced
+FME_STROKE_MAX_DEVIATION 0
+LOG_TIMINGS YES
+LOG_FILTER_MASK -1
+DEFAULT_MACRO DATASET_KEYWORD_GML_1 GML_1
+DEFAULT_MACRO DATASET_KEYWORD_GML_2 GML_2
+DEFAULT_MACRO DATASET_KEYWORD_GML_3 GML_3
+# -------------------------------------------------------------------------
+
+GML_1_READER_META_ATTRIBUTES fme_feature_type
+
+# -------------------------------------------------------------------------
+
+GML_2_READER_META_ATTRIBUTES fme_feature_type
+
+# -------------------------------------------------------------------------
+
+GML_3_READER_META_ATTRIBUTES fme_feature_type
+
+# -------------------------------------------------------------------------
+
+MULTI_READER_CONTINUE_ON_READER_FAILURE No
+
+# -------------------------------------------------------------------------
+
+MACRO WORKSPACE_NAME TestAvForskyvning
+MACRO FME_VIEWER_APP fmedatainspector
+# -------------------------------------------------------------------------
+
+INCLUDE [ if {[info exists env(FME_TEMP)] && [file isdirectory $env(FME_TEMP)]} {set gVisualizerTemp $env(FME_TEMP)}  elseif {[info exists env(TEMP)] && [file isdirectory $env(TEMP)]}  {set gVisualizerTemp $env(TEMP)}  elseif { $tcl_platform(platform) == "unix" } {set gVisualizerTemp "/tmp"} else {set gVisualizerTemp c:};  regsub -all {[ ,&]} {$(WORKSPACE_NAME)} {_} wsname; set gVisualizerTemp $gVisualizerTemp/${wsname}_[clock format [clock seconds] -format %H%M%S];  puts "MACRO WORKSPACE_TEMP_DIR $gVisualizerTemp"; 
+MACRO VISUALIZER_FEATURE_FILE $(WORKSPACE_TEMP_DIR)/inspector.ffs
+MACRO VISUALIZER_SCHEMA_FILE $(WORKSPACE_TEMP_DIR)/inspector.fsc
+MACRO VISUALIZER_CREATE_SPATIAL_INDEX YES
+# -------------------------------------------------------------------------
+GML_1_DEF Belysningspunkt   bruksområde                  xml_char(17)   eier                         xml_char(8)   eierNavn                     xml_char(20)   endringsflagg.Endringsflagg.tidspunktEndring xml_char(11)   endringsflagg.Endringsflagg.typeEndring xml_char(2)   identifikasjon.Identifikasjon.lokalId xml_char(9)   identifikasjon.Identifikasjon.navnerom xml_char(20)   kvalitet.Posisjonskvalitet.målemetode xml_decimal(3,0)   kvalitet.Posisjonskvalitet.nøyaktighet xml_decimal(4,0)   kvalitet.Posisjonskvalitet.synbarhet xml_decimal(2,0)   plassering                   xml_char(8)   strømtilførselKategori       xml_char(10)   vedlikeholdsansvarlig        xml_char(8)
+# -------------------------------------------------------------------------
+GML_1_DEF Lysmast   bruksområde                  xml_char(4)   byggeår                      xml_decimal(5,0)   driftsmerking                xml_char(9)   eier                         xml_char(8)   eierNavn                     xml_char(20)   endringsflagg.Endringsflagg.tidspunktEndring xml_char(11)   endringsflagg.Endringsflagg.typeEndring xml_char(2)   identifikasjon.Identifikasjon.lokalId xml_char(9)   identifikasjon.Identifikasjon.navnerom xml_char(20)   kvalitet.Posisjonskvalitet.målemetode xml_decimal(3,0)   kvalitet.Posisjonskvalitet.nøyaktighet xml_decimal(3,0)   kvalitet.Posisjonskvalitet.synbarhet xml_decimal(2,0)   type                         xml_char(9)   utligger                     xml_char(3)   vedlikeholdsansvarlig        xml_char(8)
+# -------------------------------------------------------------------------
+GML_1_DEF Lysarmatur   driftsattår                  xml_decimal(5,0)   driftsmerking                xml_char(9)   effekt                       xml_decimal(4,0)   eier                         xml_char(8)   eierNavn                     xml_char(20)   endringsflagg.Endringsflagg.tidspunktEndring xml_char(11)   endringsflagg.Endringsflagg.typeEndring xml_char(2)   identifikasjon.Identifikasjon.lokalId xml_char(9)   identifikasjon.Identifikasjon.navnerom xml_char(20)   kvalitet.Posisjonskvalitet.målemetode xml_decimal(3,0)   kvalitet.Posisjonskvalitet.nøyaktighet xml_decimal(4,0)   kvalitet.Posisjonskvalitet.synbarhet xml_decimal(2,0)   lyskildeType                 xml_char(16)   produktnavnArmatur           xml_char(12)   produsentnavnArmatur         xml_char(14)   vedlikeholdsansvarlig        xml_char(8)
+# -------------------------------------------------------------------------
+GML_1_DEF Tennpunkt   driftsattår                  xml_decimal(5,0)   driftsmerking                xml_char(9)   endringsflagg.Endringsflagg.tidspunktEndring xml_char(11)   endringsflagg.Endringsflagg.typeEndring xml_char(2)   identifikasjon.Identifikasjon.lokalId xml_char(6)   identifikasjon.Identifikasjon.navnerom xml_char(20)   kvalitet.Posisjonskvalitet.målemetode xml_decimal(3,0)   kvalitet.Posisjonskvalitet.nøyaktighet xml_decimal(3,0)   kvalitet.Posisjonskvalitet.synbarhet xml_decimal(2,0)
+# -------------------------------------------------------------------------
+GML_2_DEF Belysningspunkt   antall                       xml_decimal(2,0)   assosiertLysarmatur.href     xml_char(44)   assosiertLysarmatur{}.href   xml_char(44)   assosiertLysmast.href        xml_char(41)   assosiertLysmast{}.href      xml_char(41)   assosiertTilstandSkade_Belysning.href xml_char(57)   assosiertTilstandSkade_Belysning{}.href xml_char(57)   avstandFraVegkant            xml_decimal(4,1)   bruksområde                  xml_char(23)   eier                         xml_char(21)   eier_Navn                    xml_char(20)   fellesføringMedAnnenEtat     xml_char(12)   identifikasjon.Identifikasjon.lokalId xml_decimal(10,0)   identifikasjon.Identifikasjon.navnerom xml_char(17)   identifikasjon.Identifikasjon.versjonId xml_decimal(2,0)   lineærPosisjon.LineærPosisjonPunkt.lineærReferanseMetode xml_char(12)   lineærPosisjon.LineærPosisjonPunkt.nettverkselement.href xml_char(42)   lineærPosisjon.LineærPosisjonPunkt.posisjon xml_decimal(31,17)   plassering                   xml_char(21)   prosesshistorie              xml_char(62)   strømtilførsel_Kategori      xml_char(10)   vedlikeholdsansvarlig        xml_char(16)   vegreferanse.Vegreferanse.hovedparsell xml_decimal(4,0)   vegreferanse.Vegreferanse.vegkategori xml_char(2)   vegreferanse.Vegreferanse.veglenkeMeterFra xml_decimal(6,0)   vegreferanse.Vegreferanse.veglenkeMeterTil xml_decimal(6,0)   vegreferanse.Vegreferanse.vegnummer xml_decimal(6,0)   vegreferanse.Vegreferanse.vegstatus xml_char(2)
+# -------------------------------------------------------------------------
+GML_2_DEF Belysningsstrekning   assosiertBelysningspunkt.href xml_char(49)   assosiertBelysningspunkt{}.href xml_char(49)   assosiertKommentar.href      xml_char(43)   avstand_Innbyrdes            xml_decimal(3,0)   bruksområde                  xml_char(23)   byggeår                      xml_decimal(5,0)   dimming                      xml_char(4)   eier                         xml_char(21)   fjernstyring                 xml_char(4)   identifikasjon.Identifikasjon.lokalId xml_decimal(10,0)   identifikasjon.Identifikasjon.navnerom xml_char(17)   identifikasjon.Identifikasjon.versjonId xml_decimal(2,0)   lineærPosisjon.LineærPosisjonStrekning.fraPosisjon xml_decimal(31,17)   lineærPosisjon.LineærPosisjonStrekning.lineærReferanseMetode xml_char(12)   lineærPosisjon.LineærPosisjonStrekning.nettverkselement.href xml_char(42)   lineærPosisjon.LineærPosisjonStrekning.retning xml_char(4)   lineærPosisjon.LineærPosisjonStrekning.tilPosisjon xml_decimal(19,17)   lineærPosisjon{}.LineærPosisjonStrekning.fraPosisjon xml_decimal(18,16)   lineærPosisjon{}.LineærPosisjonStrekning.lineærReferanseMetode xml_char(12)   lineærPosisjon{}.LineærPosisjonStrekning.nettverkselement.href xml_char(42)   lineærPosisjon{}.LineærPosisjonStrekning.retning xml_char(4)   lineærPosisjon{}.LineærPosisjonStrekning.tilPosisjon xml_decimal(18,16)   navnPåStrekning              xml_char(17)   prosesshistorie              xml_char(62)   type                         xml_char(22)   vedlikeholdsansvarlig        xml_char(16)   vegreferanse.Vegreferanse.hovedparsell xml_decimal(4,0)   vegreferanse.Vegreferanse.vegkategori xml_char(2)   vegreferanse.Vegreferanse.veglenkeMeterFra xml_decimal(6,0)   vegreferanse.Vegreferanse.veglenkeMeterTil xml_decimal(6,0)   vegreferanse.Vegreferanse.vegnummer xml_decimal(4,0)   vegreferanse.Vegreferanse.vegstatus xml_char(2)   vegreferanse{}.Vegreferanse.hovedparsell xml_decimal(4,0)   vegreferanse{}.Vegreferanse.vegkategori xml_char(2)   vegreferanse{}.Vegreferanse.veglenkeMeterFra xml_decimal(6,0)   vegreferanse{}.Vegreferanse.veglenkeMeterTil xml_decimal(6,0)   vegreferanse{}.Vegreferanse.vegnummer xml_decimal(4,0)   vegreferanse{}.Vegreferanse.vegstatus xml_char(2)
+# -------------------------------------------------------------------------
+GML_2_DEF Lysmast   RAL_Kode                     xml_decimal(5,0)   bardunStrever                xml_char(4)   boltavstandFotplate          xml_char(14)   bruksområde                  xml_char(4)   byggeår                      xml_decimal(5,0)   diameter                     xml_decimal(4,0)   driftsmerking                xml_char(9)   eier                         xml_char(21)   eier_Navn                    xml_char(20)   ettergivendeMast             xml_char(22)   fundamentering               xml_char(16)   identifikasjon.Identifikasjon.lokalId xml_decimal(10,0)   identifikasjon.Identifikasjon.navnerom xml_char(17)   identifikasjon.Identifikasjon.versjonId xml_decimal(2,0)   lineærPosisjon.LineærPosisjonPunkt.lineærReferanseMetode xml_char(12)   lineærPosisjon.LineærPosisjonPunkt.nettverkselement.href xml_char(42)   lineærPosisjon.LineærPosisjonPunkt.posisjon xml_decimal(31,17)   overflatebehandling          xml_char(12)   produsentnavn                xml_char(9)   prosesshistorie              xml_char(62)   totalMastelengde             xml_decimal(4,1)   type                         xml_char(24)   utligger                     xml_char(4)   utliggerarmensLengde         xml_decimal(3,1)   vedlikeholdsansvarlig        xml_char(16)   vegreferanse.Vegreferanse.hovedparsell xml_decimal(4,0)   vegreferanse.Vegreferanse.vegkategori xml_char(2)   vegreferanse.Vegreferanse.veglenkeMeterFra xml_decimal(6,0)   vegreferanse.Vegreferanse.veglenkeMeterTil xml_decimal(6,0)   vegreferanse.Vegreferanse.vegnummer xml_decimal(5,0)   vegreferanse.Vegreferanse.vegstatus xml_char(2)
+# -------------------------------------------------------------------------
+GML_2_DEF Lysarmatur   antallArmaturerIBelysningspkt xml_decimal(2,0)   antallLyskilderPerArmatur    xml_decimal(2,0)   armaturnummer                xml_char(6)   avskjerming_Materiale        xml_char(6)   avskjerming_Type             xml_char(18)   dimming                      xml_char(4)   driftsattår                  xml_decimal(5,0)   driftsmerking                xml_char(9)   effekt                       xml_decimal(5,1)   eier                         xml_char(21)   eier_Navn                    xml_char(20)   høydeOverVeg                 xml_decimal(4,1)   identifikasjon.Identifikasjon.lokalId xml_decimal(10,0)   identifikasjon.Identifikasjon.navnerom xml_char(17)   identifikasjon.Identifikasjon.versjonId xml_decimal(2,0)   lineærPosisjon.LineærPosisjonPunkt.lineærReferanseMetode xml_char(12)   lineærPosisjon.LineærPosisjonPunkt.nettverkselement.href xml_char(42)   lineærPosisjon.LineærPosisjonPunkt.posisjon xml_decimal(31,17)   lyskildeType                 xml_char(17)   produktnavn_Armatur          xml_char(17)   produsentnavn_Armatur        xml_char(17)   prosesshistorie              xml_char(62)   utskiftbareLyskilder         xml_char(3)   utstyrsklasse                xml_char(15)   vedlikeholdsansvarlig        xml_char(16)   vegreferanse.Vegreferanse.hovedparsell xml_decimal(4,0)   vegreferanse.Vegreferanse.vegkategori xml_char(2)   vegreferanse.Vegreferanse.veglenkeMeterFra xml_decimal(6,0)   vegreferanse.Vegreferanse.veglenkeMeterTil xml_decimal(6,0)   vegreferanse.Vegreferanse.vegnummer xml_decimal(5,0)   vegreferanse.Vegreferanse.vegstatus xml_char(2)
+# -------------------------------------------------------------------------
+GML_3_DEF Tennpunkt   driftsattår                  xml_decimal(5,0)   driftsmerking                xml_char(9)   identifikasjon.Identifikasjon.lokalId xml_decimal(10,0)   identifikasjon.Identifikasjon.navnerom xml_char(17)   identifikasjon.Identifikasjon.versjonId xml_decimal(2,0)   lineærPosisjon.LineærPosisjonPunkt.lineærReferanseMetode xml_char(12)   lineærPosisjon.LineærPosisjonPunkt.nettverkselement.href xml_char(42)   lineærPosisjon.LineærPosisjonPunkt.posisjon xml_decimal(17,15)   prosesshistorie              xml_char(32)   spenning                     xml_decimal(4,0)   tennpunktnummer              xml_decimal(9,0)   vegreferanse.Vegreferanse.hovedparsell xml_decimal(2,0)   vegreferanse.Vegreferanse.vegkategori xml_char(2)   vegreferanse.Vegreferanse.veglenkeMeterFra xml_decimal(5,0)   vegreferanse.Vegreferanse.veglenkeMeterTil xml_decimal(5,0)   vegreferanse.Vegreferanse.vegnummer xml_decimal(5,0)   vegreferanse.Vegreferanse.vegstatus xml_char(2)
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * RoutingFactory   FACTORY_NAME "Router and Unexpected Input Remover"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE GML GML_1::Belysningspunkt multi_reader_keyword,$(DATASET_KEYWORD_GML_1) TO FME_GENERIC ::Belysningspunkt ALIAS_GEOMETRY    ROUTE GML GML_1::Lysmast multi_reader_keyword,$(DATASET_KEYWORD_GML_1) TO FME_GENERIC ::Lysmast ALIAS_GEOMETRY    ROUTE GML GML_1::Lysarmatur multi_reader_keyword,$(DATASET_KEYWORD_GML_1) TO FME_GENERIC ::Lysarmatur ALIAS_GEOMETRY    ROUTE GML GML_1::Tennpunkt multi_reader_keyword,$(DATASET_KEYWORD_GML_1) TO FME_GENERIC ::Tennpunkt ALIAS_GEOMETRY    ROUTE GML GML_2::Belysningspunkt multi_reader_keyword,$(DATASET_KEYWORD_GML_2) TO FME_GENERIC ::Belysningspunkt ALIAS_GEOMETRY    ROUTE GML GML_2::Belysningsstrekning multi_reader_keyword,$(DATASET_KEYWORD_GML_2) TO FME_GENERIC ::Belysningsstrekning ALIAS_GEOMETRY    ROUTE GML GML_2::Lysmast multi_reader_keyword,$(DATASET_KEYWORD_GML_2) TO FME_GENERIC ::Lysmast ALIAS_GEOMETRY    ROUTE GML GML_2::Lysarmatur multi_reader_keyword,$(DATASET_KEYWORD_GML_2) TO FME_GENERIC ::Lysarmatur ALIAS_GEOMETRY    ROUTE GML GML_3::Tennpunkt multi_reader_keyword,$(DATASET_KEYWORD_GML_3) TO FME_GENERIC ::Tennpunkt ALIAS_GEOMETRY    MERGE_INPUT Yes   OUTPUT ROUTED FEATURE_TYPE *
+GML_1_MERGE_DEF GML_1::Belysningspunkt EXACT Belysningspunkt
+GML_1_MERGE_DEF GML_1::Lysmast EXACT Lysmast
+GML_1_MERGE_DEF GML_1::Lysarmatur EXACT Lysarmatur
+GML_1_MERGE_DEF GML_1::Tennpunkt EXACT Tennpunkt
+GML_2_MERGE_DEF GML_2::Belysningspunkt EXACT Belysningspunkt
+GML_2_MERGE_DEF GML_2::Belysningsstrekning EXACT Belysningsstrekning
+GML_2_MERGE_DEF GML_2::Lysmast EXACT Lysmast
+GML_2_MERGE_DEF GML_2::Lysarmatur EXACT Lysarmatur
+GML_3_MERGE_DEF GML_3::Tennpunkt EXACT Tennpunkt
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME "Belysningspunkt (GML_2) Splitter"    INPUT FEATURE_TYPE Belysningspunkt      multi_reader_keyword $(DATASET_KEYWORD_GML_2)    OUTPUT FEATURE_TYPE Belysningspunkt_GML_2
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME "Belysningsstrekning (GML_2) Splitter"    INPUT FEATURE_TYPE Belysningsstrekning    OUTPUT FEATURE_TYPE Belysningsstrekning_GML_2
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME "Lysarmatur (GML_2) Splitter"    INPUT FEATURE_TYPE Lysarmatur      multi_reader_keyword $(DATASET_KEYWORD_GML_2)    OUTPUT FEATURE_TYPE Lysarmatur_GML_2
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME "Lysmast (GML_2) Splitter"    INPUT FEATURE_TYPE Lysmast      multi_reader_keyword $(DATASET_KEYWORD_GML_2)    OUTPUT FEATURE_TYPE Lysmast_GML_2
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME "Tennpunkt (GML_3) Splitter"    INPUT FEATURE_TYPE Tennpunkt      multi_reader_keyword $(DATASET_KEYWORD_GML_3)    OUTPUT FEATURE_TYPE Tennpunkt_GML_3
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME "Belysningspunkt (GML_1) Splitter"    INPUT FEATURE_TYPE Belysningspunkt      multi_reader_keyword $(DATASET_KEYWORD_GML_1)    OUTPUT FEATURE_TYPE Belysningspunkt_GML_1
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME "Lysarmatur (GML_1) Splitter"    INPUT FEATURE_TYPE Lysarmatur      multi_reader_keyword $(DATASET_KEYWORD_GML_1)    OUTPUT FEATURE_TYPE Lysarmatur_GML_1
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME "Lysmast (GML_1) Splitter"    INPUT FEATURE_TYPE Lysmast      multi_reader_keyword $(DATASET_KEYWORD_GML_1)    OUTPUT FEATURE_TYPE Lysmast_GML_1
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME "Tennpunkt (GML_1) Splitter"    INPUT FEATURE_TYPE Tennpunkt      multi_reader_keyword $(DATASET_KEYWORD_GML_1)    OUTPUT FEATURE_TYPE Tennpunkt_GML_1
+DEFAULT_MACRO WB_CURRENT_CONTEXT
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeExposer_2    INPUT  FEATURE_TYPE Lysmast_GML_2    INPUT  FEATURE_TYPE Belysningsstrekning_GML_2    INPUT  FEATURE_TYPE Lysarmatur_GML_2    INPUT  FEATURE_TYPE Belysningspunkt_GML_2    INPUT  FEATURE_TYPE Tennpunkt_GML_3    OUTPUT FEATURE_TYPE AttributeExposer_2_OUTPUT
+
+FACTORY_DEF * TeeFactory   FACTORY_NAME "AttributeExposer_2 OUTPUT Splitter"   INPUT FEATURE_TYPE AttributeExposer_2_OUTPUT   OUTPUT FEATURE_TYPE AttributeExposer_2_OUTPUT_0_3JfQMb2GkbU=   OUTPUT FEATURE_TYPE AttributeExposer_2_OUTPUT_1_LoBLM1+t/z0=
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory   FACTORY_NAME "NVDB_ (Disabled) Nuker"   INPUT FEATURE_TYPE AttributeExposer_2_OUTPUT_0_3JfQMb2GkbU=
+# -------------------------------------------------------------------------
+
+# Wipe out the source setting if it was untouched from the default setting
+
+DEFAULT_MACRO Reprojector_SOURCE "Read from feature"
+INCLUDE [if { {Read from feature} == {Read from feature} } {             puts {MACRO Reprojector_SOURCE}          }         ]
+FACTORY_DEF * TeeFactory    FACTORY_NAME Reprojector    INPUT  FEATURE_TYPE Tennpunkt_GML_1    INPUT  FEATURE_TYPE Lysmast_GML_1    INPUT  FEATURE_TYPE Lysarmatur_GML_1    INPUT  FEATURE_TYPE Belysningspunkt_GML_1    OUTPUT FEATURE_TYPE Reprojector_REPROJECTED         @Reproject($(Reprojector_SOURCE),"ETRS89.UTM-33N",NearestNeighbor,PreserveCells,Reprojector,"COORD_SYS_WARNING",RASTER_TOLERANCE,0.0)
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME CoordinateRounder    INPUT  FEATURE_TYPE Reprojector_REPROJECTED    OUTPUT FEATURE_TYPE CoordinateRounder_ROUNDED         @RoundOffCoords(xyz,"3","3","3")
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeExposer    INPUT  FEATURE_TYPE CoordinateRounder_ROUNDED    OUTPUT FEATURE_TYPE AttributeExposer_OUTPUT
+
+FACTORY_DEF * TeeFactory   FACTORY_NAME "AttributeExposer OUTPUT Splitter"   INPUT FEATURE_TYPE AttributeExposer_OUTPUT   OUTPUT FEATURE_TYPE AttributeExposer_OUTPUT_0_FFIuKLJymLk=   OUTPUT FEATURE_TYPE AttributeExposer_OUTPUT_1_DwSUCPjfsfg=
+# -------------------------------------------------------------------------
+
+DEFAULT_MACRO INPUT_BASE_LINES
+FACTORY_DEF {*} ProximityFactory    FACTORY_NAME NeighborFinder    INPUT BASE FEATURE_TYPE AttributeExposer_OUTPUT_1_DwSUCPjfsfg=    INPUT CANDIDATE FEATURE_TYPE AttributeExposer_2_OUTPUT_1_LoBLM1+t/z0=    GROUP_BY { fme_feature_type }    REQUIRE_BASE YES    K_NEAREST "1" "2"    INSERT_VERTEX_ON_BASE No    TAKE_MEASURES_FROM_CANDIDATE Yes    COMPUTE_MEASURES_MODE CONTINUOUS    REJECT_NULL Yes    CANDIDATE_FEATURES_FIRST No    LIST_ATTRS_TO_INCLUDE { <Unused> }    LIST_ATTRS_TO_INCLUDE_MODE <Unused>    DISTANCE_ATTR _distance    TREAT_POLYGON_AS LINE    NEVER_OVERWRITE_MERGED_ATTRS Yes    MERGE_ATTRS "NO"    ATTR_ACCUM_MODE "<Unused>"    ATTR_CONFLICT_RES "<Unused>"    INCOMING_PREFIX "<Unused>"    REJECT_INVALID_GEOM YES    OUTPUT MATCHED FEATURE_TYPE NeighborFinder_MATCHED        @RenameAttributes(_angle,angle,_candidate_angle,candidate_angle,_candidate_label_angle,candidate_label_angle,_closest_candidate_x,closest_candidate_x,_closest_candidate_y,closest_candidate_y,_closest_base_x,closest_base_x,_closest_base_y,closest_base_y)    OUTPUT REJECTED FEATURE_TYPE NeighborFinder_<REJECTED>
+
+DEFAULT_MACRO _WB_BYPASS_TERMINATION No
+FACTORY_DEF * TeeFactory FACTORY_NAME NeighborFinder_<Rejected> INPUT FEATURE_TYPE NeighborFinder_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, NeighborFinder<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
+# -------------------------------------------------------------------------
+
+# Assumption is that the workspace temp dir has been already set and created.  See controldefs.cpp - ControlDefs::writeVisualizerTempDir
+DEFAULT_MACRO WORKSPACE_TEMP_DIR
+INCLUDE [    set safeName "[regsub -all {[^a-zA-Z0-9]} {kobla} _]_[expr round(rand() * 1000000)]_[clock clicks  -milliseconds]";    puts "MACRO SAFE_FFS_NAME $safeName"; ]
+FACTORY_DEF {*} InspectorFactory    FACTORY_NAME kobla_Prepper    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT  FEATURE_TYPE NeighborFinder_MATCHED    GROUP_ATTRIBUTE __inspector_feature_type_attr__    GROUP_BY { fme_feature_type }    GROUP_ATTRIBUTE_PREFIX { kobla }    RASTER_REDUCTION NoReduction    POINT_CLOUD_REDUCTION NO_THINNING    OUTPUT RESULT FEATURE_TYPE __viewme__
+# Now route all the features into the recorder, changing their
+# feature type to the transformer name so that they view nicely
+
+DEFAULT_MACRO VISUALIZER_FEATURE_FILE $(WORKSPACE_TEMP_DIR)/$(SAFE_FFS_NAME).ffs
+DEFAULT_MACRO VISUALIZER_CREATE_SPATIAL_INDEX NO
+# [PR#45549] The Data Inspector will limit the maximum number of features
+# it reads on WIN32, so we will correspondingly limit the number of
+# features we record here using the MAX_FEATURES_TO_RECORD directive.
+
+FACTORY_DEF * RecorderFactory    FACTORY_NAME kobla_Recorder    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT FEATURE_TYPE __viewme__       _wb_termination_feature Yes       @FeatureType(TERMINATOR_@Value(_wb_termination_xformer))    INPUT FEATURE_TYPE __viewme__       @FeatureType(@Value(__inspector_feature_type_attr__))       @RemoveAttributes(__inspector_feature_type_attr__)    FEATURE_FILE "$(VISUALIZER_FEATURE_FILE)"    STORE_SCANNED_SCHEMA YES    CREATE_SPATIAL_INDEX "$(VISUALIZER_CREATE_SPATIAL_INDEX)"    INSPECTOR "$(VISUALIZER_CREATE_SPATIAL_INDEX)"    FSC_SCHEMA bruksomr<u00e5>de,varchar<openparen>255<closeparen>,bygge<u00e5>r,varchar<openparen>255<closeparen>,driftsmerking,varchar<openparen>255<closeparen>,eier,varchar<openparen>255<closeparen>,eierNavn,varchar<openparen>255<closeparen>,endringsflagg.Endringsflagg.tidspunktEndring,varchar<openparen>255<closeparen>,endringsflagg.Endringsflagg.typeEndring,varchar<openparen>255<closeparen>,gml_id,varchar<openparen>255<closeparen>,gml_original_coordinate_system,varchar<openparen>255<closeparen>,gml_parent_property,varchar<openparen>255<closeparen>,identifikasjon.Identifikasjon.lokalId,varchar<openparen>255<closeparen>,identifikasjon.Identifikasjon.navnerom,varchar<openparen>255<closeparen>,kvalitet.Posisjonskvalitet.m<u00e5>lemetode,varchar<openparen>255<closeparen>,kvalitet.Posisjonskvalitet.n<u00f8>yaktighet,varchar<openparen>255<closeparen>,kvalitet.Posisjonskvalitet.synbarhet,varchar<openparen>255<closeparen>,type,varchar<openparen>255<closeparen>,utligger,varchar<openparen>255<closeparen>,vedlikeholdsansvarlig,varchar<openparen>255<closeparen>,driftsatt<u00e5>r,varchar<openparen>255<closeparen>,effekt,varchar<openparen>255<closeparen>,lyskildeType,varchar<openparen>255<closeparen>,produktnavnArmatur,varchar<openparen>255<closeparen>,produsentnavnArmatur,varchar<openparen>255<closeparen>,plassering,varchar<openparen>255<closeparen>,str<u00f8>mtilf<u00f8>rselKategori,varchar<openparen>255<closeparen>,fme_feature_type,varchar<openparen>255<closeparen>,_distance,varchar<openparen>255<closeparen>,_angle,varchar<openparen>255<closeparen>,_candidate_angle,varchar<openparen>255<closeparen>,_candidate_label_angle,varchar<openparen>255<closeparen>,_closest_candidate_x,varchar<openparen>255<closeparen>,_closest_candidate_y,varchar<openparen>255<closeparen>,_closest_base_x,varchar<openparen>255<closeparen>,_closest_base_y,varchar<openparen>255<closeparen>    MODE RECORD    STORE_SCANNED_METADATA    RECORD_DIRECTLY_TO_DISK YES    MAX_FEATURES_TO_RECORD WIN32 2000000
+
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory   FACTORY_NAME "org_ (Disabled) Nuker"   INPUT FEATURE_TYPE AttributeExposer_OUTPUT_0_FFIuKLJymLk=
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * CreationFactory   CREATE_AT_END   OUTPUT FEATURE_TYPE __NUKEME__   @TCL("if [file exists {$(WORKSPACE_TEMP_DIR)}] {set files [glob -nocomplain -directory  {$(WORKSPACE_TEMP_DIR)} -tails *.ffs];   if {[llength $files] == 1} {    set theFile {$(WORKSPACE_TEMP_DIR)/};   append theFile [lindex $files 0];   eval FME_Execute System \173\042$(FME_HOME_UNIX)/fmedatainspector\042 --visualizer --single-application --delete-on-close --no-source-prompt -f FFS \042$theFile\042 & \175;  } elseif { [llength $files] == 0 } {  catch { file delete -force {$(WORKSPACE_TEMP_DIR)} };  } else {  set filesNoExt {}; set lastfile {}; foreach {fileName} [lsort $files] { set fileNoExt [string trimright $fileName {.ffs}]; if [regexp {(.*)_[0-9]*$} $fileNoExt wholething fileNoExtBase] {  if { $fileNoExtBase == $lastfile } { continue } }; set lastfile $fileNoExt; lappend filesNoExt $fileNoExt };  eval FME_Execute System \173\042$(FME_HOME_UNIX)/fmedatainspector\042 --visualizer --single-application --delete-on-close --no-source-prompt -d {$(WORKSPACE_TEMP_DIR)} -a ffs -f FFS $filesNoExt & \175; }; }; ")
+FACTORY_DEF * TeeFactory   INPUT FEATURE_TYPE __NUKEME__

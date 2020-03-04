@@ -1,12 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="16.1">
+<project version="19.1">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
-        <options/>
+        <options>
+            <serialized version="19.1" xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>validation.scenario.associations</String>
+                        <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Data/501/Gatelys_Lillehammer.gml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Gatelys_Lillehammer</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>Validation_scenario</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                        </scenarioAssociation-array>
+                    </entry>
+                    <entry>
+                        <String>validation.scenarios</String>
+                        <validationScenario-array>
+                            <validationScenario>
+                                <field name="pairs">
+                                    <list>
+                                        <validationUnit>
+                                            <field name="validationType">
+                                                <validationUnitType>
+                                                    <field name="validationInputType">
+                                                        <String>text/xml</String>
+                                                    </field>
+                                                </validationUnitType>
+                                            </field>
+                                            <field name="url">
+                                                <String>${currentFileURL}</String>
+                                            </field>
+                                            <field name="validationEngine">
+                                                <validationEngine>
+                                                    <field name="engineType">
+                                                        <String>&lt;Default engine></String>
+                                                    </field>
+                                                    <field name="allowsAutomaticValidation">
+                                                        <Boolean>true</Boolean>
+                                                    </field>
+                                                </validationEngine>
+                                            </field>
+                                            <field name="allowAutomaticValidation">
+                                                <Boolean>true</Boolean>
+                                            </field>
+                                            <field name="extensions">
+                                                <null/>
+                                            </field>
+                                            <field name="validationSchema">
+                                                <validationUnitSchema>
+                                                    <field name="dtdSchemaPublicID">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="schematronPhase">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="type">
+                                                        <Integer>2</Integer>
+                                                    </field>
+                                                    <field name="uri">
+                                                        <String>http://www.jetlundweb.no/geomatikk/Skjema/GLA/glabelysning.xsd</String>
+                                                    </field>
+                                                </validationUnitSchema>
+                                            </field>
+                                        </validationUnit>
+                                    </list>
+                                </field>
+                                <field name="type">
+                                    <String>Validation_scenario</String>
+                                </field>
+                                <field name="name">
+                                    <String>Gatelys_Lillehammer</String>
+                                </field>
+                            </validationScenario>
+                        </validationScenario-array>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
     </meta>
     <projectTree name="GLA.xpr">
         <folder path="."/>
         <folder path="../NVDBGML/API/"/>
-        <folder path="../../NIFS/"/>
+        <folder path="file:/O:/1/Res/16080%20Geodata/Brukere/Knut/NIFS/"/>
     </projectTree>
 </project>

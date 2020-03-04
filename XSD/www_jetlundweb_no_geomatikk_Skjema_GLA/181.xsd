@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:nvdb="http://www.jetlundweb.no/geomatikk/Skjema/GLA/" xmlns:sc="http://www.interactive-instruments.de/ShapeChange/AppInfo" elementFormDefault="qualified" targetNamespace="http://www.jetlundweb.no/geomatikk/Skjema/GLA/" version="2.07">
+<?xml version="1.0" encoding="UTF-8"?><schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:gml="http://www.opengis.net/gml/3.2"
+  xmlns:nvdb="http://www.jetlundweb.no/geomatikk/Skjema/GLA/"
+  xmlns:sc="http://www.interactive-instruments.de/ShapeChange/AppInfo"
+  elementFormDefault="qualified" targetNamespace="http://www.jetlundweb.no/geomatikk/Skjema/GLA/"
+  version="2.07">
   <annotation>
     <documentation>181: Mast i forbindelse med veg/gatebelysning. Normalt har mast påmontert lysarmatur, men kan også være mast uten lysarmatur som benyttes for framføring av kabel.</documentation>
   </annotation>
   <include schemaLocation="glabelysning.xsd"/>
-  <import namespace="http://www.interactive-instruments.de/ShapeChange/AppInfo" schemaLocation="http://shapechange.net/resources/schema/ShapeChangeAppinfo.xsd"/>
-  <import namespace="http://www.opengis.net/gml/3.2" schemaLocation="http://schemas.opengis.net/gml/3.2.1/gml.xsd"/>
+  <import namespace="http://www.interactive-instruments.de/ShapeChange/AppInfo"
+    schemaLocation="http://shapechange.net/resources/schema/ShapeChangeAppinfo.xsd"/>
+  <import namespace="http://www.opengis.net/gml/3.2"
+    schemaLocation="http://schemas.opengis.net/gml/3.2.1/gml.xsd"/>
   <!--XML Schema document created by ShapeChange - http://shapechange.net/-->
   <simpleType name="BardunStreverType">
     <annotation>
@@ -500,7 +506,7 @@ Enhet: Meter</documentation>
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="bruksområde" type="integer">
+          <element minOccurs="0" name="bruksområde" type="nvdb:BruksområdeLysmastType">
             <annotation>
               <documentation>10889: Angir bruksområde for lysmast.</documentation>
               <appinfo>
@@ -536,7 +542,8 @@ Enhet: Meter</documentation>
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="overflatebehandling" type="nvdb:OverflatebehandlingLysmastType">
+          <element minOccurs="0" name="overflatebehandling"
+            type="nvdb:OverflatebehandlingLysmastType">
             <annotation>
               <documentation>10587: Angir overflatebehandling</documentation>
               <appinfo>
@@ -590,7 +597,8 @@ Enhet: Meter</documentation>
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="vedlikeholdsansvarlig" type="nvdb:VedlikeholdsansvarligLysmastType">
+          <element minOccurs="0" name="vedlikeholdsansvarlig"
+            type="nvdb:VedlikeholdsansvarligLysmastType">
             <annotation>
               <documentation>9956: Angir hvem som er ansvarlig for vedlikehold</documentation>
               <appinfo>
@@ -608,19 +616,22 @@ Enhet: Meter</documentation>
               </appinfo>
             </annotation>
           </element>
-          <element maxOccurs="unbounded" minOccurs="0" name="lineærPosisjon" type="nvdb:LineærPosisjonPunktPropertyType">
+          <element maxOccurs="unbounded" minOccurs="0" name="lineærPosisjon"
+            type="nvdb:LineærPosisjonPunktPropertyType">
             <annotation>
               <documentation>Angivelse av posisjon på det lineære objektet.</documentation>
             </annotation>
           </element>
-          <element maxOccurs="unbounded" minOccurs="0" name="assosiertDokumentasjon" type="gml:ReferenceType">
+          <element maxOccurs="unbounded" minOccurs="0" name="assosiertDokumentasjon"
+            type="gml:ReferenceType">
             <annotation>
               <appinfo>
                 <targetElement xmlns="http://www.opengis.net/gml/3.2">nvdb:Dokumentasjon</targetElement>
               </appinfo>
             </annotation>
           </element>
-          <element maxOccurs="unbounded" minOccurs="0" name="assosiertKommentar" type="gml:ReferenceType">
+          <element maxOccurs="unbounded" minOccurs="0" name="assosiertKommentar"
+            type="gml:ReferenceType">
             <annotation>
               <appinfo>
                 <targetElement xmlns="http://www.opengis.net/gml/3.2">nvdb:Kommentar</targetElement>
@@ -646,7 +657,9 @@ Enhet: Meter</documentation>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="SOSI_navn">NVDB_OVERFLATEBEHANDLINGLYSMAST</taggedValue>
       </appinfo>
     </annotation>
-    <union memberTypes="nvdb:OverflatebehandlingLysmastEnumerationType nvdb:OverflatebehandlingLysmastOtherType"/>
+    <union
+      memberTypes="nvdb:OverflatebehandlingLysmastEnumerationType nvdb:OverflatebehandlingLysmastOtherType"
+    />
   </simpleType>
   <simpleType name="OverflatebehandlingLysmastEnumerationType">
     <annotation>
@@ -866,7 +879,9 @@ Enhet: Meter</documentation>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="SOSI_navn">NVDB_VEDLIKEHOLDSANSVARLIGLYSMAST</taggedValue>
       </appinfo>
     </annotation>
-    <union memberTypes="nvdb:VedlikeholdsansvarligLysmastEnumerationType nvdb:VedlikeholdsansvarligLysmastOtherType"/>
+    <union
+      memberTypes="nvdb:VedlikeholdsansvarligLysmastEnumerationType nvdb:VedlikeholdsansvarligLysmastOtherType"
+    />
   </simpleType>
   <simpleType name="VedlikeholdsansvarligLysmastEnumerationType">
     <annotation>

@@ -1,404 +1,333 @@
-2017-05-23 15:39:35|   0.3|  0.3|INFORM|FME 2017.0.1.0 (20170428 - Build 17288 - WIN64)
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME2017\64\'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME ESRI Edition (node locked-crc)
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|Serial Number: S0601A0917
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|Permanent License.
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|Machine host name is: SVV-55247
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|START - ProcessID: 13656, peak process memory usage: 50588 kB, current process memory usage: 46772 kB
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME2017\64\fme.exe' `C:/DATA/GitHub/GLA/FMW/NVDBAPI2GML_V2_2017.fmw' `--ftID' `87' `--omr' `kommune' `--omrNvn' `1902' `--gmlFolder' `C:\DATA\GitHub\GLA\Data' `--dwnlAssObj' `Nei'
-2017-05-23 15:39:35|   0.3|  0.1|INFORM|Shared folders for formats are : C:\Program Files\FME2017\64\datasources;C:\Users\knjetl\AppData\Roaming\Safe Software\FME\FME Store\Formats;\\SVV1P04AUSER01\KNJETL$\documents\FME\Formats
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|Shared folders for transformers are : C:\Program Files\FME2017\64\transformers;\\SVV1P04AUSER01\KNJETL$\documents\FME\Transformers;C:\Users\knjetl\AppData\Roaming\Safe Software\FME\FME Store\Transformers
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|Shared folders for coordinate systems are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystems
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|Shared folders for coordinate system exceptions are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystemExceptions
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|Shared folders for coordinate system grid overrides are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystemGridOverrides
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CsmapTransformationExceptions
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|Shared folders for transformer categories are : \\SVV1P04AUSER01\KNJETL$\documents\FME\TransformerCategories
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: Reader Keyword is `NULL_SOURCE'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: Reader type is `NULL'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: Current working folder is `C:\DATA\GitHub\GLA\FMW'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\knjetl\AppData\Local\Temp', set from environment variable `TEMP'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME2017\64\'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\DATA\GitHub\GLA\FMW/'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'NVDBAPI2GML_V2_2017.fmw'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2017.0.1.0'
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|System Status: 154.98 GB of disk space available in the FME temporary folder (C:\Users\knjetl\AppData\Local\Temp)
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|System Status: 8.00 TB of virtual memory available
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|Operating System: Microsoft Windows 7 64-bit Service Pack 1 (Build 7601)
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Platform: WIN64
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|Locale: nb_NO
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|Code Page: 1252  (ANSI - latin I)
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: Process limit is 31.91 GB of physical memory
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 95.72 GB of virtual memory
-2017-05-23 15:39:35|   0.3|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 71.79 GB of virtual memory
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|Creating writer for format: 
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|Creating reader for format: NULL (Nothing)
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `NULL'
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|Loaded module 'NULL' from file 'C:\Program Files\FME2017\64\plugins/NULL.dll'
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|Loaded module 'Geometry_func' from file 'C:\Program Files\FME2017\64\plugins/Geometry_func.dll'
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|Loaded module 'HTTPFactory' from file 'C:\Program Files\FME2017\64\plugins/HTTPFactory.dll'
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|FME API version of module 'HTTPFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|Loaded module 'XFMapFactory' from file 'C:\Program Files\FME2017\64\plugins/XFMapFactory.dll'
-2017-05-23 15:39:35|   0.4|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|Loaded module 'PythonFactory' from file 'C:\Program Files\FME2017\64\plugins/PythonFactory.dll'
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|Adding folder `C:\DATA\GitHub\GLA\FMW\' to the python path
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|Loaded module 'OGCGeometry_func' from file 'C:\Program Files\FME2017\64\plugins/OGCGeometry_func.dll'
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'OGCGeometry_func' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|Loaded module 'JoinFactory' from file 'C:\Program Files\FME2017\64\plugins/JoinFactory.dll'
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'JoinFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|Loaded module 'DuplicateRemoverFactory' from file 'C:\Program Files\FME2017\64\plugins/DuplicateRemoverFactory.dll'
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'DuplicateRemoverFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'HTTPFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'JoinFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|Loaded module 'GQueryFactory' from file 'C:\Program Files\FME2017\64\plugins/GQueryFactory.dll'
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20170315)
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|... Last line repeated 2 times ...
-2017-05-23 15:39:35|   0.5|  0.0|INFORM|Emptying factory pipeline
-2017-05-23 15:39:36|   0.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/87?kommune=1902&antall=5000&inkluder=alle' to internal memory buffer
-2017-05-23 15:39:36|   0.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 1.01 MB 
-2017-05-23 15:39:36|   0.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 2.02 MB 
-2017-05-23 15:39:36|   0.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 3.04 MB 
-2017-05-23 15:39:36|   0.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 4.06 MB 
-2017-05-23 15:39:36|   0.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 5.06 MB 
-2017-05-23 15:39:36|   0.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 6.09 MB 
-2017-05-23 15:39:36|   0.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 7.13 MB 
-2017-05-23 15:39:36|   0.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 8.14 MB 
-2017-05-23 15:39:37|   0.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 9.14 MB 
-2017-05-23 15:39:37|   0.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 10.14 MB 
-2017-05-23 15:39:37|   0.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 11.14 MB 
-2017-05-23 15:39:37|   0.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 12.15 MB 
-2017-05-23 15:39:37|   0.9|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 13.16 MB 
-2017-05-23 15:39:37|   0.9|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 14.17 MB 
-2017-05-23 15:39:37|   0.9|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 15.18 MB 
-2017-05-23 15:39:40|   1.0|  0.1|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '15668741 bytes', DNS lookup time: '0 seconds', total transfer time: '5.195 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/87?kommune=1902&antall=5000&inkluder=alle'
-2017-05-23 15:39:40|   1.0|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
-2017-05-23 15:39:42|   2.2|  1.2|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/87?kommune=1902&antall=5000&start=h2UWhjCjwwvo&inkluder=alle' to internal memory buffer
-2017-05-23 15:39:47|   2.4|  0.2|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '12083106 bytes', DNS lookup time: '0 seconds', total transfer time: '5.164 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/87?kommune=1902&antall=5000&start=h2UWhjCjwwvo&inkluder=alle'
-2017-05-23 15:39:48|   3.4|  1.0|INFORM|ListExploder(ElementFactory): No MODE specified.  Using default processing mode (CLASSIC)
-2017-05-23 15:39:48|   3.4|  0.0|INFORM|Processed 2 elements with mode CLASSIC
-2017-05-23 15:39:48|   3.4|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value) (deprecated)
-2017-05-23 15:39:48|   3.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
-2017-05-23 15:39:48|   3.4|  0.0|INFORM|Loaded module 'CSV' from file 'C:\Program Files\FME2017\64\plugins/CSV.dll'
-2017-05-23 15:39:48|   3.4|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20170315)
-2017-05-23 15:39:48|   3.4|  0.0|INFORM|Potentially retrieving dataset 'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB_ftMapping.csv' for reader R_2
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|Retrieved file C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546788411_13656\NVDB_ftMapping.csv for reader R_2
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value) (deprecated)
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20170315)
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546788411_13656\'
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Separator Character: ';'
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: File Has Field Names: yes
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Encoding name ''
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Feature type names from file names: no
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546788411_13656\NVDB_ftMapping.csv'
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|Creating reader for format: Tabular Data
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|Using Tabular Reader to read files from folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546788411_13656'
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546788411_13656\NVDB_ftMapping.csv'
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546788411_13656\NVDB_ftMapping.csv for input with delimiter `;'
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|Skipped line `ftid;name' in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546788411_13656\NVDB_ftMapping.csv'
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546788411_13656\NVDB_ftMapping.csv'
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546788411_13656\'
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|Read 377 records from table Joiner:CSV
-2017-05-23 15:39:48|   3.5|  0.0|INFORM|Created index of 377 records from table Joiner:CSV on fields: `ftid' 
-2017-05-23 15:39:53|   8.0|  4.4|INFORM|Processed 3424 elements with mode CLASSIC
-2017-05-23 15:39:55|  10.0|  2.0|INFORM|XML Reader mapped feature # 5000
-2017-05-23 15:39:55|  10.0|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/87?kommune=1902&antall=5000&start=h2UWhjS2sB91&inkluder=alle' to internal memory buffer
-2017-05-23 15:39:56|  10.2|  0.2|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '7596959 bytes', DNS lookup time: '0 seconds', total transfer time: '1.497 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/87?kommune=1902&antall=5000&start=h2UWhjS2sB91&inkluder=alle'
-2017-05-23 15:39:58|  11.6|  1.4|INFORM|Processed 5621 elements with mode CLASSIC
-2017-05-23 15:40:01|  14.8|  3.2|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/87?kommune=1902&antall=5000&start=hmTrBk38GZgU&inkluder=alle' to internal memory buffer
-2017-05-23 15:40:01|  14.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '303 bytes', DNS lookup time: '0 seconds', total transfer time: '0.016 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/87?kommune=1902&antall=5000&start=hmTrBk38GZgU&inkluder=alle'
-2017-05-23 15:40:03|  16.6|  1.8|INFORM|Processed 11082 elements with mode CLASSIC
-2017-05-23 15:40:08|  21.6|  5.0|INFORM|Processed 18851 elements with mode CLASSIC
-2017-05-23 15:40:10|  24.3|  2.7|INFORM|XML Reader mapped feature # 5000
-2017-05-23 15:40:10|  24.3|  0.0|STATS |Creator_XML_Creator(CreationFactory): Created 1 features
-2017-05-23 15:40:10|  24.3|  0.0|STATS |Creator_Cloner(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |Creator_CREATED Brancher -1 93(BranchingFactory): Branched 1 input feature -- 1 feature routed to the target factory, and 0 features routed to the fallback factory.
-2017-05-23 15:40:10|  24.3|  0.0|STATS |_CREATOR_BRANCH_TARGET(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser _Input Input Collector(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser__Input1491292837 Input Splitter(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_Loop1491292837 Input Splitter(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_HTTPCaller_2 Output Splitter(TeeFactory): Cloned 4 input feature(s) into 8 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_HTTPCaller_2 <Rejected> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|INFORM|NVDB_Leser_XMLFragmenter(XFMapFactory): Total Results: 12729 Mapped Feature(s), 4 Input Feature(s), and 1 Invalid input Feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|INFORM|Optional `close' method not present; not called
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_GeometryReplacer(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_GeometryReplacer_Rejector(TestFactory): Tested 12729 input feature(s) -- 0 feature(s) passed and 12729 feature(s) failed
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_GeometryReplacer OUTPUT Splitter(TeeFactory): Cloned 12729 input feature(s) into 38187 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_CoordinateSystemSetter (Disabled) Nuker(TeeFactory): Cloned 12729 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_CoordinateSystemSetter_2 (Disabled) Nuker(TeeFactory): Cloned 12729 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_3DForcer(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_3DForcer_Rejector(TestFactory): Tested 12729 input feature(s) -- 0 feature(s) passed and 12729 feature(s) failed
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_CoordinateSystemSetter_3(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_Deaggregator(DeaggregateFactory): Split 12729 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 0 polygon(s), 0 line(s), 12729 point(s), and 0 aggregate(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_Deaggregator(DeaggregateFactory): 12729 non-aggregate input features were routed through the factory
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_NullAttributeMapper(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_StringConcatenator(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|INFORM|NVDB_Leser_XMLFragmenter_2(XFMapFactory): Total Results: 4 Mapped Feature(s), 4 Input Feature(s), and 0 Invalid input Feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_TestFilter(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_TestFilter_TestFactory_0(TestFactory): Tested 4 input feature(s) -- 3 feature(s) passed and 1 feature(s) failed
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_TestFilter_<lt>UNFILTERED<gt>(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_TestFilter <lt>UNFILTERED<gt> Output Nuker(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |Loop to NVDB_Leser_Loop1491292837 Input Splitter(BranchingFactory): Branched 3 input features -- 3 features routed to the target factory, and 0 features routed to the fallback factory.
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser_Output1491292837 Output Collector(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser Output Output Renamer/Nuker(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |NVDB_Leser Output Splitter(TeeFactory): Cloned 12729 input feature(s) into 25458 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |ListExploder(ElementFactory): Split out 21845 list elements from 12729 input features, using mode CLASSIC
-2017-05-23 15:40:10|  24.3|  0.0|STATS |ListExploder ELEMENTS Splitter(TeeFactory): Cloned 21845 input feature(s) into 43690 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |AttributeKeeper_2(TeeFactory): Cloned 21845 input feature(s) into 21845 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |StringConcatenator(TeeFactory): Cloned 21845 input feature(s) into 21845 output feature(s)
-2017-05-23 15:40:10|  24.3|  0.0|STATS |ListBuilder_fme_type_remover(TeeFactory): Cloned 21845 input feature(s) into 21845 output feature(s)
-2017-05-23 15:40:13|  27.1|  2.8|STATS |ListBuilder(ListFactory): Combined 21845 input feature(s) into 21793 output feature(s), including 0 singleton(s)
-2017-05-23 15:40:13|  27.1|  0.0|INFORM|Optional `close' method not present; not called
-2017-05-23 15:40:13|  27.1|  0.0|STATS |AttributeRemover_2(TeeFactory): Cloned 21793 input feature(s) into 21793 output feature(s)
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|Potentially retrieving dataset 'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB_enMapping.csv' for reader R_4
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|Retrieved file C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546813561_13656\NVDB_enMapping.csv for reader R_4
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value) (deprecated)
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20170315)
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546813561_13656\'
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: Separator Character: ';'
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: File Has Field Names: yes
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: Encoding name ''
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: Feature type names from file names: no
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546813561_13656\NVDB_enMapping.csv'
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|Creating reader for format: Tabular Data
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|Using Tabular Reader to read files from folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546813561_13656'
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546813561_13656\NVDB_enMapping.csv'
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546813561_13656\NVDB_enMapping.csv for input with delimiter `;'
-2017-05-23 15:40:13|  27.2|  0.0|INFORM|Skipped line `ptid;enid;name;fullname' in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546813561_13656\NVDB_enMapping.csv'
-2017-05-23 15:40:13|  27.4|  0.1|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546813561_13656\NVDB_enMapping.csv'
-2017-05-23 15:40:13|  27.4|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546813561_13656\'
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|Potentially retrieving dataset 'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB_ptMapping.csv' for reader R_6
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|Retrieved file C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_14955468140_13656\NVDB_ptMapping.csv for reader R_6
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value) (deprecated)
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20170315)
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_14955468140_13656\'
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: Separator Character: ';'
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: File Has Field Names: yes
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: Encoding name ''
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: Feature type names from file names: no
-2017-05-23 15:40:14|  27.4|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_14955468140_13656\NVDB_ptMapping.csv'
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|Creating reader for format: Tabular Data
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|Using Tabular Reader to read files from folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_14955468140_13656'
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_14955468140_13656\NVDB_ptMapping.csv'
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_14955468140_13656\NVDB_ptMapping.csv for input with delimiter `;'
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|Skipped line `ft_attr;ftid;ptid;name' in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_14955468140_13656\NVDB_ptMapping.csv'
-2017-05-23 15:40:14|  27.5|  0.1|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_14955468140_13656\NVDB_ptMapping.csv'
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_14955468140_13656\'
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|Potentially retrieving dataset 'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB_ftMapping.csv' for reader R_8
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|Retrieved file C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546814268_13656\NVDB_ftMapping.csv for reader R_8
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value) (deprecated)
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20170315)
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546814268_13656\'
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Separator Character: ';'
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: File Has Field Names: yes
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Encoding name ''
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Feature type names from file names: no
-2017-05-23 15:40:14|  27.5|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546814268_13656\NVDB_ftMapping.csv'
-2017-05-23 15:40:14|  27.6|  0.0|INFORM|Creating reader for format: Tabular Data
-2017-05-23 15:40:14|  27.6|  0.0|INFORM|Using Tabular Reader to read files from folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546814268_13656'
-2017-05-23 15:40:14|  27.6|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546814268_13656\NVDB_ftMapping.csv'
-2017-05-23 15:40:14|  27.6|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546814268_13656\NVDB_ftMapping.csv for input with delimiter `;'
-2017-05-23 15:40:14|  27.6|  0.0|INFORM|Skipped line `ftid;name' in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546814268_13656\NVDB_ftMapping.csv'
-2017-05-23 15:40:14|  27.6|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546814268_13656\NVDB_ftMapping.csv'
-2017-05-23 15:40:14|  27.6|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1495546814268_13656\'
-2017-05-23 15:40:14|  27.7|  0.2|INFORM|Creating writer for format: 
-2017-05-23 15:40:14|  27.7|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2017-05-23 15:40:14|  27.7|  0.0|INFORM|Using MultiWriter with keyword `GML_1_FANOUT' to output data (ID_ATTRIBUTE is `multi_writer_id')
-2017-05-23 15:40:14|  27.7|  0.0|INFORM|Writer output will be ordered by input dataset ordering
-2017-05-23 15:40:14|  27.7|  0.0|INFORM|Writer `GML_1_FANOUT' of type `MULTI_WRITER' using group definition keyword `MULTI_WRITER_DEF'
-2017-05-23 15:40:14|  27.8|  0.1|INFORM|Creating writer for format: GML (Geography Markup Language)
-2017-05-23 15:40:14|  27.9|  0.1|INFORM|Trying to find a DYNAMIC plugin for writer named `GML'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|Loaded module 'GML' from file 'C:\Program Files\FME2017\64\plugins/GML.dll'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|FME API version of module 'GML' matches current internal version (3.8 20170315)
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|FME API version of module 'GML' matches current internal version (3.8 20170315)
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|Writer `GML_1' of type `GML' using group definition keyword `GML_1_DEF'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|FME API version of module 'GML' matches current internal version (3.8 20170315)
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|<GML_1 Writer> - Using GML 'GENERIC_APPLICATION_SCHEMA' profile writer
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2017\64\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2017\64\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2017\64\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2017\64\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|URI 'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/87.xsd' mapped to 'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/87.xsd'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/87.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014432_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|Parsing schema document 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014432_12248.xml' ...
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/181.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014551_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from '../../xlink/1.0.0/xlinks.xsd' to 'xlink.xsd'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from '../../../../xlink/1.0.0/xlinks.xsd' to 'xlink.xsd'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from '../../../../xlink/1.0.0/xlinks.xsd' to 'xlink.xsd'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/277.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014626_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/297.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014648_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/446.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014671_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/461.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014694_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/481.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014721_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/67.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014743_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/762.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014769_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/794.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014793_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/86.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014815_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/87.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014432_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/88.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014840_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/SOSIFelles.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014868_12248.xml'
-2017-05-23 15:40:14|  27.9|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/87/Belysningspunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1495443014527_12248.xml'
-2017-05-23 15:40:14|  28.0|  0.0|INFORM|<GML_1 Writer> - Map Embedded Object as: 'ATTRIBUTES'
-2017-05-23 15:40:14|  28.0|  0.0|INFORM|<GML_1 Writer> - Map Predefined Properties: 'NO'
-2017-05-23 15:40:14|  28.0|  0.0|INFORM|<GML_1 Writer> - Map All Substitutable Properties: 'YES'
-2017-05-23 15:40:14|  28.0|  0.0|INFORM|<GML_1 Writer> - Map Complex Properties as: 'NESTED_ATTRIBUTES'
-2017-05-23 15:40:14|  28.0|  0.0|INFORM|<GML_1 Writer> - Add XML Namespace Prefix to: 'UNSET'
-2017-05-23 15:40:14|  28.0|  0.0|INFORM|<GML_1 Writer> - Limit Number of Lists in Nested Attributes: 'UNSET'
-2017-05-23 15:40:14|  28.0|  0.0|INFORM|Using XSD semantics configuration file 'file:///C:/Program Files/FME2017/64/xml/gml_v3.2/gml_config.xml'.
-2017-05-23 15:40:14|  28.0|  0.1|INFORM|FME Configuration: Destination coordinate system set to input coordinate system `EPSG:6173'
-2017-05-23 15:40:15|  28.3|  0.2|INFORM|<GML_1 Writer> - Calculating dataset bounding box, please wait...
-2017-05-23 15:40:15|  28.3|  0.0|INFORM|Predefined coordinate system `ETRS89.UTM-33N' (Transverse Mercator (ETRS89-TM33)) matches dataset coordinate system 
-2017-05-23 15:40:15|  28.3|  0.0|INFORM|The EPSG number of the FME coordinate system 'ETRS89.UTM-33N' is '6173'
-2017-05-23 15:40:18|  31.1|  2.8|INFORM|FeatureMerger_3(ReferenceFactory): Processing requestors: Completed 25.92% of intermediate processing
-2017-05-23 15:40:23|  36.1|  5.0|INFORM|FeatureMerger_3(ReferenceFactory): Processing requestors: Completed 68.34% of intermediate processing
-2017-05-23 15:40:27|  40.4|  4.2|INFORM|FeatureMerger_3(ReferenceFactory): Processing requestors: Completed 100% of intermediate processing
-2017-05-23 15:40:27|  40.5|  0.1|STATS |FeatureMerger_3(ReferenceFactory): Total Results: 12658 Complete Feature(s), 71 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |FeatureMerger_3_NOT_MERGED_-__SchemaMapper(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |TestFilter(TeeFactory): Cloned 21845 input feature(s) into 21845 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |TestFilter_TestFactory_0(TestFactory): Tested 21845 input feature(s) -- 0 feature(s) passed and 21845 feature(s) failed
-2017-05-23 15:40:27|  40.5|  0.0|STATS |TestFilter_<lt>UNFILTERED<gt>(TeeFactory): Cloned 21845 input feature(s) into 21845 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |TestFilter <lt>UNFILTERED<gt> Output Nuker(TeeFactory): Cloned 21845 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2 _Input Input Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2__Input1491292837 Input Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_Loop1491292837 Input Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_HTTPCaller_2 Output Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_HTTPCaller_2 <Rejected> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|INFORM|NVDB_Leser_2_XMLFragmenter(XFMapFactory): Total Results: 0 Mapped Feature(s), 0 Input Feature(s), and 0 Invalid input Feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|INFORM|Optional `close' method not present; not called
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_GeometryReplacer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_GeometryReplacer_Rejector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_GeometryReplacer OUTPUT Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_CoordinateSystemSetter (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_CoordinateSystemSetter_2 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_3DForcer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_3DForcer_Rejector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_CoordinateSystemSetter_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_Deaggregator(DeaggregateFactory): Split 0 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 0 polygon(s), 0 line(s), 0 point(s), and 0 aggregate(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_NullAttributeMapper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_StringConcatenator(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|INFORM|NVDB_Leser_2_XMLFragmenter_2(XFMapFactory): Total Results: 0 Mapped Feature(s), 0 Input Feature(s), and 0 Invalid input Feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_TestFilter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_TestFilter_TestFactory_0(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_TestFilter_<lt>UNFILTERED<gt>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_TestFilter <lt>UNFILTERED<gt> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |Loop to NVDB_Leser_2_Loop1491292837 Input Splitter(BranchingFactory): Branched 0 input features -- 0 features routed to the target factory, and 0 features routed to the fallback factory.
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2_Output1491292837 Output Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2 Output Output Renamer/Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NVDB_Leser_2 Output Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |ListExploder_2(ElementFactory): Split out 0 list elements from 0 input features, using mode CLASSIC
-2017-05-23 15:40:27|  40.5|  0.0|STATS |AttributeKeeper_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |StringConcatenator_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |ListBuilder_2_fme_type_remover(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |ListBuilder_2(ListFactory): Combined 0 input feature(s) into 0 output feature(s), including 0 singleton(s)
-2017-05-23 15:40:27|  40.5|  0.0|INFORM|Optional `close' method not present; not called
-2017-05-23 15:40:27|  40.5|  0.0|STATS |AttributeRemover_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |FeatureMerger_4(ReferenceFactory): Total Results: 0 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |NullAttributeMapper_3(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |AttributeExposer(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |GeometryFilter_InputPassThrough(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |GeometryFilter_RouterPrepper(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |GeometryFilter_Router(TestFactory): Tested 12729 input feature(s) -- 12729 feature(s) passed and 0 feature(s) failed
-2017-05-23 15:40:27|  40.5|  0.0|STATS |GeometryFilter <UNFILTERED> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |GeometryPropertySetter_3_Outputter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |GeometryPropertySetter_4_Outputter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |AttributeRemover(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |GeometryPropertySetter_Outputter(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |GeometryPropertySetter_SET(TeeFactory): Cloned 12729 input feature(s) into 12729 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |GeometryPropertySetter_SET Output Splitter(TeeFactory): Cloned 12729 input feature(s) into 25458 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |Inspector (Disabled) Nuker(TeeFactory): Cloned 12729 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 12729 input feature(s), wrote 12729 output feature(s): 0 matched merge filters, 12729 were routed to output, 0 could not be routed.
-2017-05-23 15:40:27|  40.5|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-05-23 15:40:27|  40.5|  0.0|INFORM|<GML_1 Writer> - Writing the GML document 'C:\DATA\GitHub\GLA\Data\kommune\1902\87\Belysningspunkt.gml'
-2017-05-23 15:40:32|  45.7|  5.2|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|INFORM|Feature output statistics for `GML' writer using keyword `GML_1':
-2017-05-23 15:40:32|  45.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|STATS |                               Features Written
-2017-05-23 15:40:32|  45.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|STATS |Belysningspunkt                                                          12729
-2017-05-23 15:40:32|  45.7|  0.0|STATS |==============================================================================
-2017-05-23 15:40:32|  45.7|  0.0|STATS |Total Features Written                                                   12729
-2017-05-23 15:40:32|  45.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|INFORM|Feature output statistics for `MULTI_WRITER' writer using keyword `GML_1_FANOUT':
-2017-05-23 15:40:32|  45.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|STATS |                               Features Written
-2017-05-23 15:40:32|  45.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|STATS |Belysningspunkt                                                          12729
-2017-05-23 15:40:32|  45.7|  0.0|STATS |==============================================================================
-2017-05-23 15:40:32|  45.7|  0.0|STATS |Total Features Written                                                   12729
-2017-05-23 15:40:32|  45.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|STATS |                            Features Read Summary
-2017-05-23 15:40:32|  45.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|STATS |==============================================================================
-2017-05-23 15:40:32|  45.7|  0.0|STATS |Total Features Read                                                          0
-2017-05-23 15:40:32|  45.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|STATS |                           Features Written Summary
-2017-05-23 15:40:32|  45.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.7|  0.0|STATS |Belysningspunkt                                                          12729
-2017-05-23 15:40:32|  45.7|  0.0|STATS |==============================================================================
-2017-05-23 15:40:32|  45.7|  0.0|STATS |Total Features Written                                                   12729
-2017-05-23 15:40:32|  45.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-05-23 15:40:32|  45.8|  0.0|INFORM|Translation was SUCCESSFUL with 0 warning(s) (12729 feature(s) output)
-2017-05-23 15:40:32|  45.8|  0.0|INFORM|FME Session Duration: 58.1 seconds. (CPU: 43.9s user, 1.5s system)
-2017-05-23 15:40:32|  45.8|  0.0|INFORM|END - ProcessID: 13656, peak process memory usage: 780856 kB, current process memory usage: 350708 kB
+2018-07-13 15:15:42|   0.3|  0.3|INFORM|FME 2018.0.1.0 (20180518 - Build 18310 - WIN64)
+2018-07-13 15:15:42|   0.3|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2018-07-13 15:15:42|   0.3|  0.0|INFORM|FME Desktop ESRI Edition (floating)
+2018-07-13 15:15:42|   0.3|  0.0|INFORM|Permanent License.
+2018-07-13 15:15:42|   0.3|  0.0|INFORM|Machine host name is: SVV-58758
+2018-07-13 15:15:42|   0.3|  0.0|INFORM|START - ProcessID: 10900, peak process memory usage: 44316 kB, current process memory usage: 44316 kB
+2018-07-13 15:15:42|   0.3|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `C:/DATA/GitHub/GLA/FMW/NVDBAPI2GML_V2_2017.fmw' `--ftID' `481' `--omr' `kommune' `--omrNvn' `501' `--gmlFolder' `C:\DATA\GitHub\GLA\Data' `--dwnlAssObj' `Nei'
+2018-07-13 15:15:42|   0.3|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\knjetl\AppData\Roaming\Safe Software\FME\'
+2018-07-13 15:15:42|   0.4|  0.1|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;\\SVV1P04AUSER01\KNJETL$\documents\FME\Formats
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Shared folders for transformers are : C:\Users\knjetl\AppData\Roaming\Safe Software\FME\Packages\18310-win64\transformers;C:\Program Files\FME\transformers;\\SVV1P04AUSER01\KNJETL$\documents\FME\Transformers;C:\Users\knjetl\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Shared folders for coordinate systems are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystems
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Shared folders for coordinate system exceptions are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystemExceptions
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Shared folders for coordinate system grid overrides are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystemGridOverrides
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CsmapTransformationExceptions
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Shared folders for transformer categories are : \\SVV1P04AUSER01\KNJETL$\documents\FME\TransformerCategories
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: Reader Keyword is `NULL_SOURCE'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: Reader type is `NULL'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: Current working folder is `C:\DATA\GitHub\GLA\FMW'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\knjetl\AppData\Local\Temp', set from environment variable `TEMP'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\DATA\GitHub\GLA\FMW/'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'NVDBAPI2GML_V2_2017.fmw'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2018.0.1.0'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|System Status: 248.22 GB of disk space available in the FME temporary folder (C:\Users\knjetl\AppData\Local\Temp)
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|System Status: 8.00 TB of virtual memory available
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Operating System: Microsoft Windows 7 64-bit Service Pack 1 (Build 7601)
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Platform: WIN64
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Locale: nb_NO
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Code Page: 1252  (ANSI - latin I)
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: Process limit is 31.83 GB of physical memory
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 95.50 GB of virtual memory
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 71.63 GB of virtual memory
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Creating writer for format: 
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Creating reader for format: NULL (Nothing)
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `NULL'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Loaded module 'NULL' from file 'C:\Program Files\FME\plugins/NULL.dll'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.8 20180209)
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Loaded module 'Geometry_func' from file 'C:\Program Files\FME\plugins/Geometry_func.dll'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.8 20180209)
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|Loaded module 'HTTPFactory' from file 'C:\Program Files\FME\plugins/HTTPFactory.dll'
+2018-07-13 15:15:42|   0.4|  0.0|INFORM|FME API version of module 'HTTPFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|Loaded module 'XFMapFactory' from file 'C:\Program Files\FME\plugins/XFMapFactory.dll'
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|Loaded module 'PythonFactory' from file 'C:\Program Files\FME\plugins/PythonFactory.dll'
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|Adding folder `C:\DATA\GitHub\GLA\FMW\' to the python path
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|Loaded module 'OGCGeometry_func' from file 'C:\Program Files\FME\plugins/OGCGeometry_func.dll'
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'OGCGeometry_func' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|Loaded module 'JoinFactory' from file 'C:\Program Files\FME\plugins/JoinFactory.dll'
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'JoinFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|Loaded module 'DuplicateRemoverFactory' from file 'C:\Program Files\FME\plugins/DuplicateRemoverFactory.dll'
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'DuplicateRemoverFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'HTTPFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'JoinFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|Loaded module 'GQueryFactory' from file 'C:\Program Files\FME\plugins/GQueryFactory.dll'
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|... Last line repeated 2 times ...
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|Emptying factory pipeline
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/481?kommune=501&antall=5000&inkluder=alle' to internal memory buffer
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '8205 bytes', DNS lookup time: '0.015 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/481?kommune=501&antall=5000&inkluder=alle'
+2018-07-13 15:15:43|   0.4|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2018-07-13 15:15:43|   0.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/481?kommune=501&antall=5000&start=iVce6hdJirDc&inkluder=alle' to internal memory buffer
+2018-07-13 15:15:43|   0.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '282 bytes', DNS lookup time: '1e-6 seconds', total transfer time: '0.094 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/481?kommune=501&antall=5000&start=iVce6hdJirDc&inkluder=alle'
+2018-07-13 15:15:43|   0.5|  0.0|STATS |Creator_XML_Creator(CreationFactory): Created 1 features
+2018-07-13 15:15:43|   0.5|  0.0|STATS |Creator_Cloner(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |Creator_CREATED Brancher -1 93(BranchingFactory): Branched 1 input feature -- 1 feature routed to the target factory, and 0 features routed to the fallback factory.
+2018-07-13 15:15:43|   0.5|  0.0|STATS |_CREATOR_BRANCH_TARGET(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser _Input Input Collector(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser__Input1491292837 Input Splitter(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_Loop1491292837 Input Splitter(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_HTTPCaller_2 Output Splitter(TeeFactory): Cloned 2 input feature(s) into 4 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_HTTPCaller_2 <Rejected> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|INFORM|NVDB_Leser_XMLFragmenter(XFMapFactory): Total Results: 3 Mapped Feature(s), 2 Input Feature(s), and 1 Invalid input Feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|INFORM|Optional `close' method not present; not called
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_GeometryReplacer(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_GeometryReplacer_Rejector(TestFactory): Tested 3 input feature(s) -- 0 feature(s) passed and 3 feature(s) failed
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_GeometryReplacer OUTPUT Splitter(TeeFactory): Cloned 3 input feature(s) into 9 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_CoordinateSystemSetter (Disabled) Nuker(TeeFactory): Cloned 3 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_CoordinateSystemSetter_2 (Disabled) Nuker(TeeFactory): Cloned 3 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_3DForcer(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_3DForcer_Rejector(TestFactory): Tested 3 input feature(s) -- 0 feature(s) passed and 3 feature(s) failed
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_CoordinateSystemSetter_3(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_Deaggregator(DeaggregateFactory): Split 3 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 0 polygon(s), 0 line(s), 3 point(s), and 0 aggregate(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_Deaggregator(DeaggregateFactory): 3 non-aggregate input features were routed through the factory
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_NullAttributeMapper(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_StringConcatenator(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|INFORM|NVDB_Leser_XMLFragmenter_2(XFMapFactory): Total Results: 2 Mapped Feature(s), 2 Input Feature(s), and 0 Invalid input Feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_TestFilter(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_TestFilter_TestFactory_0(TestFactory): Tested 2 input feature(s) -- 1 feature(s) passed and 1 feature(s) failed
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_TestFilter_<lt>UNFILTERED<gt>(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_TestFilter <lt>UNFILTERED<gt> Output Nuker(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |Loop to NVDB_Leser_Loop1491292837 Input Splitter(BranchingFactory): Branched 1 input feature -- 1 feature routed to the target factory, and 0 features routed to the fallback factory.
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser_Output1491292837 Output Collector(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser Output Output Renamer/Nuker(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |NVDB_Leser Output Splitter(TeeFactory): Cloned 3 input feature(s) into 6 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |ListExploder(ElementFactory): Split out 0 list elements from 3 input features, using mode CLASSIC
+2018-07-13 15:15:43|   0.5|  0.0|STATS |ListExploder ELEMENTS Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |AttributeKeeper_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |StringConcatenator(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |ListBuilder_fme_type_remover(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|STATS |ListBuilder(ListFactory): Combined 0 input feature(s) into 0 output feature(s), including 0 singleton(s)
+2018-07-13 15:15:43|   0.5|  0.0|INFORM|Optional `close' method not present; not called
+2018-07-13 15:15:43|   0.5|  0.0|STATS |AttributeRemover_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:43|   0.5|  0.0|INFORM|Potentially retrieving dataset 'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB_enMapping.csv' for reader R_1
+2018-07-13 15:15:43|   0.5|  0.0|INFORM|Retrieved file C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743484_10900\NVDB_enMapping.csv for reader R_1
+2018-07-13 15:15:43|   0.5|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value) (replaced by CSV2)
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|Loaded module 'CSV' from file 'C:\Program Files\FME\plugins/CSV.dll'
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20180209)
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743484_10900\'
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: Encoding name ''
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743484_10900\NVDB_enMapping.csv'
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|Creating reader for format: Tabular Data
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|Using Tabular Reader to read files from folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743484_10900'
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743484_10900\NVDB_enMapping.csv'
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743484_10900\NVDB_enMapping.csv for input with delimiter `;'
+2018-07-13 15:15:43|   0.6|  0.0|INFORM|Skipped line `ptid;enid;name;fullname' in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743484_10900\NVDB_enMapping.csv'
+2018-07-13 15:15:43|   0.7|  0.1|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743484_10900\NVDB_enMapping.csv'
+2018-07-13 15:15:43|   0.7|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743484_10900\'
+2018-07-13 15:15:43|   0.8|  0.0|INFORM|Potentially retrieving dataset 'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB_ptMapping.csv' for reader R_3
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|Retrieved file C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743957_10900\NVDB_ptMapping.csv for reader R_3
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value) (replaced by CSV2)
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20180209)
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743957_10900\'
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: Encoding name ''
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743957_10900\NVDB_ptMapping.csv'
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|Creating reader for format: Tabular Data
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|Using Tabular Reader to read files from folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743957_10900'
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743957_10900\NVDB_ptMapping.csv'
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743957_10900\NVDB_ptMapping.csv for input with delimiter `;'
+2018-07-13 15:15:44|   0.8|  0.0|INFORM|Skipped line `ft_attr;ftid;ptid;name' in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743957_10900\NVDB_ptMapping.csv'
+2018-07-13 15:15:44|   0.9|  0.1|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743957_10900\NVDB_ptMapping.csv'
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487743957_10900\'
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|Potentially retrieving dataset 'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB_ftMapping.csv' for reader R_5
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|Retrieved file C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487744179_10900\NVDB_ftMapping.csv for reader R_5
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value) (replaced by CSV2)
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20180209)
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487744179_10900\'
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Encoding name ''
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487744179_10900\NVDB_ftMapping.csv'
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|Creating reader for format: Tabular Data
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|Using Tabular Reader to read files from folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487744179_10900'
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487744179_10900\NVDB_ftMapping.csv'
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487744179_10900\NVDB_ftMapping.csv for input with delimiter `;'
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|Skipped line `ftid;name' in CSV File `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487744179_10900\NVDB_ftMapping.csv'
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487744179_10900\NVDB_ftMapping.csv'
+2018-07-13 15:15:44|   0.9|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\FME_TempFileStore_1531487744179_10900\'
+2018-07-13 15:15:44|   1.1|  0.1|INFORM|Creating writer for format: 
+2018-07-13 15:15:44|   1.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2018-07-13 15:15:44|   1.1|  0.0|INFORM|Using MultiWriter with keyword `GML_1_FANOUT' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2018-07-13 15:15:44|   1.1|  0.0|INFORM|Writer output will be ordered by input dataset ordering
+2018-07-13 15:15:44|   1.1|  0.0|INFORM|Writer `GML_1_FANOUT' of type `MULTI_WRITER' using group definition keyword `MULTI_WRITER_DEF'
+2018-07-13 15:15:44|   1.1|  0.1|INFORM|Creating writer for format: GML (Geography Markup Language)
+2018-07-13 15:15:44|   1.2|  0.1|INFORM|Trying to find a DYNAMIC plugin for writer named `GML'
+2018-07-13 15:15:44|   1.2|  0.0|INFORM|Loaded module 'GML' from file 'C:\Program Files\FME\plugins/GML.dll'
+2018-07-13 15:15:44|   1.2|  0.0|INFORM|FME API version of module 'GML' matches current internal version (3.8 20180209)
+2018-07-13 15:15:44|   1.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2018-07-13 15:15:44|   1.2|  0.0|INFORM|FME API version of module 'GML' matches current internal version (3.8 20180209)
+2018-07-13 15:15:44|   1.2|  0.0|INFORM|Writer `GML_1' of type `GML' using group definition keyword `GML_1_DEF'
+2018-07-13 15:15:44|   1.2|  0.0|INFORM|FME API version of module 'GML' matches current internal version (3.8 20180209)
+2018-07-13 15:15:44|   1.2|  0.0|INFORM|<GML_1 Writer> - Using GML 'GENERIC_APPLICATION_SCHEMA' profile writer
+2018-07-13 15:15:44|   1.2|  0.0|INFORM|FME Configuration: Destination coordinate system set to input coordinate system `EPSG:6173'
+2018-07-13 15:15:45|   1.5|  0.3|INFORM|<GML_1 Writer> - Calculating dataset bounding box, please wait...
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|Predefined coordinate system `ETRS89.UTM-33N' (Transverse Mercator (ETRS89-TM33)) matches dataset coordinate system 
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|The EPSG number of the FME coordinate system 'ETRS89.UTM-33N' is '6173'
+2018-07-13 15:15:45|   1.5|  0.0|STATS |FeatureMerger_3(ReferenceFactory): Total Results: 0 Complete Feature(s), 3 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |FeatureMerger_3_NOT_MERGED_-__SchemaMapper(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |TestFilter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |TestFilter_TestFactory_0(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2018-07-13 15:15:45|   1.5|  0.0|STATS |TestFilter_<lt>UNFILTERED<gt>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |TestFilter <lt>UNFILTERED<gt> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2 _Input Input Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2__Input1491292837 Input Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_Loop1491292837 Input Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_HTTPCaller_2 Output Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_HTTPCaller_2 <Rejected> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|NVDB_Leser_2_XMLFragmenter(XFMapFactory): Total Results: 0 Mapped Feature(s), 0 Input Feature(s), and 0 Invalid input Feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|Optional `close' method not present; not called
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_GeometryReplacer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_GeometryReplacer_Rejector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_GeometryReplacer OUTPUT Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_CoordinateSystemSetter (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_CoordinateSystemSetter_2 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_3DForcer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_3DForcer_Rejector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_CoordinateSystemSetter_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_Deaggregator(DeaggregateFactory): Split 0 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 0 polygon(s), 0 line(s), 0 point(s), and 0 aggregate(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_NullAttributeMapper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_StringConcatenator(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|NVDB_Leser_2_XMLFragmenter_2(XFMapFactory): Total Results: 0 Mapped Feature(s), 0 Input Feature(s), and 0 Invalid input Feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_TestFilter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_TestFilter_TestFactory_0(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_TestFilter_<lt>UNFILTERED<gt>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_TestFilter <lt>UNFILTERED<gt> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |Loop to NVDB_Leser_2_Loop1491292837 Input Splitter(BranchingFactory): Branched 0 input features -- 0 features routed to the target factory, and 0 features routed to the fallback factory.
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2_Output1491292837 Output Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2 Output Output Renamer/Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NVDB_Leser_2 Output Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |ListExploder_2(ElementFactory): Split out 0 list elements from 0 input features, using mode CLASSIC
+2018-07-13 15:15:45|   1.5|  0.0|STATS |AttributeKeeper_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |StringConcatenator_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |ListBuilder_2_fme_type_remover(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |ListBuilder_2(ListFactory): Combined 0 input feature(s) into 0 output feature(s), including 0 singleton(s)
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|Optional `close' method not present; not called
+2018-07-13 15:15:45|   1.5|  0.0|STATS |AttributeRemover_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |FeatureMerger_4(ReferenceFactory): Total Results: 0 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |NullAttributeMapper_3(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |AttributeExposer(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |GeometryFilter_InputPassThrough(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |GeometryFilter_RouterPrepper(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |GeometryFilter_Router(TestFactory): Tested 3 input feature(s) -- 3 feature(s) passed and 0 feature(s) failed
+2018-07-13 15:15:45|   1.5|  0.0|STATS |GeometryFilter <UNFILTERED> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |GeometryPropertySetter_3_Outputter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |GeometryPropertySetter_4_Outputter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |AttributeRemover(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |GeometryPropertySetter_Outputter(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |GeometryPropertySetter_SET(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |GeometryPropertySetter_SET Output Splitter(TeeFactory): Cloned 3 input feature(s) into 6 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |Inspector (Disabled) Nuker(TeeFactory): Cloned 3 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 3 input feature(s), wrote 3 output feature(s): 0 matched merge filters, 3 were routed to output, 0 could not be routed.
+2018-07-13 15:15:45|   1.5|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\xml\urimap\gml_sosi.xml' is being used to map from URI to URI
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|URI 'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/481.xsd' mapped to 'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/481.xsd'
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/481.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487178966_4140.xml'
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|Parsing schema document 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487178966_4140.xml' ...
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/Tennpunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487179217_4140.xml'
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/297.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487179417_4140.xml'
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/Tennpunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487179217_4140.xml'
+2018-07-13 15:15:45|   1.5|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from '../../xlink/1.0.0/xlinks.xsd' to 'xlink.xsd'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from '../../../../xlink/1.0.0/xlinks.xsd' to 'xlink.xsd'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from '../../../../xlink/1.0.0/xlinks.xsd' to 'xlink.xsd'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/446.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487179917_4140.xml'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/Tennpunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487179217_4140.xml'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/461.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487180134_4140.xml'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/Tennpunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487179217_4140.xml'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/481.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487178966_4140.xml'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/794.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487180321_4140.xml'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/Tennpunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487179217_4140.xml'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/87.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487180515_4140.xml'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/Tennpunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487179217_4140.xml'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/SOSIFelles.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487180735_4140.xml'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|'https://raw.githubusercontent.com/jetgeo/NVDBGML/master/XSD/NVDB/481/Tennpunkt.xsd' mapped to 'C:\Users\knjetl\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1531487179217_4140.xml'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|<GML_1 Writer> - Map Embedded Object as: 'ATTRIBUTES'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|<GML_1 Writer> - Map Predefined Properties: 'NO'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|<GML_1 Writer> - Map All Substitutable Properties: 'YES'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|<GML_1 Writer> - Map Complex Properties as: 'NESTED_ATTRIBUTES'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|<GML_1 Writer> - Add XML Namespace Prefix to: 'UNSET'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|<GML_1 Writer> - Limit Number of Lists in Nested Attributes: 'UNSET'
+2018-07-13 15:15:45|   1.6|  0.0|INFORM|Using XSD semantics configuration file 'file:///C:/Program Files/FME/xml/gml_v3.2/gml_config.xml'.
+2018-07-13 15:15:45|   1.7|  0.1|INFORM|<GML_1 Writer> - Writing the GML document 'C:\DATA\GitHub\GLA\Data\kommune\501\481\Tennpunkt.gml'
+2018-07-13 15:15:45|   1.7|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|INFORM|Feature output statistics for `GML' writer using keyword `GML_1':
+2018-07-13 15:15:45|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|STATS |                               Features Written
+2018-07-13 15:15:45|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|STATS |Tennpunkt                                                                    3
+2018-07-13 15:15:45|   1.7|  0.0|STATS |==============================================================================
+2018-07-13 15:15:45|   1.7|  0.0|STATS |Total Features Written                                                       3
+2018-07-13 15:15:45|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|INFORM|Feature output statistics for `MULTI_WRITER' writer using keyword `GML_1_FANOUT':
+2018-07-13 15:15:45|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|STATS |                               Features Written
+2018-07-13 15:15:45|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|STATS |Tennpunkt                                                                    3
+2018-07-13 15:15:45|   1.7|  0.0|STATS |==============================================================================
+2018-07-13 15:15:45|   1.7|  0.0|STATS |Total Features Written                                                       3
+2018-07-13 15:15:45|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|STATS |                            Features Read Summary
+2018-07-13 15:15:45|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|STATS |==============================================================================
+2018-07-13 15:15:45|   1.7|  0.0|STATS |Total Features Read                                                          0
+2018-07-13 15:15:45|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|STATS |                           Features Written Summary
+2018-07-13 15:15:45|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|STATS |Tennpunkt                                                                    3
+2018-07-13 15:15:45|   1.7|  0.0|STATS |==============================================================================
+2018-07-13 15:15:45|   1.7|  0.0|STATS |Total Features Written                                                       3
+2018-07-13 15:15:45|   1.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-07-13 15:15:45|   1.7|  0.0|INFORM|Translation was SUCCESSFUL with 0 warning(s) (3 feature(s) output)
+2018-07-13 15:15:45|   1.7|  0.0|INFORM|FME Session Duration: 3.2 seconds. (CPU: 1.0s user, 0.4s system)
+2018-07-13 15:15:45|   1.7|  0.0|INFORM|END - ProcessID: 10900, peak process memory usage: 155716 kB, current process memory usage: 137756 kB
